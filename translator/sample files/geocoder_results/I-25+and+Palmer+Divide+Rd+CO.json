@@ -1,0 +1,57 @@
+{
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "Interstate 25",
+                    "short_name": "I-25",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                }
+            ],
+            "formatted_address": "I-25, United States",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 44.37022349999999,
+                        "lng": -104.3791912
+                    },
+                    "southwest": {
+                        "lat": 32.2086936,
+                        "lng": -107.3375791
+                    }
+                },
+                "location": {
+                    "lat": 37.935871,
+                    "lng": -104.8172248
+                },
+                "location_type": "GEOMETRIC_CENTER",
+                "viewport": {
+                    "northeast": {
+                        "lat": 44.37022349999999,
+                        "lng": -104.3791912
+                    },
+                    "southwest": {
+                        "lat": 32.2086936,
+                        "lng": -107.3375791
+                    }
+                }
+            },
+            "partial_match": true,
+            "place_id": "ChIJNUYdNlIBFYcRtGLWx4YX_4E",
+            "types": [
+                "route"
+            ]
+        }
+    ],
+    "status": "OK"
+}

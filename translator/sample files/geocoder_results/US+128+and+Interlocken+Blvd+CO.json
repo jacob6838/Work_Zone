@@ -1,0 +1,93 @@
+{
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "350",
+                    "short_name": "350",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Interlocken Boulevard",
+                    "short_name": "Interlocken Blvd",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Interlocken",
+                    "short_name": "Interlocken",
+                    "types": [
+                        "neighborhood",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Broomfield",
+                    "short_name": "Broomfield",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Broomfield County",
+                    "short_name": "Broomfield County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Colorado",
+                    "short_name": "CO",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "80021",
+                    "short_name": "80021",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "350 Interlocken Blvd, Broomfield, CO 80021, USA",
+            "geometry": {
+                "location": {
+                    "lat": 39.9219926,
+                    "lng": -105.1089994
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 39.9233415802915,
+                        "lng": -105.1076504197085
+                    },
+                    "southwest": {
+                        "lat": 39.9206436197085,
+                        "lng": -105.1103483802915
+                    }
+                }
+            },
+            "place_id": "ChIJSws93Z2La4cRlTw4ghmefEk",
+            "types": [
+                "establishment",
+                "point_of_interest"
+            ]
+        }
+    ],
+    "status": "OK"
+}

@@ -1,0 +1,57 @@
+{
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "Interstate 70",
+                    "short_name": "I-70",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                }
+            ],
+            "formatted_address": "I-70, United States",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 40.2597846,
+                        "lng": -76.6874701
+                    },
+                    "southwest": {
+                        "lat": 38.5027188,
+                        "lng": -112.6198649
+                    }
+                },
+                "location": {
+                    "lat": 39.1140115,
+                    "lng": -94.6164282
+                },
+                "location_type": "GEOMETRIC_CENTER",
+                "viewport": {
+                    "northeast": {
+                        "lat": 40.2597846,
+                        "lng": -76.6874701
+                    },
+                    "southwest": {
+                        "lat": 38.5027188,
+                        "lng": -112.6198649
+                    }
+                }
+            },
+            "partial_match": true,
+            "place_id": "ChIJPZMBta9cwIcRapDEB9MDLIk",
+            "types": [
+                "route"
+            ]
+        }
+    ],
+    "status": "OK"
+}

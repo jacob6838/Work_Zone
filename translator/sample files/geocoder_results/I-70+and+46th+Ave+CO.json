@@ -1,0 +1,98 @@
+{
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "3543",
+                    "short_name": "3543",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "East 46th Avenue",
+                    "short_name": "E 46th Ave",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Elyria-Swansea",
+                    "short_name": "Elyria-Swansea",
+                    "types": [
+                        "neighborhood",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Denver",
+                    "short_name": "Denver",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Denver County",
+                    "short_name": "Denver County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Colorado",
+                    "short_name": "CO",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "80216",
+                    "short_name": "80216",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "3543 E 46th Ave, Denver, CO 80216, USA",
+            "geometry": {
+                "location": {
+                    "lat": 39.7814178,
+                    "lng": -104.9464874
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 39.7827667802915,
+                        "lng": -104.9451384197085
+                    },
+                    "southwest": {
+                        "lat": 39.7800688197085,
+                        "lng": -104.9478363802915
+                    }
+                }
+            },
+            "place_id": "ChIJpxNwPXN5bIcRqp9is5K-1AI",
+            "plus_code": {
+                "compound_code": "Q3J3+HC Denver, CO, USA",
+                "global_code": "85FQQ3J3+HC"
+            },
+            "types": [
+                "establishment",
+                "local_government_office",
+                "point_of_interest"
+            ]
+        }
+    ],
+    "status": "OK"
+}

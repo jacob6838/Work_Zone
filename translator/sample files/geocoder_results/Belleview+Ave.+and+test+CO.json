@@ -1,0 +1,110 @@
+{
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "Suite 202",
+                    "short_name": "Suite 202",
+                    "types": [
+                        "subpremise"
+                    ]
+                },
+                {
+                    "long_name": "Central Tower",
+                    "short_name": "Central Tower",
+                    "types": [
+                        "establishment",
+                        "point_of_interest"
+                    ]
+                },
+                {
+                    "long_name": "8200",
+                    "short_name": "8200",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "East Belleview Avenue",
+                    "short_name": "E Belleview Ave",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Denver Tech Center",
+                    "short_name": "Denver Tech Center",
+                    "types": [
+                        "neighborhood",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Greenwood Village",
+                    "short_name": "Greenwood Village",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Arapahoe County",
+                    "short_name": "Arapahoe County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Colorado",
+                    "short_name": "CO",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "80111",
+                    "short_name": "80111",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "Central Tower, 8200 E Belleview Ave Suite 202, Greenwood Village, CO 80111, USA",
+            "geometry": {
+                "location": {
+                    "lat": 39.6233709,
+                    "lng": -104.8936331
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 39.62471988029149,
+                        "lng": -104.8922841197085
+                    },
+                    "southwest": {
+                        "lat": 39.62202191970849,
+                        "lng": -104.8949820802915
+                    }
+                }
+            },
+            "place_id": "ChIJrU4W0-aHbIcRbEknW8Ipk2E",
+            "types": [
+                "doctor",
+                "establishment",
+                "health",
+                "point_of_interest"
+            ]
+        }
+    ],
+    "status": "OK"
+}

@@ -1,0 +1,64 @@
+{
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "Colorado 470",
+                    "short_name": "CO-470",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Colorado",
+                    "short_name": "CO",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                }
+            ],
+            "formatted_address": "CO-470, Colorado, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 39.7306466,
+                        "lng": -104.8571368
+                    },
+                    "southwest": {
+                        "lat": 39.54123070000001,
+                        "lng": -105.2194808
+                    }
+                },
+                "location": {
+                    "lat": 39.66471689999999,
+                    "lng": -105.1862438
+                },
+                "location_type": "GEOMETRIC_CENTER",
+                "viewport": {
+                    "northeast": {
+                        "lat": 41.4762056,
+                        "lng": -103.3747551
+                    },
+                    "southwest": {
+                        "lat": 37.8532282,
+                        "lng": -106.9977325
+                    }
+                }
+            },
+            "place_id": "ChIJmYarDeR_a4cRuu93DuPurGw",
+            "types": [
+                "route"
+            ]
+        }
+    ],
+    "status": "OK"
+}

@@ -1,0 +1,78 @@
+{
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "South Fairfax Street & East Belleview Avenue",
+                    "short_name": "S Fairfax St & E Belleview Ave",
+                    "types": [
+                        "intersection"
+                    ]
+                },
+                {
+                    "long_name": "Cherry Hills Village",
+                    "short_name": "Cherry Hills Village",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Arapahoe County",
+                    "short_name": "Arapahoe County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Colorado",
+                    "short_name": "CO",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "80121",
+                    "short_name": "80121",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "S Fairfax St & E Belleview Ave, Cherry Hills Village, CO 80121, USA",
+            "geometry": {
+                "location": {
+                    "lat": 39.6241648,
+                    "lng": -104.9274629
+                },
+                "location_type": "GEOMETRIC_CENTER",
+                "viewport": {
+                    "northeast": {
+                        "lat": 39.62551378029149,
+                        "lng": -104.9261139197085
+                    },
+                    "southwest": {
+                        "lat": 39.62281581970849,
+                        "lng": -104.9288118802915
+                    }
+                }
+            },
+            "partial_match": true,
+            "place_id": "EkNTIEZhaXJmYXggU3QgJiBFIEJlbGxldmlldyBBdmUsIENoZXJyeSBIaWxscyBWaWxsYWdlLCBDTyA4MDEyMSwgVVNBImYiZAoUChIJh-7m9teGbIcRQn6CjvFN55QSFAoSCYfu5vbXhmyHEUJ-go7xTeeUGhQKEglVqFmv0IZshxGO3uNIAi67-xoUChIJMRhOO9-GbIcRrRemYU46AQIiCg3wKp4XFftWdcE",
+            "types": [
+                "intersection"
+            ]
+        }
+    ],
+    "status": "OK"
+}

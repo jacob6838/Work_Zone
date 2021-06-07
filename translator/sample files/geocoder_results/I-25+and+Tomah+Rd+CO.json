@@ -1,0 +1,125 @@
+{
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "Interstate 25",
+                    "short_name": "I-25",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                }
+            ],
+            "formatted_address": "I-25, United States",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 44.37022349999999,
+                        "lng": -104.3791912
+                    },
+                    "southwest": {
+                        "lat": 32.2086936,
+                        "lng": -107.3375791
+                    }
+                },
+                "location": {
+                    "lat": 37.935871,
+                    "lng": -104.8172248
+                },
+                "location_type": "GEOMETRIC_CENTER",
+                "viewport": {
+                    "northeast": {
+                        "lat": 44.37022349999999,
+                        "lng": -104.3791912
+                    },
+                    "southwest": {
+                        "lat": 32.2086936,
+                        "lng": -107.3375791
+                    }
+                }
+            },
+            "partial_match": true,
+            "place_id": "ChIJNUYdNlIBFYcRtGLWx4YX_4E",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "address_components": [
+                {
+                    "long_name": "Tomah Road",
+                    "short_name": "Tomah Rd",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Douglas County",
+                    "short_name": "Douglas County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Colorado",
+                    "short_name": "CO",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                }
+            ],
+            "formatted_address": "Tomah Rd, Colorado, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 39.3003613,
+                        "lng": -104.8914369
+                    },
+                    "southwest": {
+                        "lat": 39.27673550000001,
+                        "lng": -104.9564084
+                    }
+                },
+                "location": {
+                    "lat": 39.2889458,
+                    "lng": -104.9236429
+                },
+                "location_type": "GEOMETRIC_CENTER",
+                "viewport": {
+                    "northeast": {
+                        "lat": 39.3003613,
+                        "lng": -104.8914369
+                    },
+                    "southwest": {
+                        "lat": 39.27673550000001,
+                        "lng": -104.9564084
+                    }
+                }
+            },
+            "partial_match": true,
+            "place_id": "ChIJX6trIzaibIcRFFX7m0Cfzno",
+            "types": [
+                "route"
+            ]
+        }
+    ],
+    "status": "OK"
+}

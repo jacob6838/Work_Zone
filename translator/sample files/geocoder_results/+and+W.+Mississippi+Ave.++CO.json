@@ -1,0 +1,64 @@
+{
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "West Mississippi Avenue",
+                    "short_name": "W Mississippi Ave",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Colorado",
+                    "short_name": "CO",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                }
+            ],
+            "formatted_address": "W Mississippi Ave, Colorado, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 39.7065972,
+                        "lng": -104.9856176
+                    },
+                    "southwest": {
+                        "lat": 39.6857073,
+                        "lng": -105.1434387
+                    }
+                },
+                "location": {
+                    "lat": 39.6967106,
+                    "lng": -105.0651362
+                },
+                "location_type": "GEOMETRIC_CENTER",
+                "viewport": {
+                    "northeast": {
+                        "lat": 39.7065972,
+                        "lng": -104.9856176
+                    },
+                    "southwest": {
+                        "lat": 39.6857073,
+                        "lng": -105.1434387
+                    }
+                }
+            },
+            "place_id": "ChIJW0ctJvCAa4cR3pRTWqAMrbc",
+            "types": [
+                "route"
+            ]
+        }
+    ],
+    "status": "OK"
+}

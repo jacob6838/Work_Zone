@@ -1,0 +1,2847 @@
+I-70+and+I-225+CO Unable to find intersection
+I-70+and+46th+Ave+CO Unable to find intersection
+Found 0 out of 2 intersections, or 0.0%
+US+128+and+Interlocken+Blvd+CO Unable to find intersection
+US+128+and+McCaslin+Blvd+CO Found Intersection!! Coords are 39.9092018, -105.1708109
+Found 1 out of 4 intersections, or 25.0%
+US+6+and+Edwards+Access+Rd+CO Unable to find intersection
+US+6+and+US+6+CO Unable to find intersection
+Found 1 out of 6 intersections, or 17.0%
+US+6+and+Edwards+Access+Rd+CO DUPLICATE
+US+6+and+US+6+CO DUPLICATE
+Found 1 out of 8 intersections, or 12.0%
+Found 1 out of 8 intersections, or 12.0%
+US+40+and+Steele+St+CO Found Intersection!! Coords are 39.7401691, -104.950076
+US+40+and+St+Paul+St+CO Found Intersection!! Coords are 39.74017430000001, -104.9506773
+Found 3 out of 10 intersections, or 30.0%
+I-25+and+CO+105+CO Unable to find intersection
+I-25+and+Palmer+Divide+Rd+CO Unable to find intersection
+Found 3 out of 12 intersections, or 25.0%
+US-34+and+Denver+CO Unable to find intersection
+US-34+and+I-25+CO Unable to find intersection
+Found 3 out of 14 intersections, or 21.0%
+Belleview+Ave+and+Albion+St+CO Found Intersection!! Coords are 39.6240094, -104.939683
+Belleview+Ave+and+Steele+St.+CO Found Intersection!! Coords are 39.6241924, -104.9504054
+Found 5 out of 16 intersections, or 31.0%
+Belleview+Ave+and+Albion+St+CO DUPLICATE
+Belleview+Ave+and+Steele+St.+CO DUPLICATE
+Found 7 out of 18 intersections, or 39.0%
+Belleview+Ave+and+Steele+St+CO Found Intersection!! Coords are 39.6241924, -104.9504054
+Belleview+Ave+and+Albion+St+CO DUPLICATE
+Found 9 out of 20 intersections, or 45.0%
+Belleveiw+Ave+and+Steele+St+CO Found Intersection!! Coords are 39.6241924, -104.9504054
+Belleveiw+Ave+and+Glenmoor+Dr+CO Found Intersection!! Coords are 39.6241243, -104.9411282
+Found 11 out of 22 intersections, or 50.0%
+Belleview+Ave+and+Birch+St+CO Found Intersection!! Coords are 39.624121, -104.9369317
+Belleview+Ave+and+Fairfax+St+CO Found Intersection!! Coords are 39.6241648, -104.9274629
+Found 13 out of 24 intersections, or 54.0%
+Belleview+Ave.+and+University+Blvd.+CO Found Intersection!! Coords are 39.624204, -104.9598298
+Belleview+Ave.+and+Steele+St.+CO Found Intersection!! Coords are 39.6241924, -104.9504054
+Found 15 out of 26 intersections, or 57.99999999999999%
+Belleview+Ave.+and+University+Blvd.+CO DUPLICATE
+Belleview+Ave.+and+Steele+St.+CO DUPLICATE
+Found 17 out of 28 intersections, or 61.0%
+Belleview+Ave+and+Fairfax+St+CO DUPLICATE
+Belleview+Ave+and+Birch+St+CO DUPLICATE
+Found 19 out of 30 intersections, or 63.0%
+Belleview+Ave+and+Birch+St+CO DUPLICATE
+Belleview+Ave+and+Fairfax+St+CO DUPLICATE
+Found 21 out of 32 intersections, or 66.0%
+Belleview+Ave+and+Fairfax+St+CO DUPLICATE
+Belleview+Ave+and+Birch+St+CO DUPLICATE
+Found 23 out of 34 intersections, or 68.0%
+Belleview+Ave.+and+Birch+St+CO Found Intersection!! Coords are 39.624121, -104.9369317
+Belleview+Ave.+and+Fairfax+St+CO Found Intersection!! Coords are 39.6241648, -104.9274629
+Found 25 out of 36 intersections, or 69.0%
+Found 25 out of 36 intersections, or 69.0%
+Belleview+Ave+and+Fairfax+St+CO DUPLICATE
+Belleview+Ave+and+Birch+St+CO DUPLICATE
+Found 27 out of 38 intersections, or 71.0%
+Belleview+Ave+and+Birch+St+CO DUPLICATE
+Belleview+Ave+and+Fairfax+St+CO DUPLICATE
+Found 29 out of 40 intersections, or 72.0%
+Belleview+Ave+and+Glenmoor+Dr+CO Found Intersection!! Coords are 39.6241243, -104.9411282
+Belleview+Ave+and+Steele+St+CO DUPLICATE
+Found 31 out of 42 intersections, or 74.0%
+Belleveiw+Ave+and+Steele+St+CO DUPLICATE
+Belleveiw+Ave+and+Glenmoor+Dr+CO DUPLICATE
+Found 33 out of 44 intersections, or 75.0%
+Belleview+Ave+and+Glenmoor+Dr+CO DUPLICATE
+Belleview+Ave+and+Steele+St+CO DUPLICATE
+Found 35 out of 46 intersections, or 76.0%
+Belleveiw+Ave+and+Steele+St+CO DUPLICATE
+Belleveiw+Ave+and+Glenmoor+Dr+CO DUPLICATE
+Found 37 out of 48 intersections, or 77.0%
+Belleview+Ave.+and+Holly+St+CO Found Intersection!! Coords are 39.6241601, -104.9227827
+Belleview+Ave.+and+Birch+St+CO DUPLICATE
+Found 39 out of 50 intersections, or 78.0%
+Belleview+Ave.+and+S.+Birch+St.+CO Found Intersection!! Coords are 39.624121, -104.9369317
+Belleview+Ave.+and+Holly+St.+CO Found Intersection!! Coords are 39.6241601, -104.9227827
+Found 41 out of 52 intersections, or 79.0%
+Belleview+Ave+and+Holly+St+CO Found Intersection!! Coords are 39.6241601, -104.9227827
+Belleview+Ave+and+Dahlia+St+CO Found Intersection!! Coords are 39.6240433, -104.9321041
+Found 43 out of 54 intersections, or 80.0%
+Belleview+Ave+and+Dahlia+CO Found Intersection!! Coords are 39.6240433, -104.9321041
+Belleview+Ave+and+Holly+st+CO Found Intersection!! Coords are 39.6241601, -104.9227827
+Found 45 out of 56 intersections, or 80.0%
+Belleview+Ave+and+Holly+CO Found Intersection!! Coords are 39.6241601, -104.9227827
+Belleview+Ave+and+Dahlia+CO DUPLICATE
+Found 47 out of 58 intersections, or 81.0%
+Belleview+Ave+and+Dahlia+CO DUPLICATE
+Belleview+Ave+and+Holly+st+CO DUPLICATE
+Found 49 out of 60 intersections, or 82.0%
+Belleview+Ave+and+Holly+CO DUPLICATE
+Belleview+Ave+and+Dahlia+CO DUPLICATE
+Found 51 out of 62 intersections, or 82.0%
+Belleview+Ave+and+Holly+St.+CO Found Intersection!! Coords are 39.6241601, -104.9227827
+Belleview+Ave+and+Monaco+St.+CO Found Intersection!! Coords are 39.6240753, -104.9117168
+Found 53 out of 64 intersections, or 83.0%
+Belleview+Ave+and+Monaco+St.+CO DUPLICATE
+Belleview+Ave+and+Holly+St.+CO DUPLICATE
+Found 55 out of 66 intersections, or 83.0%
+Belleview+Ave+and+Holly+St.+CO DUPLICATE
+Belleview+Ave+and+Monaco+St.+CO DUPLICATE
+Found 57 out of 68 intersections, or 84.0%
+Belleview+Ave+and+Monaco+St.+CO DUPLICATE
+Belleview+Ave+and+Holly+St.+CO DUPLICATE
+Found 59 out of 70 intersections, or 84.0%
+Belleview+Ave+and+Charington+Dr+CO Found Intersection!! Coords are 39.6241838, -104.9145723
+Belleview+Ave+and+Holly+St+CO DUPLICATE
+Found 61 out of 72 intersections, or 85.0%
+Belleview+Ave+and+Charington+Dr+CO DUPLICATE
+Belleview+Ave+and+Holly+St+CO DUPLICATE
+Found 63 out of 74 intersections, or 85.0%
+Belleveiw+Ave+and+Holly+St+CO Found Intersection!! Coords are 39.6241601, -104.9227827
+Belleveiw+Ave+and+Charington+Dr+CO Found Intersection!! Coords are 39.6241838, -104.9145723
+Found 65 out of 76 intersections, or 86.0%
+Belleveiw+Ave+and+Holly+St+CO DUPLICATE
+Belleveiw+Ave+and+Charington+Dr+CO DUPLICATE
+Found 67 out of 78 intersections, or 86.0%
+Belleveiw+Ave+and+Holly+St+CO DUPLICATE
+Belleveiw+Ave+and+Charington+Dr+CO DUPLICATE
+Found 69 out of 80 intersections, or 86.0%
+Belleveiw+Ave+and+Holly+St+CO DUPLICATE
+Belleveiw+Ave+and+Charington+Dr+CO DUPLICATE
+Found 71 out of 82 intersections, or 87.0%
+Belleveiw+Ave+and+Holly+St+CO DUPLICATE
+Belleveiw+Ave+and+Charington+Dr+CO DUPLICATE
+Found 73 out of 84 intersections, or 87.0%
+Belleveiw+Ave+and+University+Blvd+CO Found Intersection!! Coords are 39.624204, -104.9598298
+Belleveiw+Ave+and+Steele+St+CO DUPLICATE
+Found 75 out of 86 intersections, or 87.0%
+Belleveiw+Ave+and+University+Blvd+CO DUPLICATE
+Belleveiw+Ave+and+Steele+St+CO DUPLICATE
+Found 77 out of 88 intersections, or 88.0%
+Belleveiw+Ave+and+University+Blvd+CO DUPLICATE
+Belleveiw+Ave+and+Steele+St+CO DUPLICATE
+Found 79 out of 90 intersections, or 88.0%
+Belleveiw+Ave+and+University+Blvd+CO DUPLICATE
+Belleveiw+Ave+and+Steele+St+CO DUPLICATE
+Found 81 out of 92 intersections, or 88.0%
+Belleview+Ave+and+Steele+St+CO DUPLICATE
+Belleview+Ave+and+University+Blvd+CO Found Intersection!! Coords are 39.624204, -104.9598298
+Found 83 out of 94 intersections, or 88.0%
+Belleview+Ave+and+Steele+St+CO DUPLICATE
+Belleview+Ave+and+University+Blvd+CO DUPLICATE
+Found 85 out of 96 intersections, or 89.0%
+Belleview+Ave+and+Steele+St+CO DUPLICATE
+Belleview+Ave+and+University+Blvd+CO DUPLICATE
+Found 87 out of 98 intersections, or 89.0%
+Belleview+Ave+and+University+Blvd+CO DUPLICATE
+Belleview+Ave+and+Steele+St+CO DUPLICATE
+Found 89 out of 100 intersections, or 89.0%
+Belleview+Ave+and+University+Blvd+CO DUPLICATE
+Belleview+Ave+and+Steele+St+CO DUPLICATE
+Found 91 out of 102 intersections, or 89.0%
+Belleview+Ave+and+University+Blvd+CO DUPLICATE
+Belleview+Ave+and+Steele+St+CO DUPLICATE
+Found 93 out of 104 intersections, or 89.0%
+Belleview+Ave+and+University+Blvd+CO DUPLICATE
+Belleview+Ave+and+Steele+St+CO DUPLICATE
+Found 95 out of 106 intersections, or 90.0%
+Belleview+Ave+and+University+Blvd+CO DUPLICATE
+Belleview+Ave+and+Steele+St+CO DUPLICATE
+Found 97 out of 108 intersections, or 90.0%
+Belleview+Ave+and+University+Blvd+CO DUPLICATE
+Belleview+Ave+and+Steele+St+CO DUPLICATE
+Found 99 out of 110 intersections, or 90.0%
+Belleview+Ave+and+Holly+St+CO DUPLICATE
+Belleview+Ave+and+Monaco+St+CO Found Intersection!! Coords are 39.6240753, -104.9117168
+Found 101 out of 112 intersections, or 90.0%
+Belleview+Ave+and+Holly+St+CO DUPLICATE
+Belleview+Ave+and+Monaco+St+CO DUPLICATE
+Found 103 out of 114 intersections, or 90.0%
+Belleview+Ave+and+Holly+St+CO DUPLICATE
+Belleview+Ave+and+Monaco+St+CO DUPLICATE
+Found 105 out of 116 intersections, or 91.0%
+Belleview+Ave+and+Holly+St+CO DUPLICATE
+Belleview+Ave+and+Monaco+St+CO DUPLICATE
+Found 107 out of 118 intersections, or 91.0%
+Belleview+Ave+and+Holly+St+CO DUPLICATE
+Belleview+Ave+and+Monaco+St+CO DUPLICATE
+Found 109 out of 120 intersections, or 91.0%
+Belleview+Ave+and+Holly+St+CO DUPLICATE
+Belleview+Ave+and+Monaco+St+CO DUPLICATE
+Found 111 out of 122 intersections, or 91.0%
+Belleview+Ave+and+Holly+St+CO DUPLICATE
+Belleview+Ave+and+Monaco+St+CO DUPLICATE
+Found 113 out of 124 intersections, or 91.0%
+Belleview+Ave+and+Holly+St+CO DUPLICATE
+Belleview+Ave+and+Monaco+St+CO DUPLICATE
+Found 115 out of 126 intersections, or 91.0%
+Belleview+Ave+and+Steele+St+CO DUPLICATE
+Belleview+Ave+and+University+Blvd+CO DUPLICATE
+Found 117 out of 128 intersections, or 91.0%
+Belleview+Ave+and+Steele+St+CO DUPLICATE
+Belleview+Ave+and+University+Blvd+CO DUPLICATE
+Found 119 out of 130 intersections, or 92.0%
+Belleview+Ave+and+Steele+St+CO DUPLICATE
+Belleview+Ave+and+University+Blvd+CO DUPLICATE
+Found 121 out of 132 intersections, or 92.0%
+Belleview+Ave+and+Steele+St+CO DUPLICATE
+Belleview+Ave+and+University+Blvd+CO DUPLICATE
+Found 123 out of 134 intersections, or 92.0%
+Belleview+Ave+and+Steele+St+CO DUPLICATE
+Belleview+Ave+and+University+Blvd+CO DUPLICATE
+Found 125 out of 136 intersections, or 92.0%
+Belleview+Ave+and+Steele+St+CO DUPLICATE
+Belleview+Ave+and+University+Blvd+CO DUPLICATE
+Found 127 out of 138 intersections, or 92.0%
+Belleview+Ave+and+Monaco+St+CO DUPLICATE
+Belleview+Ave+and+Holly+St+CO DUPLICATE
+Found 129 out of 140 intersections, or 92.0%
+Belleview+Ave+and+Monaco+St+CO DUPLICATE
+Belleview+Ave+and+Holly+St+CO DUPLICATE
+Found 131 out of 142 intersections, or 92.0%
+Belleview+Ave+and+Monaco+St+CO DUPLICATE
+Belleview+Ave+and+Holly+St+CO DUPLICATE
+Found 133 out of 144 intersections, or 92.0%
+Belleview+Ave+and+Monaco+St+CO DUPLICATE
+Belleview+Ave+and+Holly+St+CO DUPLICATE
+Found 135 out of 146 intersections, or 92.0%
+Belleview+Ave+and+Monaco+St+CO DUPLICATE
+Belleview+Ave+and+Holly+St+CO DUPLICATE
+Found 137 out of 148 intersections, or 93.0%
+Belleview+Ave+and+Monaco+St+CO DUPLICATE
+Belleview+Ave+and+Holly+St+CO DUPLICATE
+Found 139 out of 150 intersections, or 93.0%
+Belleview+Ave+and+Monaco+St+CO DUPLICATE
+Belleview+Ave+and+Holly+St+CO DUPLICATE
+Found 141 out of 152 intersections, or 93.0%
+Belleview+Ave+and+Monaco+St+CO DUPLICATE
+Belleview+Ave+and+Holly+St+CO DUPLICATE
+Found 143 out of 154 intersections, or 93.0%
+Belleview+Ave+and+Monaco+St+CO DUPLICATE
+Belleview+Ave+and+Holly+St+CO DUPLICATE
+Found 145 out of 156 intersections, or 93.0%
+Belleview+Ave+and+Holly+St+CO DUPLICATE
+Belleview+Ave+and+Monaco+St+CO DUPLICATE
+Found 147 out of 158 intersections, or 93.0%
+Belleview+Ave+and+Holly+St+CO DUPLICATE
+Belleview+Ave+and+Monaco+St+CO DUPLICATE
+Found 149 out of 160 intersections, or 93.0%
+Belleview+Ave+and+Holly+St+CO DUPLICATE
+Belleview+Ave+and+Monaco+St+CO DUPLICATE
+Found 151 out of 162 intersections, or 93.0%
+Belleview+Ave+and+Holly+St+CO DUPLICATE
+Belleview+Ave+and+Monaco+St+CO DUPLICATE
+Found 153 out of 164 intersections, or 93.0%
+Belleview+Ave+and+Holly+St+CO DUPLICATE
+Belleview+Ave+and+Monaco+St+CO DUPLICATE
+Found 155 out of 166 intersections, or 93.0%
+Belleview+Ave+and+Holly+St+CO DUPLICATE
+Belleview+Ave+and+Monaco+St+CO DUPLICATE
+Found 157 out of 168 intersections, or 93.0%
+Belleview+Ave+and+Holly+St+CO DUPLICATE
+Belleview+Ave+and+Monaco+St+CO DUPLICATE
+Found 159 out of 170 intersections, or 94.0%
+Belleview+Ave+and+Holly+St+CO DUPLICATE
+Belleview+Ave+and+Monaco+St+CO DUPLICATE
+Found 161 out of 172 intersections, or 94.0%
+Belleview+Ave+and+Holly+St+CO DUPLICATE
+Belleview+Ave+and+Monaco+St+CO DUPLICATE
+Found 163 out of 174 intersections, or 94.0%
+Belleview+Ave+and+Monaco+St+CO DUPLICATE
+Belleview+Ave+and+Holly+St+CO DUPLICATE
+Found 165 out of 176 intersections, or 94.0%
+Belleview+Ave+and+Monaco+St+CO DUPLICATE
+Belleview+Ave+and+Holly+St+CO DUPLICATE
+Found 167 out of 178 intersections, or 94.0%
+Belleview+and+Monaco+St+CO Found Intersection!! Coords are 39.6240753, -104.9117168
+Belleview+and+Holly+St+CO Found Intersection!! Coords are 39.6241601, -104.9227827
+Found 169 out of 180 intersections, or 94.0%
+Belleview+Ave+and+Cherry+Hills+Farm+CO Unable to find intersection
+Belleview+Ave+and+University+Blvd+CO DUPLICATE
+Found 170 out of 182 intersections, or 93.0%
+Belleview+Ave+and+Cherry+Hills+Farm+CO DUPLICATE
+Belleview+Ave+and+University+Blvd+CO DUPLICATE
+Found 171 out of 184 intersections, or 93.0%
+Belleview+Ave+and+Cherry+Hills+Farm+CO DUPLICATE
+Belleview+Ave+and+University+Blvd+CO DUPLICATE
+Found 172 out of 186 intersections, or 92.0%
+Belleview+Ave+and+Cherry+Hills+Farm+CO DUPLICATE
+Belleview+Ave+and+University+Blvd+CO DUPLICATE
+Found 173 out of 188 intersections, or 92.0%
+Belleview+Ave+and+Cherry+Hills+Farm+CO DUPLICATE
+Belleview+Ave+and+University+Blvd+CO DUPLICATE
+Found 174 out of 190 intersections, or 92.0%
+Belleview+Ave+and+Cherry+Hills+Farm+CO DUPLICATE
+Belleview+Ave+and+University+Blvd+CO DUPLICATE
+Found 175 out of 192 intersections, or 91.0%
+Belleview+Ave+and+Cherry+Hills+Farm+CO DUPLICATE
+Belleview+Ave+and+University+Blvd+CO DUPLICATE
+Found 176 out of 194 intersections, or 91.0%
+Belleview+Ave+and+Cherry+Hills+Farm+CO DUPLICATE
+Belleview+Ave+and+University+Blvd+CO DUPLICATE
+Found 177 out of 196 intersections, or 90.0%
+Belleview+Ave+and+Cherry+Hills+Farm+CO DUPLICATE
+Belleview+Ave+and+University+Blvd+CO DUPLICATE
+Found 178 out of 198 intersections, or 90.0%
+Belleview+Ave+and+Cherry+Hills+Farm+CO DUPLICATE
+Belleview+Ave+and+University+Blvd+CO DUPLICATE
+Found 179 out of 200 intersections, or 90.0%
+Belleview+Ave+and+Cherry+Hills+Farm+CO DUPLICATE
+Belleview+Ave+and+University+Blvd+CO DUPLICATE
+Found 180 out of 202 intersections, or 89.0%
+Belleview+Ave+and+Cherry+Hills+Farm+CO DUPLICATE
+Belleview+Ave+and+University+Blvd+CO DUPLICATE
+Found 181 out of 204 intersections, or 89.0%
+Belleview+Ave+and+Cherry+Hills+Farm+CO DUPLICATE
+Belleview+Ave+and+University+Blvd+CO DUPLICATE
+Found 182 out of 206 intersections, or 88.0%
+Belleview+Ave+and+Cherry+Hills+Farm+CO DUPLICATE
+Belleview+Ave+and+University+Blvd+CO DUPLICATE
+Found 183 out of 208 intersections, or 88.0%
+Belleview+Ave+and+University+Blvd+CO DUPLICATE
+Belleview+Ave+and+Cherry+Hills+Farm+CO DUPLICATE
+Found 184 out of 210 intersections, or 88.0%
+Belleview+Ave+and+University+Blvd+CO DUPLICATE
+Belleview+Ave+and+Cherry+Hills+Farm+CO DUPLICATE
+Found 185 out of 212 intersections, or 87.0%
+Belleview+Ave+and+University+Blvd+CO DUPLICATE
+Belleview+Ave+and+Cherry+Hills+Farm+CO DUPLICATE
+Found 186 out of 214 intersections, or 87.0%
+Belleview+Ave+and+University+Blvd+CO DUPLICATE
+Belleview+Ave+and+Cherry+Hills+Farm+CO DUPLICATE
+Found 187 out of 216 intersections, or 87.0%
+Belleview+Ave+and+University+Blvd+CO DUPLICATE
+Belleview+Ave+and+Cherry+Hills+Farm+CO DUPLICATE
+Found 188 out of 218 intersections, or 86.0%
+Belleview+Ave+and+University+Blvd+CO DUPLICATE
+Belleview+Ave+and+Cherry+Hills+Farm+CO DUPLICATE
+Found 189 out of 220 intersections, or 86.0%
+Belleview+Ave+and+University+Blvd+CO DUPLICATE
+Belleview+Ave+and+Cherry+Hills+Farm+CO DUPLICATE
+Found 190 out of 222 intersections, or 86.0%
+Belleview+Ave+and+University+Blvd+CO DUPLICATE
+Belleview+Ave+and+Cherry+Hills+Farm+CO DUPLICATE
+Found 191 out of 224 intersections, or 85.0%
+Belleview+Ave+and+University+Blvd+CO DUPLICATE
+Belleview+Ave+and+Cherry+Hills+Farm+CO DUPLICATE
+Found 192 out of 226 intersections, or 85.0%
+Belleview+Ave+and+Colorado+Blvd+CO Unable to find intersection
+Belleview+Ave+and+Cherry+Hills+Farm+CO DUPLICATE
+Found 192 out of 228 intersections, or 84.0%
+Belleview+Ave+and+Colorado+Blvd+CO DUPLICATE
+Belleview+Ave+and+Cherry+Hills+Farm+CO DUPLICATE
+Found 192 out of 230 intersections, or 83.0%
+Belleview+Ave+and+Colorado+Blvd+CO DUPLICATE
+Belleview+Ave+and+Cherry+Hills+Farm+CO DUPLICATE
+Found 192 out of 232 intersections, or 83.0%
+Belleview+Ave+and+Colorado+Blvd+CO DUPLICATE
+Belleview+Ave+and+Cherry+Hills+Farm+CO DUPLICATE
+Found 192 out of 234 intersections, or 82.0%
+Belleview+Ave+and+Colorado+Blvd+CO DUPLICATE
+Belleview+Ave+and+Cherry+Hills+Farm+CO DUPLICATE
+Found 192 out of 236 intersections, or 81.0%
+Belleview+Ave+and+Colorado+Blvd+CO DUPLICATE
+Belleview+Ave+and+Cherry+Hills+Farm+CO DUPLICATE
+Found 192 out of 238 intersections, or 81.0%
+Belleview+Ave+and+Colorado+Blvd+CO DUPLICATE
+Belleview+Ave+and+Cherry+Hills+Farm+CO DUPLICATE
+Found 192 out of 240 intersections, or 80.0%
+Belleview+Ave+and+Colorado+Blvd+CO DUPLICATE
+Belleview+Ave+and+Cherry+Hills+Farm+CO DUPLICATE
+Found 192 out of 242 intersections, or 79.0%
+Belleview+Ave+and+Colorado+Blvd+CO DUPLICATE
+Belleview+Ave+and+Cherry+Hills+Farm+CO DUPLICATE
+Found 192 out of 244 intersections, or 79.0%
+Belleview+Ave+and+Colorado+Blvd+CO DUPLICATE
+Belleview+Ave+and+Cherry+Hills+Farm+CO DUPLICATE
+Found 192 out of 246 intersections, or 78.0%
+Belleview+Ave+and+Colorado+Blvd+CO DUPLICATE
+Belleview+Ave+and+Cherry+Hills+Farm+CO DUPLICATE
+Found 192 out of 248 intersections, or 77.0%
+Belleview+Ave+and+Colorado+Blvd+CO DUPLICATE
+Belleview+Ave+and+Cherry+Hills+Farm+CO DUPLICATE
+Found 192 out of 250 intersections, or 77.0%
+Belleview+Ave+and+Colorado+Blvd+CO DUPLICATE
+Belleview+Ave+and+Cherry+Hills+Farm+CO DUPLICATE
+Found 192 out of 252 intersections, or 76.0%
+Belleview+Ave+and+Colorado+Blvd+CO DUPLICATE
+Belleview+Ave+and+Cherry+Hills+Farm+CO DUPLICATE
+Found 192 out of 254 intersections, or 76.0%
+Found 192 out of 254 intersections, or 76.0%
+E+Belleview+Ave+and+Cherry+Hills+Farm+Dr+CO Unable to find intersection
+E+Belleview+Ave+and+Glenmoor+Dr+CO Found Intersection!! Coords are 39.6241243, -104.9411282
+Found 193 out of 256 intersections, or 75.0%
+E+Belleview+Ave+and+Cherry+Hills+Farm+Dr+CO DUPLICATE
+E+Belleview+Ave+and+Glenmoor+Dr+CO DUPLICATE
+Found 194 out of 258 intersections, or 75.0%
+E+Belleview+Ave+and+Cherry+Hills+Farm+Dr+CO DUPLICATE
+E+Belleview+Ave+and+Glenmoor+Dr+CO DUPLICATE
+Found 195 out of 260 intersections, or 75.0%
+E+Belleview+Ave+and+Cherry+Hills+Farm+Dr+CO DUPLICATE
+E+Belleview+Ave+and+Glenmoor+Dr+CO DUPLICATE
+Found 196 out of 262 intersections, or 75.0%
+E+Belleview+Ave+and+Cherry+Hills+Farm+Dr+CO DUPLICATE
+E+Belleview+Ave+and+Glenmoor+Dr+CO DUPLICATE
+Found 197 out of 264 intersections, or 75.0%
+E+Belleview+Ave+and+Cherry+Hills+Farm+Dr+CO DUPLICATE
+E+Belleview+Ave+and+Glenmoor+Dr+CO DUPLICATE
+Found 198 out of 266 intersections, or 74.0%
+E+Belleview+Ave+and+Cherry+Hills+Farm+Dr+CO DUPLICATE
+E+Belleview+Ave+and+Glenmoor+Dr+CO DUPLICATE
+Found 199 out of 268 intersections, or 74.0%
+E+Belleview+Ave+and+Cherry+Hills+Farm+Dr+CO DUPLICATE
+E+Belleview+Ave+and+Glenmoor+Dr+CO DUPLICATE
+Found 200 out of 270 intersections, or 74.0%
+E+Belleview+Ave+and+Cherry+Hills+Farm+Dr+CO DUPLICATE
+E+Belleview+Ave+and+Glenmoor+Dr+CO DUPLICATE
+Found 201 out of 272 intersections, or 74.0%
+E+Belleview+Ave+and+Gleenmoor+Dr+CO Found Intersection!! Coords are 39.6241243, -104.9411282
+E+Belleview+Ave+and+Cherry+Hills+Farm+Dr+CO DUPLICATE
+Found 202 out of 274 intersections, or 74.0%
+E+Belleview+Ave+and+Gleenmoor+Dr+CO DUPLICATE
+E+Belleview+Ave+and+Cherry+Hills+Farm+Dr+CO DUPLICATE
+Found 203 out of 276 intersections, or 74.0%
+E+Belleview+Ave+and+Gleenmoor+Dr+CO DUPLICATE
+E+Belleview+Ave+and+Cherry+Hills+Farm+Dr+CO DUPLICATE
+Found 204 out of 278 intersections, or 73.0%
+E+Belleview+Ave+and+Gleenmoor+Dr+CO DUPLICATE
+E+Belleview+Ave+and+Cherry+Hills+Farm+Dr+CO DUPLICATE
+Found 205 out of 280 intersections, or 73.0%
+E+Belleview+Ave+and+Gleenmoor+Dr+CO DUPLICATE
+E+Belleview+Ave+and+Cherry+Hills+Farm+Dr+CO DUPLICATE
+Found 206 out of 282 intersections, or 73.0%
+E+Belleview+Ave+and+Gleenmoor+Dr+CO DUPLICATE
+E+Belleview+Ave+and+Cherry+Hills+Farm+Dr+CO DUPLICATE
+Found 207 out of 284 intersections, or 73.0%
+E+Belleview+Ave+and+Gleenmoor+Dr+CO DUPLICATE
+E+Belleview+Ave+and+Cherry+Hills+Farm+Dr+CO DUPLICATE
+Found 208 out of 286 intersections, or 73.0%
+E+Belleview+Ave+and+Gleenmoor+Dr+CO DUPLICATE
+E+Belleview+Ave+and+Cherry+Hills+Farm+Dr+CO DUPLICATE
+Found 209 out of 288 intersections, or 73.0%
+E+Belleview+Ave+and+Gleenmoor+Dr+CO DUPLICATE
+E+Belleview+Ave+and+Cherry+Hills+Farm+Dr+CO DUPLICATE
+Found 210 out of 290 intersections, or 72.0%
+Belleview+Ave+and+Albion+St+CO DUPLICATE
+Belleview+Ave+and+Steele+St+CO DUPLICATE
+Found 212 out of 292 intersections, or 73.0%
+Belleview+Ave+and+Albion+St+CO DUPLICATE
+Belleview+Ave+and+Steele+St+CO DUPLICATE
+Found 214 out of 294 intersections, or 73.0%
+Belleview+Ave+and+Albion+St+CO DUPLICATE
+Belleview+Ave+and+Steele+St+CO DUPLICATE
+Found 216 out of 296 intersections, or 73.0%
+Belleview+Ave+and+Albion+St+CO DUPLICATE
+Belleview+Ave+and+Steele+St+CO DUPLICATE
+Found 218 out of 298 intersections, or 73.0%
+Belleview+Ave+and+Albion+St+CO DUPLICATE
+Belleview+Ave+and+Steele+St+CO DUPLICATE
+Found 220 out of 300 intersections, or 73.0%
+Belleview+Ave+and+Albion+St+CO DUPLICATE
+Belleview+Ave+and+Steele+St+CO DUPLICATE
+Found 222 out of 302 intersections, or 74.0%
+Belleview+Ave+and+Albion+St+CO DUPLICATE
+Belleview+Ave+and+Steele+St+CO DUPLICATE
+Found 224 out of 304 intersections, or 74.0%
+Belleview+Ave+and+Albion+St+CO DUPLICATE
+Belleview+Ave+and+Steele+St+CO DUPLICATE
+Found 226 out of 306 intersections, or 74.0%
+Belleview+Ave+and+Cherry+Hills+Farm+Dr+CO Unable to find intersection
+Belleview+Ave+and+Albion+St+CO DUPLICATE
+Found 227 out of 308 intersections, or 74.0%
+Belleview+Ave+and+Cherry+Hills+Farm+Dr+CO DUPLICATE
+Belleview+Ave+and+Albion+St+CO DUPLICATE
+Found 228 out of 310 intersections, or 74.0%
+Belleview+Ave+and+Cherry+Hills+Farm+Dr+CO DUPLICATE
+Belleview+Ave+and+Albion+St+CO DUPLICATE
+Found 229 out of 312 intersections, or 73.0%
+Belleview+Ave+and+Cherry+Hills+Farm+Dr+CO DUPLICATE
+Belleview+Ave+and+Albion+St+CO DUPLICATE
+Found 230 out of 314 intersections, or 73.0%
+Belleview+Ave+and+Cherry+Hills+Farm+Dr+CO DUPLICATE
+Belleview+Ave+and+Albion+St+CO DUPLICATE
+Found 231 out of 316 intersections, or 73.0%
+Belleview+Ave+and+Cherry+Hills+Farm+Dr+CO DUPLICATE
+Belleview+Ave+and+Albion+St+CO DUPLICATE
+Found 232 out of 318 intersections, or 73.0%
+Belleview+Ave+and+Cherry+Hills+Farm+Dr+CO DUPLICATE
+Belleview+Ave+and+Albion+St+CO DUPLICATE
+Found 233 out of 320 intersections, or 73.0%
+Belleview+Ave+and+Cherry+Hills+Farm+Dr+CO DUPLICATE
+Belleview+Ave+and+Albion+St+CO DUPLICATE
+Found 234 out of 322 intersections, or 73.0%
+Belleview+Ave+and+Cherry+Hills+Farm+Dr+CO DUPLICATE
+Belleview+Ave+and+Albion+St+CO DUPLICATE
+Found 235 out of 324 intersections, or 73.0%
+Belleview+Ave+and+Albion+St+CO DUPLICATE
+Belleview+Ave+and+Steele+St+CO DUPLICATE
+Found 237 out of 326 intersections, or 73.0%
+Belleview+Ave+and+Albion+St+CO DUPLICATE
+Belleview+Ave+and+Steele+St+CO DUPLICATE
+Found 239 out of 328 intersections, or 73.0%
+Belleview+Ave+and+Albion+St+CO DUPLICATE
+Belleview+Ave+and+Steele+St+CO DUPLICATE
+Found 241 out of 330 intersections, or 73.0%
+Belleview+Ave+and+Albion+St+CO DUPLICATE
+Belleview+Ave+and+Steele+St+CO DUPLICATE
+Found 243 out of 332 intersections, or 73.0%
+Belleview+Ave+and+Albion+St+CO DUPLICATE
+Belleview+Ave+and+Steele+St+CO DUPLICATE
+Found 245 out of 334 intersections, or 73.0%
+Belleview+Ave+and+Albion+St+CO DUPLICATE
+Belleview+Ave+and+Steele+St+CO DUPLICATE
+Found 247 out of 336 intersections, or 74.0%
+Belleview+Ave+and+Albion+St+CO DUPLICATE
+Belleview+Ave+and+Steele+St+CO DUPLICATE
+Found 249 out of 338 intersections, or 74.0%
+Belleview+Ave+and+Albion+St+CO DUPLICATE
+Belleview+Ave+and+Steele+St+CO DUPLICATE
+Found 251 out of 340 intersections, or 74.0%
+Belleview+Ave+and+Albion+St+CO DUPLICATE
+Belleview+Ave+and+Steele+St+CO DUPLICATE
+Found 253 out of 342 intersections, or 74.0%
+Belleview+Ave+and+Albion+St+CO DUPLICATE
+Belleview+Ave+and+Steele+St+CO DUPLICATE
+Found 255 out of 344 intersections, or 74.0%
+Belleview+Ave+and+Steele+St+CO DUPLICATE
+Belleview+Ave+and+Albion+St+CO DUPLICATE
+Found 257 out of 346 intersections, or 74.0%
+Belleview+Ave+and+Steele+St+CO DUPLICATE
+Belleview+Ave+and+Albion+St+CO DUPLICATE
+Found 259 out of 348 intersections, or 74.0%
+Belleview+Ave+and+Steele+St+CO DUPLICATE
+Belleview+Ave+and+Albion+St+CO DUPLICATE
+Found 261 out of 350 intersections, or 75.0%
+Belleview+Ave+and+Steele+St+CO DUPLICATE
+Belleview+Ave+and+Albion+St+CO DUPLICATE
+Found 263 out of 352 intersections, or 75.0%
+Belleview+Ave+and+Steele+St+CO DUPLICATE
+Belleview+Ave+and+Albion+St+CO DUPLICATE
+Found 265 out of 354 intersections, or 75.0%
+Belleview+Ave+and+Steele+St+CO DUPLICATE
+Belleview+Ave+and+Albion+St+CO DUPLICATE
+Found 267 out of 356 intersections, or 75.0%
+Belleview+Ave+and+Steele+St+CO DUPLICATE
+Belleview+Ave+and+Albion+St+CO DUPLICATE
+Found 269 out of 358 intersections, or 75.0%
+Belleview+Ave+and+Steele+St+CO DUPLICATE
+Belleview+Ave+and+Albion+St+CO DUPLICATE
+Found 271 out of 360 intersections, or 75.0%
+Belleview+Ave+and+Steele+St+CO DUPLICATE
+Belleview+Ave+and+Albion+St+CO DUPLICATE
+Found 273 out of 362 intersections, or 75.0%
+Belleview+Ave+and+Jackson+St+CO Unable to find intersection
+Belleview+Ave+and+Albion+St+CO DUPLICATE
+Found 274 out of 364 intersections, or 75.0%
+Belleview+Ave+and+Jackson+St+CO DUPLICATE
+Belleview+Ave+and+Albion+St+CO DUPLICATE
+Found 275 out of 366 intersections, or 75.0%
+Belleview+Ave+and+Jackson+St+CO DUPLICATE
+Belleview+Ave+and+Albion+St+CO DUPLICATE
+Found 276 out of 368 intersections, or 75.0%
+Belleview+Ave+and+Jackson+St+CO DUPLICATE
+Belleview+Ave+and+Albion+St+CO DUPLICATE
+Found 277 out of 370 intersections, or 75.0%
+Belleview+Ave+and+Jackson+St+CO DUPLICATE
+Belleview+Ave+and+Albion+St+CO DUPLICATE
+Found 278 out of 372 intersections, or 75.0%
+Belleview+Ave+and+Jackson+St+CO DUPLICATE
+Belleview+Ave+and+Albion+St+CO DUPLICATE
+Found 279 out of 374 intersections, or 75.0%
+Belleview+Ave+and+Jackson+St+CO DUPLICATE
+Belleview+Ave+and+Albion+St+CO DUPLICATE
+Found 280 out of 376 intersections, or 74.0%
+Belleview+Ave+and+Jackson+St+CO DUPLICATE
+Belleview+Ave+and+Albion+St+CO DUPLICATE
+Found 281 out of 378 intersections, or 74.0%
+Belleview+Ave+and+Jackson+St+CO DUPLICATE
+Belleview+Ave+and+Albion+St+CO DUPLICATE
+Found 282 out of 380 intersections, or 74.0%
+Belleview+Ave+and+Albion+St+CO DUPLICATE
+Belleview+Ave+and+Steele+St+CO DUPLICATE
+Found 284 out of 382 intersections, or 74.0%
+Belleview+Ave+and+Albion+St+CO DUPLICATE
+Belleview+Ave+and+Steele+St+CO DUPLICATE
+Found 286 out of 384 intersections, or 74.0%
+Belleview+Ave+and+Albion+St+CO DUPLICATE
+Belleview+Ave+and+Steele+St+CO DUPLICATE
+Found 288 out of 386 intersections, or 75.0%
+Belleview+Ave+and+Albion+St+CO DUPLICATE
+Belleview+Ave+and+Steele+St+CO DUPLICATE
+Found 290 out of 388 intersections, or 75.0%
+Belleview+Ave+and+Albion+St+CO DUPLICATE
+Belleview+Ave+and+Steele+St+CO DUPLICATE
+Found 292 out of 390 intersections, or 75.0%
+Belleview+Ave+and+Albion+St+CO DUPLICATE
+Belleview+Ave+and+Steele+St+CO DUPLICATE
+Found 294 out of 392 intersections, or 75.0%
+Belleview+Ave+and+Albion+St+CO DUPLICATE
+Belleview+Ave+and+Steele+St+CO DUPLICATE
+Found 296 out of 394 intersections, or 75.0%
+Belleview+Ave+and+Albion+St+CO DUPLICATE
+Belleview+Ave+and+Steele+St+CO DUPLICATE
+Found 298 out of 396 intersections, or 75.0%
+Belleview+Ave+and+Albion+St+CO DUPLICATE
+Belleview+Ave+and+Steele+St+CO DUPLICATE
+Found 300 out of 398 intersections, or 75.0%
+Belleview+Ave+and+University+Blvd+CO DUPLICATE
+Belleview+Ave+and+Cherry+Hills+Farm+Dr+CO DUPLICATE
+Found 301 out of 400 intersections, or 75.0%
+Belleview+Ave+and+University+Blvd+CO DUPLICATE
+Belleview+Ave+and+Cherry+Hills+Farm+Dr+CO DUPLICATE
+Found 302 out of 402 intersections, or 75.0%
+Belleview+Ave+and+University+Blvd+CO DUPLICATE
+Belleview+Ave+and+Cherry+Hills+Farm+Dr+CO DUPLICATE
+Found 303 out of 404 intersections, or 75.0%
+Belleview+Ave+and+University+Blvd+CO DUPLICATE
+Belleview+Ave+and+Cherry+Hills+Farm+Dr+CO DUPLICATE
+Found 304 out of 406 intersections, or 75.0%
+Belleview+Ave+and+University+Blvd+CO DUPLICATE
+Belleview+Ave+and+Cherry+Hills+Farm+Dr+CO DUPLICATE
+Found 305 out of 408 intersections, or 75.0%
+Belleview+Ave+and+University+Blvd+CO DUPLICATE
+Belleview+Ave+and+Cherry+Hills+Farm+Dr+CO DUPLICATE
+Found 306 out of 410 intersections, or 75.0%
+Belleview+Ave+and+University+Blvd+CO DUPLICATE
+Belleview+Ave+and+Cherry+Hills+Farm+Dr+CO DUPLICATE
+Found 307 out of 412 intersections, or 75.0%
+Belleview+Ave+and+University+Blvd+CO DUPLICATE
+Belleview+Ave+and+Cherry+Hills+Farm+Dr+CO DUPLICATE
+Found 308 out of 414 intersections, or 74.0%
+Belleview+Ave+and+University+Blvd+CO DUPLICATE
+Belleview+Ave+and+Cherry+Hills+Farm+Dr+CO DUPLICATE
+Found 309 out of 416 intersections, or 74.0%
+Belleview+Ave+and+University+Blvd+CO DUPLICATE
+Belleview+Ave+and+Cherry+Hills+Farm+Dr+CO DUPLICATE
+Found 310 out of 418 intersections, or 74.0%
+Belleview+Ave+and+Perry+Pkwy+CO Unable to find intersection
+Belleview+Ave+and+Birch+St+CO DUPLICATE
+Found 311 out of 420 intersections, or 74.0%
+Belleview+Ave+and+Perry+Pkwy+CO DUPLICATE
+Belleview+Ave+and+Birch+St+CO DUPLICATE
+Found 312 out of 422 intersections, or 74.0%
+Belleview+Ave+and+Perry+Pkwy+CO DUPLICATE
+Belleview+Ave+and+Birch+St+CO DUPLICATE
+Found 313 out of 424 intersections, or 74.0%
+Belleview+Ave+and+Perry+Pkwy+CO DUPLICATE
+Belleview+Ave+and+Birch+St+CO DUPLICATE
+Found 314 out of 426 intersections, or 74.0%
+Belleview+Ave+and+Perry+Pkwy+CO DUPLICATE
+Belleview+Ave+and+Birch+St+CO DUPLICATE
+Found 315 out of 428 intersections, or 74.0%
+Belleview+Ave+and+University+Blvd+CO DUPLICATE
+Belleview+Ave+and+Cherry+Hills+Farm+Dr+CO DUPLICATE
+Found 316 out of 430 intersections, or 73.0%
+Belleview+Ave+and+University+Blvd+CO DUPLICATE
+Belleview+Ave+and+Cherry+Hills+Farm+Dr+CO DUPLICATE
+Found 317 out of 432 intersections, or 73.0%
+Belleview+Ave+and+University+Blvd+CO DUPLICATE
+Belleview+Ave+and+Cherry+Hills+Farm+Dr+CO DUPLICATE
+Found 318 out of 434 intersections, or 73.0%
+Belleview+Ave+and+University+Blvd+CO DUPLICATE
+Belleview+Ave+and+Cherry+Hills+Farm+Dr+CO DUPLICATE
+Found 319 out of 436 intersections, or 73.0%
+Belleview+Ave+and+University+Blvd+CO DUPLICATE
+Belleview+Ave+and+Cherry+Hills+Farm+Dr+CO DUPLICATE
+Found 320 out of 438 intersections, or 73.0%
+Belleview+Ave+and+University+Blvd+CO DUPLICATE
+Belleview+Ave+and+Cherry+Hills+Farm+Dr+CO DUPLICATE
+Found 321 out of 440 intersections, or 73.0%
+Belleview+Ave+and+University+Blvd+CO DUPLICATE
+Belleview+Ave+and+Cherry+Hills+Farm+Dr+CO DUPLICATE
+Found 322 out of 442 intersections, or 73.0%
+Belleview+Ave+and+University+Blvd+CO DUPLICATE
+Belleview+Ave+and+Cherry+Hills+Farm+Dr+CO DUPLICATE
+Found 323 out of 444 intersections, or 73.0%
+Belleview+Ave+and+University+Blvd+CO DUPLICATE
+Belleview+Ave+and+Cherry+Hills+Farm+Dr+CO DUPLICATE
+Found 324 out of 446 intersections, or 73.0%
+Belleview+Ave+and+Cherry+Hills+Farm+Dr+CO DUPLICATE
+Belleview+Ave+and+University+Blvd+CO DUPLICATE
+Found 325 out of 448 intersections, or 73.0%
+Belleview+Ave+and+Cherry+Hills+Farm+Dr+CO DUPLICATE
+Belleview+Ave+and+University+Blvd+CO DUPLICATE
+Found 326 out of 450 intersections, or 72.0%
+Belleview+Ave+and+Cherry+Hills+Farm+Dr+CO DUPLICATE
+Belleview+Ave+and+University+Blvd+CO DUPLICATE
+Found 327 out of 452 intersections, or 72.0%
+Belleview+Ave+and+Cherry+Hills+Farm+Dr+CO DUPLICATE
+Belleview+Ave+and+University+Blvd+CO DUPLICATE
+Found 328 out of 454 intersections, or 72.0%
+Belleview+Ave+and+Cherry+Hills+Farm+Dr+CO DUPLICATE
+Belleview+Ave+and+University+Blvd+CO DUPLICATE
+Found 329 out of 456 intersections, or 72.0%
+Belleview+Ave+and+Cherry+Hills+Farm+Dr+CO DUPLICATE
+Belleview+Ave+and+University+Blvd+CO DUPLICATE
+Found 330 out of 458 intersections, or 72.0%
+Belleview+Ave+and+Cherry+Hills+Farm+Dr+CO DUPLICATE
+Belleview+Ave+and+University+Blvd+CO DUPLICATE
+Found 331 out of 460 intersections, or 72.0%
+Belleview+Ave+and+Cherry+Hills+Farm+Dr+CO DUPLICATE
+Belleview+Ave+and+University+Blvd+CO DUPLICATE
+Found 332 out of 462 intersections, or 72.0%
+Belleview+Ave+and+Cherry+Hills+Farm+Dr+CO DUPLICATE
+Belleview+Ave+and+University+Blvd+CO DUPLICATE
+Found 333 out of 464 intersections, or 72.0%
+Belleview+Ave+and+Cherry+Hills+Farm+Dr+CO DUPLICATE
+Belleview+Ave+and+University+Blvd+CO DUPLICATE
+Found 334 out of 466 intersections, or 72.0%
+Belleview+Ave+and+Perry+Pkwy+CO DUPLICATE
+Belleview+Ave+and+Birch+St+CO DUPLICATE
+Found 335 out of 468 intersections, or 72.0%
+Belleview+Ave+and+Perry+Pkwy+CO DUPLICATE
+Belleview+Ave+and+Birch+St+CO DUPLICATE
+Found 336 out of 470 intersections, or 71.0%
+Belleview+Ave+and+Perry+Pkwy+CO DUPLICATE
+Belleview+Ave+and+Birch+St+CO DUPLICATE
+Found 337 out of 472 intersections, or 71.0%
+Belleview+Ave+and+Perry+Pkwy+CO DUPLICATE
+Belleview+Ave+and+Birch+St+CO DUPLICATE
+Found 338 out of 474 intersections, or 71.0%
+Belleview+Ave+and+Perry+Pkwy+CO DUPLICATE
+Belleview+Ave+and+Birch+St+CO DUPLICATE
+Found 339 out of 476 intersections, or 71.0%
+Belleview+Ave+and+Perry+Pkwy+CO DUPLICATE
+Belleview+Ave+and+Birch+St+CO DUPLICATE
+Found 340 out of 478 intersections, or 71.0%
+Belleview+Ave+and+Cherry+Hills+Farm+Dr+CO DUPLICATE
+Belleview+Ave+and+University+Blvd+CO DUPLICATE
+Found 341 out of 480 intersections, or 71.0%
+Belleview+Ave+and+Cherry+Hills+Farm+Dr+CO DUPLICATE
+Belleview+Ave+and+University+Blvd+CO DUPLICATE
+Found 342 out of 482 intersections, or 71.0%
+Belleview+Ave+and+Cherry+Hills+Farm+Dr+CO DUPLICATE
+Belleview+Ave+and+University+Blvd+CO DUPLICATE
+Found 343 out of 484 intersections, or 71.0%
+Belleview+Ave+and+Cherry+Hills+Farm+Dr+CO DUPLICATE
+Belleview+Ave+and+University+Blvd+CO DUPLICATE
+Found 344 out of 486 intersections, or 71.0%
+Belleview+Ave+and+Cherry+Hills+Farm+Dr+CO DUPLICATE
+Belleview+Ave+and+University+Blvd+CO DUPLICATE
+Found 345 out of 488 intersections, or 71.0%
+Belleview+Ave+and+Cherry+Hills+Farm+Dr+CO DUPLICATE
+Belleview+Ave+and+University+Blvd+CO DUPLICATE
+Found 346 out of 490 intersections, or 71.0%
+Belleview+Ave+and+Cherry+Hills+Farm+Dr+CO DUPLICATE
+Belleview+Ave+and+University+Blvd+CO DUPLICATE
+Found 347 out of 492 intersections, or 71.0%
+Belleview+Ave+and+Cherry+Hills+Farm+Dr+CO DUPLICATE
+Belleview+Ave+and+University+Blvd+CO DUPLICATE
+Found 348 out of 494 intersections, or 70.0%
+Belleview+Ave+and+Cherry+Hills+Farm+Dr+CO DUPLICATE
+Belleview+Ave+and+University+Blvd+CO DUPLICATE
+Found 349 out of 496 intersections, or 70.0%
+Belleview+Ave+and+Cherry+Hills+Farm+Dr+CO DUPLICATE
+Belleview+Ave+and+University+Blvd+CO DUPLICATE
+Found 350 out of 498 intersections, or 70.0%
+Belleview+Ave+and+Cherry+Hills+Farm+Dr+CO DUPLICATE
+Belleview+Ave+and+University+Blvd+CO DUPLICATE
+Found 351 out of 500 intersections, or 70.0%
+Belleview+Ave+and+Cherry+Hills+Farm+Dr+CO DUPLICATE
+Belleview+Ave+and+University+Blvd+CO DUPLICATE
+Found 352 out of 502 intersections, or 70.0%
+Belleview+Ave+and+University+Blvd+CO DUPLICATE
+Belleview+Ave+and+Cherry+Hills+Farm+Dr+CO DUPLICATE
+Found 353 out of 504 intersections, or 70.0%
+Belleview+Ave+and+University+Blvd+CO DUPLICATE
+Belleview+Ave+and+Cherry+Hills+Farm+Dr+CO DUPLICATE
+Found 354 out of 506 intersections, or 70.0%
+Belleview+Ave+and+University+Blvd+CO DUPLICATE
+Belleview+Ave+and+Cherry+Hills+Farm+Dr+CO DUPLICATE
+Found 355 out of 508 intersections, or 70.0%
+Belleview+Ave+and+University+Blvd+CO DUPLICATE
+Belleview+Ave+and+Cherry+Hills+Farm+Dr+CO DUPLICATE
+Found 356 out of 510 intersections, or 70.0%
+Belleview+Ave+and+University+Blvd+CO DUPLICATE
+Belleview+Ave+and+Cherry+Hills+Farm+Dr+CO DUPLICATE
+Found 357 out of 512 intersections, or 70.0%
+Belleview+Ave+and+University+Blvd+CO DUPLICATE
+Belleview+Ave+and+Cherry+Hills+Farm+Dr+CO DUPLICATE
+Found 358 out of 514 intersections, or 70.0%
+Belleview+Ave+and+University+Blvd+CO DUPLICATE
+Belleview+Ave+and+Cherry+Hills+Farm+Dr+CO DUPLICATE
+Found 359 out of 516 intersections, or 70.0%
+Belleview+Ave+and+University+Blvd+CO DUPLICATE
+Belleview+Ave+and+Cherry+Hills+Farm+Dr+CO DUPLICATE
+Found 360 out of 518 intersections, or 69.0%
+Belleview+Ave+and+University+Blvd+CO DUPLICATE
+Belleview+Ave+and+Cherry+Hills+Farm+Dr+CO DUPLICATE
+Found 361 out of 520 intersections, or 69.0%
+Belleview+Ave+and+University+Blvd+CO DUPLICATE
+Belleview+Ave+and+Cherry+Hills+Farm+Dr+CO DUPLICATE
+Found 362 out of 522 intersections, or 69.0%
+Belleview+Ave+and+Birch+St+CO DUPLICATE
+Belleview+Ave+and+Dahlia+St+CO DUPLICATE
+Found 364 out of 524 intersections, or 69.0%
+Belleview+Ave+and+Birch+St+CO DUPLICATE
+Belleview+Ave+and+Dahlia+St+CO DUPLICATE
+Found 366 out of 526 intersections, or 70.0%
+Belleview+Ave+and+Birch+St+CO DUPLICATE
+Belleview+Ave+and+Dahlia+St+CO DUPLICATE
+Found 368 out of 528 intersections, or 70.0%
+Belleview+Ave+and+Dahlia+St+CO DUPLICATE
+Belleview+Ave+and+Birch+St+CO DUPLICATE
+Found 370 out of 530 intersections, or 70.0%
+Belleview+Ave+and+Dahlia+St+CO DUPLICATE
+Belleview+Ave+and+Birch+St+CO DUPLICATE
+Found 372 out of 532 intersections, or 70.0%
+Belleview+Ave+and+Dahlia+St+CO DUPLICATE
+Belleview+Ave+and+Birch+St+CO DUPLICATE
+Found 374 out of 534 intersections, or 70.0%
+Belleview+Ave+and+Dahlia+St+CO DUPLICATE
+Belleview+Ave+and+Birch+St+CO DUPLICATE
+Found 376 out of 536 intersections, or 70.0%
+Belleview+Ave+and+Dahlia+St+CO DUPLICATE
+Belleview+Ave+and+Birch+St+CO DUPLICATE
+Found 378 out of 538 intersections, or 70.0%
+Belleview+Ave+and+Dahlia+St+CO DUPLICATE
+Belleview+Ave+and+Birch+St+CO DUPLICATE
+Found 380 out of 540 intersections, or 70.0%
+Belleview+Ave+and+Dahlia+St+CO DUPLICATE
+Belleview+Ave+and+Birch+St+CO DUPLICATE
+Found 382 out of 542 intersections, or 70.0%
+Belleview+Ave+and+Birch+St+CO DUPLICATE
+Belleview+Ave+and+Dahlia+St+CO DUPLICATE
+Found 384 out of 544 intersections, or 71.0%
+Belleview+Ave+and+Birch+St+CO DUPLICATE
+Belleview+Ave+and+Dahlia+St+CO DUPLICATE
+Found 386 out of 546 intersections, or 71.0%
+Belleview+Ave+and+Cherry+Hills+Farm+Dr+CO DUPLICATE
+Belleview+Ave+and+Jackson+St+CO DUPLICATE
+Found 386 out of 548 intersections, or 70.0%
+Belleview+Ave+and+Cherry+Hills+Farm+Dr+CO DUPLICATE
+Belleview+Ave+and+Jackson+St+CO DUPLICATE
+Found 386 out of 550 intersections, or 70.0%
+Belleview+Ave+and+Cherry+Hills+Farm+Dr+CO DUPLICATE
+Belleview+Ave+and+Jackson+St+CO DUPLICATE
+Found 386 out of 552 intersections, or 70.0%
+Belleview+Ave+and+Cherry+Hills+Farm+Dr+CO DUPLICATE
+Belleview+Ave+and+Jackson+St+CO DUPLICATE
+Found 386 out of 554 intersections, or 70.0%
+Belleview+Ave+and+Cherry+Hills+Farm+Dr+CO DUPLICATE
+Belleview+Ave+and+Jackson+St+CO DUPLICATE
+Found 386 out of 556 intersections, or 69.0%
+Belleview+Ave+and+Cherry+Hills+Farm+Dr+CO DUPLICATE
+Belleview+Ave+and+Jackson+St+CO DUPLICATE
+Found 386 out of 558 intersections, or 69.0%
+Belleview+Ave+and+Cherry+Hills+Farm+Dr+CO DUPLICATE
+Belleview+Ave+and+Jackson+St+CO DUPLICATE
+Found 386 out of 560 intersections, or 69.0%
+Belleview+Ave+and+Cherry+Hills+Farm+Dr+CO DUPLICATE
+Belleview+Ave+and+Jackson+St+CO DUPLICATE
+Found 386 out of 562 intersections, or 69.0%
+Belleview+Ave+and+Cherry+Hills+Farm+Dr+CO DUPLICATE
+Belleview+Ave+and+Jackson+St+CO DUPLICATE
+Found 386 out of 564 intersections, or 68.0%
+Belleview+Ave+and+Cherry+Hills+Farm+Dr+CO DUPLICATE
+Belleview+Ave+and+Jackson+St+CO DUPLICATE
+Found 386 out of 566 intersections, or 68.0%
+Belleview+Ave+and+Cherry+Hills+Farm+Dr+CO DUPLICATE
+Belleview+Ave+and+Jackson+St+CO DUPLICATE
+Found 386 out of 568 intersections, or 68.0%
+Belleview+Ave+and+Fairfax+Ln+CO Found Intersection!! Coords are 39.6241648, -104.9274629
+Belleview+Ave+and+Steele+St+CO DUPLICATE
+Found 388 out of 570 intersections, or 68.0%
+Belleview+Ave+and+Fairfax+Ln+CO DUPLICATE
+Belleview+Ave+and+Steele+St+CO DUPLICATE
+Found 390 out of 572 intersections, or 68.0%
+Belleview+Ave+and+Fairfax+Ln+CO DUPLICATE
+Belleview+Ave+and+Steele+St+CO DUPLICATE
+Found 392 out of 574 intersections, or 68.0%
+Belleview+Ave+and+Fairfax+Ln+CO DUPLICATE
+Belleview+Ave+and+Steele+St+CO DUPLICATE
+Found 394 out of 576 intersections, or 68.0%
+Belleview+Ave+and+Fairfax+Ln+CO DUPLICATE
+Belleview+Ave+and+Steele+St+CO DUPLICATE
+Found 396 out of 578 intersections, or 69.0%
+Belleview+Ave+and+Fairfax+Ln+CO DUPLICATE
+Belleview+Ave+and+Steele+St+CO DUPLICATE
+Found 398 out of 580 intersections, or 69.0%
+Belleview+Ave+and+Fairfax+Ln+CO DUPLICATE
+Belleview+Ave+and+Steele+St+CO DUPLICATE
+Found 400 out of 582 intersections, or 69.0%
+Belleview+Ave+and+Fairfax+Ln+CO DUPLICATE
+Belleview+Ave+and+Steele+St+CO DUPLICATE
+Found 402 out of 584 intersections, or 69.0%
+Belleview+Ave+and+Fairfax+Ln+CO DUPLICATE
+Belleview+Ave+and+Steele+St+CO DUPLICATE
+Found 404 out of 586 intersections, or 69.0%
+Belleview+Ave+and+Fairfax+Ln+CO DUPLICATE
+Belleview+Ave+and+Steele+St+CO DUPLICATE
+Found 406 out of 588 intersections, or 69.0%
+Belleview+Ave+and+Fairfax+Ln+CO DUPLICATE
+Belleview+Ave+and+Steele+St+CO DUPLICATE
+Found 408 out of 590 intersections, or 69.0%
+Belleview+Ave+and+Fairfax+Ln+CO DUPLICATE
+Belleview+Ave+and+Steele+St+CO DUPLICATE
+Found 410 out of 592 intersections, or 69.0%
+Belleview+Ave+and+Fairfax+Ln+CO DUPLICATE
+Belleview+Ave+and+Steele+St+CO DUPLICATE
+Found 412 out of 594 intersections, or 69.0%
+Belleview+Ave+and+Fairfax+Ln+CO DUPLICATE
+Belleview+Ave+and+Steele+St+CO DUPLICATE
+Found 414 out of 596 intersections, or 69.0%
+Belleview+Ave+and+Steele+St+CO DUPLICATE
+Belleview+Ave+and+Fairfax+Ln+CO DUPLICATE
+Found 416 out of 598 intersections, or 70.0%
+Belleview+Ave+and+Steele+St+CO DUPLICATE
+Belleview+Ave+and+Fairfax+Ln+CO DUPLICATE
+Found 418 out of 600 intersections, or 70.0%
+Belleview+Ave+and+Steele+St+CO DUPLICATE
+Belleview+Ave+and+Fairfax+Ln+CO DUPLICATE
+Found 420 out of 602 intersections, or 70.0%
+Belleview+Ave+and+Steele+St+CO DUPLICATE
+Belleview+Ave+and+Fairfax+Ln+CO DUPLICATE
+Found 422 out of 604 intersections, or 70.0%
+Belleview+Ave+and+Steele+St+CO DUPLICATE
+Belleview+Ave+and+Fairfax+Ln+CO DUPLICATE
+Found 424 out of 606 intersections, or 70.0%
+Belleview+Ave+and+Steele+St+CO DUPLICATE
+Belleview+Ave+and+Fairfax+Ln+CO DUPLICATE
+Found 426 out of 608 intersections, or 70.0%
+Belleview+Ave+and+Steele+St+CO DUPLICATE
+Belleview+Ave+and+Fairfax+Ln+CO DUPLICATE
+Found 428 out of 610 intersections, or 70.0%
+Belleview+Ave+and+Steele+St+CO DUPLICATE
+Belleview+Ave+and+Fairfax+Ln+CO DUPLICATE
+Found 430 out of 612 intersections, or 70.0%
+Belleview+Ave+and+Steele+St+CO DUPLICATE
+Belleview+Ave+and+Fairfax+Ln+CO DUPLICATE
+Found 432 out of 614 intersections, or 70.0%
+Belleview+Ave+and+Steele+St+CO DUPLICATE
+Belleview+Ave+and+Fairfax+Ln+CO DUPLICATE
+Found 434 out of 616 intersections, or 70.0%
+Belleview+Ave+and+Steele+St+CO DUPLICATE
+Belleview+Ave+and+Fairfax+Ln+CO DUPLICATE
+Found 436 out of 618 intersections, or 71.0%
+Belleview+Ave+and+Steele+St+CO DUPLICATE
+Belleview+Ave+and+Fairfax+Ln+CO DUPLICATE
+Found 438 out of 620 intersections, or 71.0%
+Belleview+Ave+and+Steele+St+CO DUPLICATE
+Belleview+Ave+and+Fairfax+Ln+CO DUPLICATE
+Found 440 out of 622 intersections, or 71.0%
+Belleview+Ave+and+Steele+St+CO DUPLICATE
+Belleview+Ave+and+Fairfax+Ln+CO DUPLICATE
+Found 442 out of 624 intersections, or 71.0%
+Belleview+Ave+and+Fairfax+Ln+CO DUPLICATE
+Belleview+Ave+and+Steele+St+CO DUPLICATE
+Found 444 out of 626 intersections, or 71.0%
+Belleview+Ave+and+Fairfax+Ln+CO DUPLICATE
+Belleview+Ave+and+Steele+St+CO DUPLICATE
+Found 446 out of 628 intersections, or 71.0%
+Belleview+Ave+and+Fairfax+Ln+CO DUPLICATE
+Belleview+Ave+and+Steele+St+CO DUPLICATE
+Found 448 out of 630 intersections, or 71.0%
+Belleview+Ave+and+Fairfax+Ln+CO DUPLICATE
+Belleview+Ave+and+Steele+St+CO DUPLICATE
+Found 450 out of 632 intersections, or 71.0%
+Belleview+Ave+and+Fairfax+Ln+CO DUPLICATE
+Belleview+Ave+and+Steele+St+CO DUPLICATE
+Found 452 out of 634 intersections, or 71.0%
+Belleview+Ave+and+Fairfax+Ln+CO DUPLICATE
+Belleview+Ave+and+Steele+St+CO DUPLICATE
+Found 454 out of 636 intersections, or 71.0%
+Belleview+Ave+and+Fairfax+Ln+CO DUPLICATE
+Belleview+Ave+and+Steele+St+CO DUPLICATE
+Found 456 out of 638 intersections, or 71.0%
+Belleview+Ave+and+Fairfax+Ln+CO DUPLICATE
+Belleview+Ave+and+Steele+St+CO DUPLICATE
+Found 458 out of 640 intersections, or 72.0%
+Belleview+Ave+and+Fairfax+Ln+CO DUPLICATE
+Belleview+Ave+and+Steele+St+CO DUPLICATE
+Found 460 out of 642 intersections, or 72.0%
+Belleview+Ave+and+Fairfax+Ln+CO DUPLICATE
+Belleview+Ave+and+Steele+St+CO DUPLICATE
+Found 462 out of 644 intersections, or 72.0%
+Belleview+Ave+and+Fairfax+Ln+CO DUPLICATE
+Belleview+Ave+and+Steele+St+CO DUPLICATE
+Found 464 out of 646 intersections, or 72.0%
+Belleview+Ave+and+Fairfax+Ln+CO DUPLICATE
+Belleview+Ave+and+Steele+St+CO DUPLICATE
+Found 466 out of 648 intersections, or 72.0%
+Belleview+Ave+and+Fairfax+Ln+CO DUPLICATE
+Belleview+Ave+and+Steele+St+CO DUPLICATE
+Found 468 out of 650 intersections, or 72.0%
+Belleview+Ave+and+Fairfax+Ln+CO DUPLICATE
+Belleview+Ave+and+Steele+St+CO DUPLICATE
+Found 470 out of 652 intersections, or 72.0%
+Belleview+Ave+and+Fairfax+Ln+CO DUPLICATE
+Belleview+Ave+and+Steele+St+CO DUPLICATE
+Found 472 out of 654 intersections, or 72.0%
+Belleview+Ave+and+Fairfax+Ln+CO DUPLICATE
+Belleview+Ave+and+Steele+St+CO DUPLICATE
+Found 474 out of 656 intersections, or 72.0%
+Belleview+Ave+and+Fairfax+Ln+CO DUPLICATE
+Belleview+Ave+and+Steele+St+CO DUPLICATE
+Found 476 out of 658 intersections, or 72.0%
+Belleview+Ave+and+Fairfax+Ln+CO DUPLICATE
+Belleview+Ave+and+Steele+St+CO DUPLICATE
+Found 478 out of 660 intersections, or 72.0%
+Belleview+Ave+and+Fairfax+Ln+CO DUPLICATE
+Belleview+Ave+and+Steele+St+CO DUPLICATE
+Found 480 out of 662 intersections, or 73.0%
+Belleview+Ave+and+Fairfax+Ln+CO DUPLICATE
+Belleview+Ave+and+Steele+St+CO DUPLICATE
+Found 482 out of 664 intersections, or 73.0%
+Belleview+Ave+and+Fairfax+Ln+CO DUPLICATE
+Belleview+Ave+and+Steele+St+CO DUPLICATE
+Found 484 out of 666 intersections, or 73.0%
+Belleview+Ave+and+Fairfax+Ln+CO DUPLICATE
+Belleview+Ave+and+Steele+St+CO DUPLICATE
+Found 486 out of 668 intersections, or 73.0%
+Belleview+Ave+and+Fairfax+Ln+CO DUPLICATE
+Belleview+Ave+and+Steele+St+CO DUPLICATE
+Found 488 out of 670 intersections, or 73.0%
+Belleview+Ave+and+Fairfax+Ln+CO DUPLICATE
+Belleview+Ave+and+Steele+St+CO DUPLICATE
+Found 490 out of 672 intersections, or 73.0%
+Belleview+Ave+and+Fairfax+Ln+CO DUPLICATE
+Belleview+Ave+and+Steele+St+CO DUPLICATE
+Found 492 out of 674 intersections, or 73.0%
+Belleview+Ave+and+Fairfax+Ln+CO DUPLICATE
+Belleview+Ave+and+Steele+St+CO DUPLICATE
+Found 494 out of 676 intersections, or 73.0%
+Belleview+Ave+and+Fairfax+Ln+CO DUPLICATE
+Belleview+Ave+and+Steele+St+CO DUPLICATE
+Found 496 out of 678 intersections, or 73.0%
+Belleview+Ave+and+Steele+St+CO DUPLICATE
+Belleview+Ave+and+Fairfax+Ln+CO DUPLICATE
+Found 498 out of 680 intersections, or 73.0%
+Belleview+Ave+and+Steele+St+CO DUPLICATE
+Belleview+Ave+and+Fairfax+Ln+CO DUPLICATE
+Found 500 out of 682 intersections, or 73.0%
+Belleview+Ave+and+Steele+St+CO DUPLICATE
+Belleview+Ave+and+Fairfax+Ln+CO DUPLICATE
+Found 502 out of 684 intersections, or 73.0%
+Belleview+Ave+and+Steele+St+CO DUPLICATE
+Belleview+Ave+and+Fairfax+Ln+CO DUPLICATE
+Found 504 out of 686 intersections, or 73.0%
+Belleview+Ave+and+Steele+St+CO DUPLICATE
+Belleview+Ave+and+Fairfax+Ln+CO DUPLICATE
+Found 506 out of 688 intersections, or 74.0%
+Belleview+Ave+and+Steele+St+CO DUPLICATE
+Belleview+Ave+and+Fairfax+Ln+CO DUPLICATE
+Found 508 out of 690 intersections, or 74.0%
+Belleview+Ave+and+Steele+St+CO DUPLICATE
+Belleview+Ave+and+Fairfax+Ln+CO DUPLICATE
+Found 510 out of 692 intersections, or 74.0%
+Belleview+Ave+and+Steele+St+CO DUPLICATE
+Belleview+Ave+and+Fairfax+Ln+CO DUPLICATE
+Found 512 out of 694 intersections, or 74.0%
+Belleview+Ave+and+Steele+St+CO DUPLICATE
+Belleview+Ave+and+Fairfax+Ln+CO DUPLICATE
+Found 514 out of 696 intersections, or 74.0%
+Belleview+Ave+and+Steele+St+CO DUPLICATE
+Belleview+Ave+and+Fairfax+Ln+CO DUPLICATE
+Found 516 out of 698 intersections, or 74.0%
+Belleview+Ave+and+Steele+St+CO DUPLICATE
+Belleview+Ave+and+Fairfax+Ln+CO DUPLICATE
+Found 518 out of 700 intersections, or 74.0%
+Belleview+Ave+and+Steele+St+CO DUPLICATE
+Belleview+Ave+and+Fairfax+Ln+CO DUPLICATE
+Found 520 out of 702 intersections, or 74.0%
+Belleview+Ave+and+Steele+St+CO DUPLICATE
+Belleview+Ave+and+Fairfax+Ln+CO DUPLICATE
+Found 522 out of 704 intersections, or 74.0%
+Belleview+Ave+and+Steele+St+CO DUPLICATE
+Belleview+Ave+and+Fairfax+Ln+CO DUPLICATE
+Found 524 out of 706 intersections, or 74.0%
+Belleview+Ave+and+Fairfax+St+CO DUPLICATE
+Belleview+Ave+and+Birch+St+CO DUPLICATE
+Found 526 out of 708 intersections, or 74.0%
+Belleview+Ave+and+Fairfax+St+CO DUPLICATE
+Belleview+Ave+and+Birch+St+CO DUPLICATE
+Found 528 out of 710 intersections, or 74.0%
+Belleview+Ave+and+Fairfax+St+CO DUPLICATE
+Belleview+Ave+and+Birch+St+CO DUPLICATE
+Found 530 out of 712 intersections, or 74.0%
+Belleview+Ave+and+Fairfax+St+CO DUPLICATE
+Belleview+Ave+and+Birch+St+CO DUPLICATE
+Found 532 out of 714 intersections, or 75.0%
+Belleview+Ave+and+Fairfax+St+CO DUPLICATE
+Belleview+Ave+and+Birch+St+CO DUPLICATE
+Found 534 out of 716 intersections, or 75.0%
+Belleview+Ave+and+Fairfax+St+CO DUPLICATE
+Belleview+Ave+and+Birch+St+CO DUPLICATE
+Found 536 out of 718 intersections, or 75.0%
+Belleview+Ave+and+Fairfax+St+CO DUPLICATE
+Belleview+Ave+and+Birch+St+CO DUPLICATE
+Found 538 out of 720 intersections, or 75.0%
+Belleview+Ave+and+Albion+St+CO DUPLICATE
+Belleview+Ave+and+Steele+St+CO DUPLICATE
+Found 540 out of 722 intersections, or 75.0%
+Belleview+Ave+and+Albion+St+CO DUPLICATE
+Belleview+Ave+and+Steele+St+CO DUPLICATE
+Found 542 out of 724 intersections, or 75.0%
+Belleview+Ave+and+Albion+St+CO DUPLICATE
+Belleview+Ave+and+Steele+St+CO DUPLICATE
+Found 544 out of 726 intersections, or 75.0%
+Belleview+Ave+and+Albion+St+CO DUPLICATE
+Belleview+Ave+and+Steele+St+CO DUPLICATE
+Found 546 out of 728 intersections, or 75.0%
+Belleview+Ave+and+Albion+St+CO DUPLICATE
+Belleview+Ave+and+Steele+St+CO DUPLICATE
+Found 548 out of 730 intersections, or 75.0%
+Belleview+Ave+and+Albion+St+CO DUPLICATE
+Belleview+Ave+and+Steele+St+CO DUPLICATE
+Found 550 out of 732 intersections, or 75.0%
+Belleview+Ave+and+Albion+St+CO DUPLICATE
+Belleview+Ave+and+Steele+St+CO DUPLICATE
+Found 552 out of 734 intersections, or 75.0%
+Belleview+Ave+and+Albion+St+CO DUPLICATE
+Belleview+Ave+and+Steele+St+CO DUPLICATE
+Found 554 out of 736 intersections, or 75.0%
+Belleview+Ave+and+Albion+St+CO DUPLICATE
+Belleview+Ave+and+Steele+St+CO DUPLICATE
+Found 556 out of 738 intersections, or 75.0%
+Belleview+Ave+and+Birch+St+CO DUPLICATE
+Belleview+Ave+and+Fairfax+St+CO DUPLICATE
+Found 558 out of 740 intersections, or 75.0%
+Belleview+Ave+and+Birch+St+CO DUPLICATE
+Belleview+Ave+and+Fairfax+St+CO DUPLICATE
+Found 560 out of 742 intersections, or 75.0%
+Belleview+Ave+and+Birch+St+CO DUPLICATE
+Belleview+Ave+and+Fairfax+St+CO DUPLICATE
+Found 562 out of 744 intersections, or 76.0%
+Belleview+Ave+and+Birch+St+CO DUPLICATE
+Belleview+Ave+and+Fairfax+St+CO DUPLICATE
+Found 564 out of 746 intersections, or 76.0%
+Belleview+Ave+and+Birch+St+CO DUPLICATE
+Belleview+Ave+and+Fairfax+St+CO DUPLICATE
+Found 566 out of 748 intersections, or 76.0%
+Belleview+Ave+and+Birch+St+CO DUPLICATE
+Belleview+Ave+and+Fairfax+St+CO DUPLICATE
+Found 568 out of 750 intersections, or 76.0%
+Belleview+Ave+and+Birch+St+CO DUPLICATE
+Belleview+Ave+and+Fairfax+St+CO DUPLICATE
+Found 570 out of 752 intersections, or 76.0%
+Belleview+Ave+and+Birch+St+CO DUPLICATE
+Belleview+Ave+and+Fairfax+St+CO DUPLICATE
+Found 572 out of 754 intersections, or 76.0%
+Belleview+Ave+and+Birch+St+CO DUPLICATE
+Belleview+Ave+and+Fairfax+St+CO DUPLICATE
+Found 574 out of 756 intersections, or 76.0%
+Found 574 out of 756 intersections, or 76.0%
+Belleview+Ave+and+Dahlia+St+CO DUPLICATE
+Belleview+Ave+and+Fairfax+St+CO DUPLICATE
+Found 576 out of 758 intersections, or 76.0%
+Belleview+Ave+and+Dahlia+St+CO DUPLICATE
+Belleview+Ave+and+Fairfax+St+CO DUPLICATE
+Found 578 out of 760 intersections, or 76.0%
+Belleview+Ave+and+Dahlia+St+CO DUPLICATE
+Belleview+Ave+and+Fairfax+St+CO DUPLICATE
+Found 580 out of 762 intersections, or 76.0%
+Belleview+Ave+and+Dahlia+St+CO DUPLICATE
+Belleview+Ave+and+Fairfax+St+CO DUPLICATE
+Found 582 out of 764 intersections, or 76.0%
+Belleview+Ave+and+Dahlia+St+CO DUPLICATE
+Belleview+Ave+and+Fairfax+St+CO DUPLICATE
+Found 584 out of 766 intersections, or 76.0%
+Belleview+Ave+and+Dahlia+St+CO DUPLICATE
+Belleview+Ave+and+Fairfax+St+CO DUPLICATE
+Found 586 out of 768 intersections, or 76.0%
+Belleview+Ave+and+University+Blvd+CO DUPLICATE
+Belleview+Ave+and+Steele+St+CO DUPLICATE
+Found 588 out of 770 intersections, or 76.0%
+Belleview+Ave+and+University+Blvd+CO DUPLICATE
+Belleview+Ave+and+Steele+St+CO DUPLICATE
+Found 590 out of 772 intersections, or 76.0%
+Belleview+Ave+and+University+Blvd+CO DUPLICATE
+Belleview+Ave+and+Steele+St+CO DUPLICATE
+Found 592 out of 774 intersections, or 76.0%
+Belleview+Ave+and+University+Blvd+CO DUPLICATE
+Belleview+Ave+and+Steele+St+CO DUPLICATE
+Found 594 out of 776 intersections, or 77.0%
+Belleview+Ave+and+University+Blvd+CO DUPLICATE
+Belleview+Ave+and+Steele+St+CO DUPLICATE
+Found 596 out of 778 intersections, or 77.0%
+Belleview+Ave+and+University+Blvd+CO DUPLICATE
+Belleview+Ave+and+Steele+St+CO DUPLICATE
+Found 598 out of 780 intersections, or 77.0%
+Belleview+Ave+and+Steele+St+CO DUPLICATE
+Belleview+Ave+and+University+Blvd+CO DUPLICATE
+Found 600 out of 782 intersections, or 77.0%
+Belleview+Ave+and+Birch+St+CO DUPLICATE
+Belleview+Ave+and+Dahlia+St+CO DUPLICATE
+Found 602 out of 784 intersections, or 77.0%
+Belleview+Ave+and+Birch+St+CO DUPLICATE
+Belleview+Ave+and+Dahlia+St+CO DUPLICATE
+Found 604 out of 786 intersections, or 77.0%
+Belleview+Ave+and+Birch+St+CO DUPLICATE
+Belleview+Ave+and+Dahlia+St+CO DUPLICATE
+Found 606 out of 788 intersections, or 77.0%
+Belleview+Ave+and+Birch+St+CO DUPLICATE
+Belleview+Ave+and+Dahlia+St+CO DUPLICATE
+Found 608 out of 790 intersections, or 77.0%
+Found 608 out of 790 intersections, or 77.0%
+Belleview+Ave+and+S+Colorado+Blvd+CO Found Intersection!! Coords are 39.6240095, -104.9410579
+Belleview+Ave+and+S+Steele+St+CO Found Intersection!! Coords are 39.6241924, -104.9504054
+Found 610 out of 792 intersections, or 77.0%
+Belleview+Ave+and+Fairfax+St+CO DUPLICATE
+Belleview+Ave+and+Birch+St+CO DUPLICATE
+Found 612 out of 794 intersections, or 77.0%
+Belleview+Ave+and+Fairfax+St+CO DUPLICATE
+Belleview+Ave+and+Birch+St+CO DUPLICATE
+Found 614 out of 796 intersections, or 77.0%
+Belleview+Ave+and+Fairfax+St+CO DUPLICATE
+Belleview+Ave+and+Birch+St+CO DUPLICATE
+Found 616 out of 798 intersections, or 77.0%
+Belleview+Ave+and+Fairfax+St+CO DUPLICATE
+Belleview+Ave+and+Birch+St+CO DUPLICATE
+Found 618 out of 800 intersections, or 77.0%
+Belleview+Ave+and+Fairfax+St+CO DUPLICATE
+Belleview+Ave+and+Birch+St+CO DUPLICATE
+Found 620 out of 802 intersections, or 77.0%
+Belleview+Ave+and+Fairfax+St+CO DUPLICATE
+Belleview+Ave+and+Birch+St+CO DUPLICATE
+Found 622 out of 804 intersections, or 77.0%
+Belleview+Ave+and+Fairfax+St+CO DUPLICATE
+Belleview+Ave+and+Birch+St+CO DUPLICATE
+Found 624 out of 806 intersections, or 77.0%
+Found 624 out of 806 intersections, or 77.0%
+Belleview+Ave+and+Glenmoor+Dr+CO DUPLICATE
+Belleview+Ave+and+Glenmoor+Dr+CO DUPLICATE
+Found 626 out of 808 intersections, or 77.0%
+Belleview+Ave+and+Cherry+Hills+Farm+Dr+CO DUPLICATE
+Belleview+Ave+and+Jackson+Pl+CO Found Intersection!! Coords are 39.6242185, -104.9432921
+Found 627 out of 810 intersections, or 77.0%
+Belleview+Ave+and+Cherry+Hills+Farm+Dr+CO DUPLICATE
+Belleview+Ave+and+Jackson+Pl+CO DUPLICATE
+Found 628 out of 812 intersections, or 77.0%
+Belleview+Ave+and+Cherry+Hills+Farm+Dr+CO DUPLICATE
+Belleview+Ave+and+Jackson+Pl+CO DUPLICATE
+Found 629 out of 814 intersections, or 77.0%
+Belleview+Ave+and+Cherry+Hills+Farm+Dr+CO DUPLICATE
+Belleview+Ave+and+Jackson+Pl+CO DUPLICATE
+Found 630 out of 816 intersections, or 77.0%
+Belleview+Ave+and+Cherry+Hills+Farm+Dr+CO DUPLICATE
+Belleview+Ave+and+Jackson+Pl+CO DUPLICATE
+Found 631 out of 818 intersections, or 77.0%
+Belleview+Ave+and+Cherry+Hills+Farm+Dr+CO DUPLICATE
+Belleview+Ave+and+Jackson+Pl+CO DUPLICATE
+Found 632 out of 820 intersections, or 77.0%
+Belleview+Ave+and+Cherry+Hills+Farm+Dr+CO DUPLICATE
+Belleview+Ave+and+Jackson+Pl+CO DUPLICATE
+Found 633 out of 822 intersections, or 77.0%
+Found 633 out of 822 intersections, or 77.0%
+Found 633 out of 822 intersections, or 77.0%
+Found 633 out of 822 intersections, or 77.0%
+Found 633 out of 822 intersections, or 77.0%
+Found 633 out of 822 intersections, or 77.0%
+Found 633 out of 822 intersections, or 77.0%
+Found 633 out of 822 intersections, or 77.0%
+Belleview+Ave+and+Cherry+Hills+Farm+Dr+CO DUPLICATE
+Belleview+Ave+and+Colorado+Blvd+CO DUPLICATE
+Found 633 out of 824 intersections, or 77.0%
+Belleview+Ave+and+Cherry+Hills+Farm+Dr+CO DUPLICATE
+Belleview+Ave+and+Colorado+Blvd+CO DUPLICATE
+Found 633 out of 826 intersections, or 77.0%
+Belleview+Ave+and+Cherry+Hills+Farm+Dr+CO DUPLICATE
+Belleview+Ave+and+Colorado+Blvd+CO DUPLICATE
+Found 633 out of 828 intersections, or 76.0%
+Belleview+Ave+and+Cherry+Hills+Farm+Dr+CO DUPLICATE
+Belleview+Ave+and+Colorado+Blvd+CO DUPLICATE
+Found 633 out of 830 intersections, or 76.0%
+Belleview+Ave+and+Cherry+Hills+Farm+Dr+CO DUPLICATE
+Belleview+Ave+and+Colorado+Blvd+CO DUPLICATE
+Found 633 out of 832 intersections, or 76.0%
+Belleview+Ave+and+Cherry+Hills+Farm+Dr+CO DUPLICATE
+Belleview+Ave+and+Colorado+Blvd+CO DUPLICATE
+Found 633 out of 834 intersections, or 76.0%
+Belleview+Ave+and+Fairfax+St+CO DUPLICATE
+Belleview+Ave+and+Dahlia+St+CO DUPLICATE
+Found 635 out of 836 intersections, or 76.0%
+Belleview+Ave+and+Fairfax+St+CO DUPLICATE
+Belleview+Ave+and+Dahlia+St+CO DUPLICATE
+Found 637 out of 838 intersections, or 76.0%
+Belleview+Ave+and+Fairfax+St+CO DUPLICATE
+Belleview+Ave+and+Dahlia+St+CO DUPLICATE
+Found 639 out of 840 intersections, or 76.0%
+Belleview+Ave+and+Fairfax+St+CO DUPLICATE
+Belleview+Ave+and+Dahlia+St+CO DUPLICATE
+Found 641 out of 842 intersections, or 76.0%
+Belleview+Ave+and+Fairfax+St+CO DUPLICATE
+Belleview+Ave+and+Dahlia+St+CO DUPLICATE
+Found 643 out of 844 intersections, or 76.0%
+Belleview+Ave+and+Fairfax+St+CO DUPLICATE
+Belleview+Ave+and+Dahlia+St+CO DUPLICATE
+Found 645 out of 846 intersections, or 76.0%
+Found 645 out of 846 intersections, or 76.0%
+Found 645 out of 846 intersections, or 76.0%
+Found 645 out of 846 intersections, or 76.0%
+Found 645 out of 846 intersections, or 76.0%
+Belleview+Ave+and+Colorado+Blvd+CO DUPLICATE
+Belleview+Ave+and+Cherry+Hills+Farm+Dr+CO DUPLICATE
+Found 645 out of 848 intersections, or 76.0%
+Belleview+Ave+and+Colorado+Blvd+CO DUPLICATE
+Belleview+Ave+and+Cherry+Hills+Farm+Dr+CO DUPLICATE
+Found 645 out of 850 intersections, or 76.0%
+Belleview+Ave+and+Colorado+Blvd+CO DUPLICATE
+Belleview+Ave+and+Cherry+Hills+Farm+Dr+CO DUPLICATE
+Found 645 out of 852 intersections, or 76.0%
+Belleview+Ave+and+Colorado+Blvd+CO DUPLICATE
+Belleview+Ave+and+Cherry+Hills+Farm+Dr+CO DUPLICATE
+Found 645 out of 854 intersections, or 76.0%
+Belleview+Ave+and+Colorado+Blvd+CO DUPLICATE
+Belleview+Ave+and+Cherry+Hills+Farm+Dr+CO DUPLICATE
+Found 645 out of 856 intersections, or 75.0%
+Belleview+Ave+and+Colorado+Blvd+CO DUPLICATE
+Belleview+Ave+and+Cherry+Hills+Farm+Dr+CO DUPLICATE
+Found 645 out of 858 intersections, or 75.0%
+Belleview+Ave+and+S+Birch+St+CO Found Intersection!! Coords are 39.624121, -104.9369317
+Belleview+Ave+and+Fairfax+St+CO DUPLICATE
+Found 647 out of 860 intersections, or 75.0%
+Belleview+Ave+and+S+Birch+St+CO DUPLICATE
+Belleview+Ave+and+Fairfax+St+CO DUPLICATE
+Found 649 out of 862 intersections, or 75.0%
+Belleview+Ave+and+S+Birch+St+CO DUPLICATE
+Belleview+Ave+and+Fairfax+St+CO DUPLICATE
+Found 651 out of 864 intersections, or 75.0%
+Belleview+Ave+and+S+Birch+St+CO DUPLICATE
+Belleview+Ave+and+Fairfax+St+CO DUPLICATE
+Found 653 out of 866 intersections, or 75.0%
+Belleview+Ave+and+S+Birch+St+CO DUPLICATE
+Belleview+Ave+and+Fairfax+St+CO DUPLICATE
+Found 655 out of 868 intersections, or 75.0%
+E+Belleveiw+Ave+and+S+Birch+St+CO Found Intersection!! Coords are 39.624121, -104.9369317
+E+Belleveiw+Ave+and+Fairfax+St+CO Found Intersection!! Coords are 39.6241648, -104.9274629
+Found 657 out of 870 intersections, or 76.0%
+E+Belleveiw+Ave+and+S+Colorado+Blvd+CO Found Intersection!! Coords are 39.6240095, -104.9410579
+E+Belleveiw+Ave+and+S+Steele+St+CO Found Intersection!! Coords are 39.6241924, -104.9504054
+Found 659 out of 872 intersections, or 76.0%
++and+University+CO Unable to find intersection
++and+S+Jackson+Pl+CO Unable to find intersection
+Found 659 out of 874 intersections, or 75.0%
++and+S+Jackson+Pl+CO DUPLICATE
++and+University+Blvd+CO Unable to find intersection
+Found 659 out of 876 intersections, or 75.0%
+Belleview+Ave+and+Fairfax+St+CO DUPLICATE
+Belleview+Ave+and+Birch+St+CO DUPLICATE
+Found 661 out of 878 intersections, or 75.0%
+Belleview+Ave+and+Fairfax+St+CO DUPLICATE
+Belleview+Ave+and+Birch+St+CO DUPLICATE
+Found 663 out of 880 intersections, or 75.0%
+Belleview+Ave+and+Fairfax+St+CO DUPLICATE
+Belleview+Ave+and+Birch+St+CO DUPLICATE
+Found 665 out of 882 intersections, or 75.0%
+Belleview+Ave+and+Fairfax+St+CO DUPLICATE
+Belleview+Ave+and+Birch+St+CO DUPLICATE
+Found 667 out of 884 intersections, or 75.0%
+Belleview+Ave+and+Fairfax+St+CO DUPLICATE
+Belleview+Ave+and+Birch+St+CO DUPLICATE
+Found 669 out of 886 intersections, or 76.0%
+Belleview+Ave+and+Fairfax+St+CO DUPLICATE
+Belleview+Ave+and+Birch+St+CO DUPLICATE
+Found 671 out of 888 intersections, or 76.0%
+Belleview+Ave+and+University+Blvd+CO DUPLICATE
+Belleview+Ave+and+Steele+St+CO DUPLICATE
+Found 673 out of 890 intersections, or 76.0%
+Belleview+Ave+and+University+Blvd+CO DUPLICATE
+Belleview+Ave+and+Steele+St+CO DUPLICATE
+Found 675 out of 892 intersections, or 76.0%
+Belleview+Ave+and+University+Blvd+CO DUPLICATE
+Belleview+Ave+and+Steele+St+CO DUPLICATE
+Found 677 out of 894 intersections, or 76.0%
+Belleview+Ave+and+University+Blvd+CO DUPLICATE
+Belleview+Ave+and+Steele+St+CO DUPLICATE
+Found 679 out of 896 intersections, or 76.0%
+Belleview+Ave+and+University+Blvd+CO DUPLICATE
+Belleview+Ave+and+Steele+St+CO DUPLICATE
+Found 681 out of 898 intersections, or 76.0%
+Belleview+Ave+and+University+Blvd+CO DUPLICATE
+Belleview+Ave+and+Steele+St+CO DUPLICATE
+Found 683 out of 900 intersections, or 76.0%
+Belleview+Ave+and+Quebec+St+CO Found Intersection!! Coords are 39.6240115, -104.9041141
+Belleview+Ave+and+Niagara+St+CO Found Intersection!! Coords are 39.6240695, -104.9088308
+Found 685 out of 902 intersections, or 76.0%
+Belleview+Ave+and+Quebec+St+CO DUPLICATE
+Belleview+Ave+and+Niagara+St+CO DUPLICATE
+Found 687 out of 904 intersections, or 76.0%
+Belleview+Ave+and+Quebec+St+CO DUPLICATE
+Belleview+Ave+and+Niagara+St+CO DUPLICATE
+Found 689 out of 906 intersections, or 76.0%
+Belleview+Ave+and+Quebec+St+CO DUPLICATE
+Belleview+Ave+and+Niagara+St+CO DUPLICATE
+Found 691 out of 908 intersections, or 76.0%
+Belleview+Ave+and+Quebec+St+CO DUPLICATE
+Belleview+Ave+and+Niagara+St+CO DUPLICATE
+Found 693 out of 910 intersections, or 76.0%
+Belleview+Ave+and+Quebec+St+CO DUPLICATE
+Belleview+Ave+and+Niagara+St+CO DUPLICATE
+Found 695 out of 912 intersections, or 76.0%
+E+Belleview+Ave+and+S+University+Blvd+CO Found Intersection!! Coords are 39.624204, -104.9598298
+E+Belleview+Ave+and+Glenmoor+Dr+CO DUPLICATE
+Found 697 out of 914 intersections, or 76.0%
+E+Belleview+Ave+and+S+Colorado+Blvd+CO Found Intersection!! Coords are 39.6240095, -104.9410579
+E+Belleview+Ave+and+S+Steel+St+CO Found Intersection!! Coords are 39.6241924, -104.9504054
+Found 699 out of 916 intersections, or 76.0%
+Belleview+and+fairfax+st.+CO Found Intersection!! Coords are 39.6241648, -104.9274629
+Belleview+and+dahlia+st.+CO Found Intersection!! Coords are 39.6240433, -104.9321041
+Found 701 out of 918 intersections, or 76.0%
+Belleview+and+Jackson+CO Unable to find intersection
+Belleview+and+university+CO Unable to find intersection
+Found 701 out of 920 intersections, or 76.0%
+Belleview+and+Jackson+st.+CO Unable to find intersection
+Belleview+and+university+blvd+CO Found Intersection!! Coords are 39.624204, -104.9598298
+Found 702 out of 922 intersections, or 76.0%
+Belleview+Ave+and+Colorado+Blvd+CO DUPLICATE
+Belleview+Ave+and+University+Blvd+CO DUPLICATE
+Found 703 out of 924 intersections, or 76.0%
+Belleview+Ave+and+Colorado+Blvd+CO DUPLICATE
+Belleview+Ave+and+University+Blvd+CO DUPLICATE
+Found 704 out of 926 intersections, or 76.0%
+Belleview+Ave+and+Colorado+Blvd+CO DUPLICATE
+Belleview+Ave+and+University+Blvd+CO DUPLICATE
+Found 705 out of 928 intersections, or 76.0%
+Belleview+Ave+and+Colorado+Blvd+CO DUPLICATE
+Belleview+Ave+and+University+Blvd+CO DUPLICATE
+Found 706 out of 930 intersections, or 76.0%
+Belleview+Ave+and+Colorado+Blvd+CO DUPLICATE
+Belleview+Ave+and+University+Blvd+CO DUPLICATE
+Found 707 out of 932 intersections, or 76.0%
+Belleview+Ave+and+Colorado+Blvd+CO DUPLICATE
+Belleview+Ave+and+University+Blvd+CO DUPLICATE
+Found 708 out of 934 intersections, or 76.0%
+Belleview+Ave+and+Colorado+Blvd+CO DUPLICATE
+Belleview+Ave+and+University+Blvd+CO DUPLICATE
+Found 709 out of 936 intersections, or 76.0%
+Belleview+Ave+and+Colorado+Blvd+CO DUPLICATE
+Belleview+Ave+and+University+Blvd+CO DUPLICATE
+Found 710 out of 938 intersections, or 76.0%
+Belleview+Ave+and+Colorado+Blvd+CO DUPLICATE
+Belleview+Ave+and+University+Blvd+CO DUPLICATE
+Found 711 out of 940 intersections, or 76.0%
+US+287+and+41st+St.+CO Unable to find intersection
+US+287+and+44th++CO Found Intersection!! Coords are 39.77662979999999, -105.0252671
+Found 712 out of 942 intersections, or 76.0%
+US+287+and+41th+St.+CO Unable to find intersection
+US+287+and+44+St.+CO Found Intersection!! Coords are 39.77662979999999, -105.0252671
+Found 713 out of 944 intersections, or 76.0%
+US+287+and+41th+St.+CO DUPLICATE
+US+287+and+44+St.+CO DUPLICATE
+Found 714 out of 946 intersections, or 75.0%
+US+287+and+44th+St.+CO Found Intersection!! Coords are 39.77662979999999, -105.0252671
+US+287+and+41+st.+CO Unable to find intersection
+Found 715 out of 948 intersections, or 75.0%
+US+287+and+44th+St.+CO DUPLICATE
+US+287+and+41+st.+CO DUPLICATE
+Found 716 out of 950 intersections, or 75.0%
+US+40+and+Hudson+St.+CO Found Intersection!! Coords are 39.7402034, -104.923447
+US+40+and+Krameria+St.+CO Found Intersection!! Coords are 39.7401026, -104.9162176
+Found 718 out of 952 intersections, or 75.0%
+US+40+and+Krameria+St.+CO DUPLICATE
+US+40+and+Hudson+St.+CO DUPLICATE
+Found 720 out of 954 intersections, or 75.0%
+US+40+-+EB+and+Krameria+St.+CO Unable to find intersection
+US+40+-+EB+and+Hudson+St.+CO Unable to find intersection
+Found 720 out of 956 intersections, or 75.0%
+US+40+and+Krameria+St.+CO DUPLICATE
+US+40+and+Hudson+St.+CO DUPLICATE
+Found 722 out of 958 intersections, or 75.0%
+Found 722 out of 958 intersections, or 75.0%
+SH-88+and+W.+Mississippi+Ave+++CO Found Intersection!! Coords are 39.6967484, -105.02501
+SH-88+and+W.+Kentucky+Ave+CO Found Intersection!! Coords are 39.7004151, -105.0250247
+Found 724 out of 960 intersections, or 75.0%
+US+40+-+WB+and+Hudson+St.+CO Unable to find intersection
+US+40+-+WB+and+Krameria+St.+CO Unable to find intersection
+Found 724 out of 962 intersections, or 75.0%
+US+40+-+EB+and+Jersey+St.+CO Unable to find intersection
+US+40+-+EB+and+Hudson+St.+CO DUPLICATE
+Found 724 out of 964 intersections, or 75.0%
+US+40+-+EB+and+Jersey+St.+CO DUPLICATE
+US+40+-+EB+and+Hudson+St.+CO DUPLICATE
+Found 724 out of 966 intersections, or 75.0%
+Found 724 out of 966 intersections, or 75.0%
+I-25+and+City+Center+Dr+CO Unable to find intersection
+I-25+and+Abriendo+Ave+CO Unable to find intersection
+Found 724 out of 968 intersections, or 75.0%
+US+40+and+Steele+St+CO DUPLICATE
+US+40+and+St+Paul+St+CO DUPLICATE
+Found 726 out of 970 intersections, or 75.0%
+I-70+and+Steele+St+CO Unable to find intersection
+I-70+and+I-70+WB+Off+Ramp+CO Unable to find intersection
+Found 726 out of 972 intersections, or 75.0%
+C-470+and+Alameda+Pkwy+CO Unable to find intersection
+C-470+and+C-470+CO Unable to find intersection
+Found 726 out of 974 intersections, or 75.0%
+I-70+and+Steele+St+CO DUPLICATE
+I-70+and+I-70+EB+Off+Ramp+CO Unable to find intersection
+Found 726 out of 976 intersections, or 74.0%
+I-25+and+Plum+Creek+Pkwy+CO Unable to find intersection
+I-25+and+Tomah+Rd+CO Unable to find intersection
+Found 726 out of 978 intersections, or 74.0%
+Belleview+Ave+and+Steele+St+CO DUPLICATE
+Belleview+Ave+and+Albion+St+CO DUPLICATE
+Found 728 out of 980 intersections, or 74.0%
+Belleview+Ave+and+Steele+St+CO DUPLICATE
+Belleview+Ave+and+Albion+St+CO DUPLICATE
+Found 730 out of 982 intersections, or 74.0%
+Belleview+Ave+and+Albion+St+CO DUPLICATE
+Belleview+Ave+and+Steele+St.+CO DUPLICATE
+Found 732 out of 984 intersections, or 74.0%
+ERROR: Invalid response for +and+wewe+CO
+[]
++and+wewe+CO Unable to find intersection
+Found 732 out of 985 intersections, or 74.0%
+Belleview+Ave+and+Albion+St+CO DUPLICATE
+Belleview+Ave+and+Steele+St+CO DUPLICATE
+Found 734 out of 987 intersections, or 74.0%
+Belleview+Ave+and+Steele+St+CO DUPLICATE
+Belleview+Ave+and+Albion+St+CO DUPLICATE
+Found 736 out of 989 intersections, or 74.0%
+Belleview+Ave+and+Steele+St+CO DUPLICATE
+Belleview+Ave+and+Albion+St+CO DUPLICATE
+Found 738 out of 991 intersections, or 74.0%
+Belleview+Ave+and+Albion+St+CO DUPLICATE
+Belleview+Ave+and+Steele+St+CO DUPLICATE
+Found 740 out of 993 intersections, or 75.0%
+Belleview+Ave+and+Cherry+Hills+Farm+CO DUPLICATE
+Belleview+Ave+and+Jackson+CO Unable to find intersection
+Found 740 out of 995 intersections, or 74.0%
+Belleview+Ave+and+Jackson+CO DUPLICATE
+Belleview+Ave+and+Cherry+Hills+Farm+CO DUPLICATE
+Found 740 out of 997 intersections, or 74.0%
+Belleview+Ave+and+Steele+St+CO DUPLICATE
+Belleview+Ave+and+University+Blvd+CO DUPLICATE
+Found 742 out of 999 intersections, or 74.0%
+Belleview+Ave+and+Steele+St+CO DUPLICATE
+Belleview+Ave+and+University+Blvd+CO DUPLICATE
+Found 744 out of 1001 intersections, or 74.0%
+Belleview+Ave+and+Cherry+Hills+Farm+Dr+CO DUPLICATE
+Belleview+Ave+and+University+Blvd+CO DUPLICATE
+Found 745 out of 1003 intersections, or 74.0%
+Belleveiw+Ave+and+University+Blvd+CO DUPLICATE
+Belleveiw+Ave+and+Cherry+Hills+Farm+Dr+CO Unable to find intersection
+Found 746 out of 1005 intersections, or 74.0%
+Belleview+Ave+and+Charington+Dr+CO DUPLICATE
+Belleview+Ave+and+Holly+St+CO DUPLICATE
+Found 748 out of 1007 intersections, or 74.0%
+Belleview+Ave+and+Holly+St+CO DUPLICATE
+Belleview+Ave+and+Charington+Dr+CO DUPLICATE
+Found 750 out of 1009 intersections, or 74.0%
+Belleview+Ave+and+Glenmoor+Dr+CO DUPLICATE
+Belleview+Ave+and+Steele+St+CO DUPLICATE
+Found 752 out of 1011 intersections, or 74.0%
+Belleview+Ave+and+Fairfax+St+CO DUPLICATE
+Belleview+Ave+and+Birch+St+CO DUPLICATE
+Found 754 out of 1013 intersections, or 74.0%
+Belleview+Ave+and+Dahlia+St+CO DUPLICATE
+Belleview+Ave+and+Holly+St+CO DUPLICATE
+Found 756 out of 1015 intersections, or 74.0%
+Belleview+Ave+and+Monaco+St+CO DUPLICATE
+Belleview+Ave+and+Holly+St+CO DUPLICATE
+Found 758 out of 1017 intersections, or 75.0%
+Belleview+Ave+and+Monaco+St+CO DUPLICATE
+Belleview+Ave+and+Holly+St+CO DUPLICATE
+Found 760 out of 1019 intersections, or 75.0%
+Belleview+Ave+and+Monaco+St+CO DUPLICATE
+Belleview+Ave+and+Holly+St+CO DUPLICATE
+Found 762 out of 1021 intersections, or 75.0%
+Belleview+Ave+and+Monaco+St+CO DUPLICATE
+Belleview+Ave+and+Holly+St+CO DUPLICATE
+Found 764 out of 1023 intersections, or 75.0%
+Belleview+Ave+and+Monaco+St+CO DUPLICATE
+Belleview+Ave+and+Holly+St+CO DUPLICATE
+Found 766 out of 1025 intersections, or 75.0%
+Belleview+Ave+and+Monaco+St+CO DUPLICATE
+Belleview+Ave+and+Holly+St+CO DUPLICATE
+Found 768 out of 1027 intersections, or 75.0%
+Belleview+Ave+and+Monaco+St+CO DUPLICATE
+Belleview+Ave+and+Holly+St+CO DUPLICATE
+Found 770 out of 1029 intersections, or 75.0%
+Belleview+Ave+and+Monaco+St+CO DUPLICATE
+Belleview+Ave+and+Holly+St+CO DUPLICATE
+Found 772 out of 1031 intersections, or 75.0%
+Belleview+Ave+and+Monaco+St+CO DUPLICATE
+Belleview+Ave+and+Holly+St+CO DUPLICATE
+Found 774 out of 1033 intersections, or 75.0%
+Belleview+Ave+and+University+Blvd+CO DUPLICATE
+Belleview+Ave+and+Steele+St+CO DUPLICATE
+Found 776 out of 1035 intersections, or 75.0%
+Belleview+Ave+and+University+Blvd+CO DUPLICATE
+Belleview+Ave+and+Steele+St+CO DUPLICATE
+Found 778 out of 1037 intersections, or 75.0%
+Belleview+Ave+and+University+Blvd+CO DUPLICATE
+Belleview+Ave+and+Steele+St+CO DUPLICATE
+Found 780 out of 1039 intersections, or 75.0%
+Belleview+Ave+and+University+Blvd+CO DUPLICATE
+Belleview+Ave+and+Steele+St+CO DUPLICATE
+Found 782 out of 1041 intersections, or 75.0%
+Belleview+Ave+and+University+Blvd+CO DUPLICATE
+Belleview+Ave+and+Steele+St+CO DUPLICATE
+Found 784 out of 1043 intersections, or 75.0%
+Belleview+Ave+and+Steele+St+CO DUPLICATE
+Belleview+Ave+and+University+Blvd+CO DUPLICATE
+Found 786 out of 1045 intersections, or 75.0%
+Belleview+Ave+and+Steele+St+CO DUPLICATE
+Belleview+Ave+and+University+Blvd+CO DUPLICATE
+Found 788 out of 1047 intersections, or 75.0%
+Belleview+Ave+and+Steele+St+CO DUPLICATE
+Belleview+Ave+and+University+Blvd+CO DUPLICATE
+Found 790 out of 1049 intersections, or 75.0%
+Belleview+Ave+and+Steele+St+CO DUPLICATE
+Belleview+Ave+and+University+Blvd+CO DUPLICATE
+Found 792 out of 1051 intersections, or 75.0%
+Belleview+Ave+and+Steele+St+CO DUPLICATE
+Belleview+Ave+and+University+Blvd+CO DUPLICATE
+Found 794 out of 1053 intersections, or 75.0%
+Belleview+Ave+and+Monaco+St+CO DUPLICATE
+Belleview+Ave+and+Holly+St+CO DUPLICATE
+Found 796 out of 1055 intersections, or 75.0%
+Belleview+Ave+and+Monaco+St+CO DUPLICATE
+Belleview+Ave+and+Holly+St+CO DUPLICATE
+Found 798 out of 1057 intersections, or 75.0%
+Belleview+Ave+and+Monaco+St+CO DUPLICATE
+Belleview+Ave+and+Holly+St+CO DUPLICATE
+Found 800 out of 1059 intersections, or 76.0%
+Belleview+Ave+and+Monaco+St+CO DUPLICATE
+Belleview+Ave+and+Holly+St+CO DUPLICATE
+Found 802 out of 1061 intersections, or 76.0%
+Belleview+Ave+and+Monaco+St+CO DUPLICATE
+Belleview+Ave+and+Holly+St+CO DUPLICATE
+Found 804 out of 1063 intersections, or 76.0%
+Belleview+Ave+and+Monaco+St+CO DUPLICATE
+Belleview+Ave+and+Holly+St+CO DUPLICATE
+Found 806 out of 1065 intersections, or 76.0%
+Belleview+Ave+and+Monaco+St+CO DUPLICATE
+Belleview+Ave+and+Holly+St+CO DUPLICATE
+Found 808 out of 1067 intersections, or 76.0%
+Belleview+Ave+and+Cherry+Hills+Farm+Dr+CO DUPLICATE
+Belleview+Ave+and+University+Blvd+CO DUPLICATE
+Found 809 out of 1069 intersections, or 76.0%
+Belleview+Ave+and+Cherry+Hills+Farm+Dr+CO DUPLICATE
+Belleview+Ave+and+University+Blvd+CO DUPLICATE
+Found 810 out of 1071 intersections, or 76.0%
+Belleview+Ave+and+Cherry+Hills+Farm+Dr+CO DUPLICATE
+Belleview+Ave+and+University+Blvd+CO DUPLICATE
+Found 811 out of 1073 intersections, or 76.0%
+Belleview+Ave+and+Cherry+Hills+Farm+Dr+CO DUPLICATE
+Belleview+Ave+and+University+Blvd+CO DUPLICATE
+Found 812 out of 1075 intersections, or 76.0%
+Belleview+Ave.+and+Holly+St+CO DUPLICATE
+Belleview+Ave.+and+Monaco+St+CO Found Intersection!! Coords are 39.6240753, -104.9117168
+Found 814 out of 1077 intersections, or 76.0%
+Belleview+Ave+and+Holly+St+CO DUPLICATE
+Belleview+Ave+and+Monaco+St+CO DUPLICATE
+Found 816 out of 1079 intersections, or 76.0%
+Belleview+Ave+and+Holly+St+CO DUPLICATE
+Belleview+Ave+and+Monaco+St+CO DUPLICATE
+Found 818 out of 1081 intersections, or 76.0%
+Belleview+Ave+and+Holly+St+CO DUPLICATE
+Belleview+Ave+and+Monaco+St+CO DUPLICATE
+Found 820 out of 1083 intersections, or 76.0%
+Belleview+Ave+and+Holly+St+CO DUPLICATE
+Belleview+Ave+and+Monaco+St+CO DUPLICATE
+Found 822 out of 1085 intersections, or 76.0%
++and+denver-test+CO Unable to find intersection
+Found 822 out of 1086 intersections, or 76.0%
+Belleview+Ave.+and+S.+Holly+St.+CO Found Intersection!! Coords are 39.6241601, -104.9227827
+Belleview+Ave.+and+test+CO Unable to find intersection
+Found 823 out of 1088 intersections, or 76.0%
+Belleview+Ave+and+University+Blvd+CO DUPLICATE
+Belleview+Ave+and+Cherry+Hills+Farm+Dr+CO DUPLICATE
+Found 824 out of 1090 intersections, or 76.0%
+Belleview+Ave+and+University+Blvd+CO DUPLICATE
+Belleview+Ave+and+Cherry+Hills+Farm+Dr+CO DUPLICATE
+Found 825 out of 1092 intersections, or 76.0%
+Belleview+Ave+and+Cherry+Hills+Farm+Dr+CO DUPLICATE
+Belleview+Ave+and+University+Blvd+CO DUPLICATE
+Found 826 out of 1094 intersections, or 76.0%
+Belleview+Ave+and+Cherry+Hills+Farm+Dr+CO DUPLICATE
+Belleview+Ave+and+University+Blvd+CO DUPLICATE
+Found 827 out of 1096 intersections, or 75.0%
+Belleview+Ave+and+Cherry+Hills+Farm+Dr+CO DUPLICATE
+Belleview+Ave+and+University+Blvd+CO DUPLICATE
+Found 828 out of 1098 intersections, or 75.0%
+Belleview+Ave+and+Cherry+Hills+Farm+Dr+CO DUPLICATE
+Belleview+Ave+and+University+Blvd+CO DUPLICATE
+Found 829 out of 1100 intersections, or 75.0%
+E+Belleview+Ave+and+Cherry+Hills+Farm+Dr+CO DUPLICATE
+E+Belleview+Ave+and+S+University+Blvd+CO DUPLICATE
+Found 830 out of 1102 intersections, or 75.0%
+E+Belleview+Ave+and+Cherry+Hills+Farm+Dr+CO DUPLICATE
+E+Belleview+Ave+and+S+University+Blvd+CO DUPLICATE
+Found 831 out of 1104 intersections, or 75.0%
+E+Belleview+Ave+and+Cherry+Hills+Farm+Dr+CO DUPLICATE
+E+Belleview+Ave+and+S+University+Blvd+CO DUPLICATE
+Found 832 out of 1106 intersections, or 75.0%
+E+Belleview+Ave+and+Cherry+Hills+Farm+Dr+CO DUPLICATE
+E+Belleview+Ave+and+S+University+Blvd+CO DUPLICATE
+Found 833 out of 1108 intersections, or 75.0%
+E+Belleview+Ave+and+Cherry+Hills+Farm+Dr+CO DUPLICATE
+E+Belleview+Ave+and+S+University+Blvd+CO DUPLICATE
+Found 834 out of 1110 intersections, or 75.0%
+E+Belleview+Ave+and+Cherry+Hills+Farm+Dr+CO DUPLICATE
+E+Belleview+Ave+and+S+University+Blvd+CO DUPLICATE
+Found 835 out of 1112 intersections, or 75.0%
+E+Belleview+Ave+and+Cherry+Hills+Farm+Dr+CO DUPLICATE
+E+Belleview+Ave+and+S+University+Blvd+CO DUPLICATE
+Found 836 out of 1114 intersections, or 75.0%
+E+Belleview+Ave+and+S+University+Blvd+CO DUPLICATE
+E+Belleview+Ave+and+Cherry+Hills+Farm+Dr+CO DUPLICATE
+Found 837 out of 1116 intersections, or 75.0%
+E+Belleview+Ave+and+S+University+Blvd+CO DUPLICATE
+E+Belleview+Ave+and+Cherry+Hills+Farm+Dr+CO DUPLICATE
+Found 838 out of 1118 intersections, or 75.0%
+E+Belleview+Ave+and+S+University+Blvd+CO DUPLICATE
+E+Belleview+Ave+and+Cherry+Hills+Farm+Dr+CO DUPLICATE
+Found 839 out of 1120 intersections, or 75.0%
+Belleview+Ave+and+Steele+CO Found Intersection!! Coords are 39.6241924, -104.9504054
+Belleview+Ave+and+University+CO Unable to find intersection
+Found 840 out of 1122 intersections, or 75.0%
+Found 840 out of 1122 intersections, or 75.0%
+Belleview+Ave+and+Cherry+Hills+Farm+CO DUPLICATE
+Belleview+Ave+and+Colorado+Blvd+CO DUPLICATE
+Found 840 out of 1124 intersections, or 75.0%
+Belleview+Ave+and+Cherry+Hills+Farm+CO DUPLICATE
+Belleview+Ave+and+Colorado+Blvd+CO DUPLICATE
+Found 840 out of 1126 intersections, or 75.0%
+Belleview+Ave+and+Cherry+Hills+Farm+CO DUPLICATE
+Belleview+Ave+and+Colorado+Blvd+CO DUPLICATE
+Found 840 out of 1128 intersections, or 74.0%
+Belleview+Ave+and+Cherry+Hills+Farm+CO DUPLICATE
+Belleview+Ave+and+Colorado+Blvd+CO DUPLICATE
+Found 840 out of 1130 intersections, or 74.0%
+Belleview+Ave+and+Cherry+Hills+Farm+CO DUPLICATE
+Belleview+Ave+and+Colorado+Blvd+CO DUPLICATE
+Found 840 out of 1132 intersections, or 74.0%
+Belleview+Ave+and+Cherry+Hills+Farm+CO DUPLICATE
+Belleview+Ave+and+Colorado+Blvd+CO DUPLICATE
+Found 840 out of 1134 intersections, or 74.0%
+Belleview+Ave+and+Cherry+Hills+Farm+CO DUPLICATE
+Belleview+Ave+and+Colorado+Blvd+CO DUPLICATE
+Found 840 out of 1136 intersections, or 74.0%
+Belleview+Ave+and+Cherry+Hills+Farm+CO DUPLICATE
+Belleview+Ave+and+Colorado+Blvd+CO DUPLICATE
+Found 840 out of 1138 intersections, or 74.0%
+Belleview+Ave+and+Cherry+Hills+Farm+CO DUPLICATE
+Belleview+Ave+and+Colorado+Blvd+CO DUPLICATE
+Found 840 out of 1140 intersections, or 74.0%
+Belleview+Ave+and+Cherry+Hills+Farm+CO DUPLICATE
+Belleview+Ave+and+Colorado+Blvd+CO DUPLICATE
+Found 840 out of 1142 intersections, or 74.0%
+Belleview+Ave+and+Cherry+Hills+Farm+CO DUPLICATE
+Belleview+Ave+and+Colorado+Blvd+CO DUPLICATE
+Found 840 out of 1144 intersections, or 73.0%
+Belleview+Ave+and+Cherry+Hills+Farm+CO DUPLICATE
+Belleview+Ave+and+Colorado+Blvd+CO DUPLICATE
+Found 840 out of 1146 intersections, or 73.0%
+Belleview+Ave+and+Cherry+Hills+Farm+CO DUPLICATE
+Belleview+Ave+and+Colorado+Blvd+CO DUPLICATE
+Found 840 out of 1148 intersections, or 73.0%
+Belleview+Ave+and+Cherry+Hills+Farm+CO DUPLICATE
+Belleview+Ave+and+Colorado+Blvd+CO DUPLICATE
+Found 840 out of 1150 intersections, or 73.0%
+Belleview+Ave+and+Cherry+Hills+Farm+CO DUPLICATE
+Belleview+Ave+and+Colorado+Blvd+CO DUPLICATE
+Found 840 out of 1152 intersections, or 73.0%
+Belleview+Ave+and+Cherry+Hills+Farm+CO DUPLICATE
+Belleview+Ave+and+Colorado+Blvd+CO DUPLICATE
+Found 840 out of 1154 intersections, or 73.0%
+Belleview+Ave+and+Cherry+Hills+Farm+CO DUPLICATE
+Belleview+Ave+and+Colorado+Blvd+CO DUPLICATE
+Found 840 out of 1156 intersections, or 73.0%
+Belleview+Ave+and+Cherry+Hills+Farm+Dr+CO DUPLICATE
+Belleview+Ave+and+University+Blvd+CO DUPLICATE
+Found 841 out of 1158 intersections, or 73.0%
+Belleview+Ave+and+Cherry+Hills+Farm+Dr+CO DUPLICATE
+Belleview+Ave+and+University+Blvd+CO DUPLICATE
+Found 842 out of 1160 intersections, or 73.0%
+Belleview+Ave+and+Cherry+Hills+Farm+Dr+CO DUPLICATE
+Belleview+Ave+and+University+Blvd+CO DUPLICATE
+Found 843 out of 1162 intersections, or 73.0%
+Belleview+Ave+and+Cherry+Hills+Farm+Dr+CO DUPLICATE
+Belleview+Ave+and+University+Blvd+CO DUPLICATE
+Found 844 out of 1164 intersections, or 73.0%
+Belleview+Ave+and+Cherry+Hills+Farm+Dr+CO DUPLICATE
+Belleview+Ave+and+University+Blvd+CO DUPLICATE
+Found 845 out of 1166 intersections, or 72.0%
+Belleview+Ave+and+Cherry+Hills+Farm+Dr+CO DUPLICATE
+Belleview+Ave+and+University+Blvd+CO DUPLICATE
+Found 846 out of 1168 intersections, or 72.0%
+Belleview+Ave+and+Cherry+Hills+Farm+Dr+CO DUPLICATE
+Belleview+Ave+and+University+Blvd+CO DUPLICATE
+Found 847 out of 1170 intersections, or 72.0%
+Belleview+Ave+and+Cherry+Hills+Farm+Dr+CO DUPLICATE
+Belleview+Ave+and+University+Blvd+CO DUPLICATE
+Found 848 out of 1172 intersections, or 72.0%
+Belleview+Ave+and+Cherry+Hills+Farm+Dr+CO DUPLICATE
+Belleview+Ave+and+University+Blvd+CO DUPLICATE
+Found 849 out of 1174 intersections, or 72.0%
+Belleview+Ave+and+Cherry+Hills+Farm+Dr+CO DUPLICATE
+Belleview+Ave+and+University+Blvd+CO DUPLICATE
+Found 850 out of 1176 intersections, or 72.0%
+Belleview+Ave+and+Steele+St+CO DUPLICATE
+Belleview+Ave+and+Cherry+Hills+Farm+Dr+CO DUPLICATE
+Found 851 out of 1178 intersections, or 72.0%
+Belleview+Ave+and+Steele+St+CO DUPLICATE
+Belleview+Ave+and+Cherry+Hills+Farm+Dr+CO DUPLICATE
+Found 852 out of 1180 intersections, or 72.0%
+Belleview+Ave+and+Steele+St+CO DUPLICATE
+Belleview+Ave+and+Cherry+Hills+Farm+Dr+CO DUPLICATE
+Found 853 out of 1182 intersections, or 72.0%
+Belleview+Ave+and+Steele+St+CO DUPLICATE
+Belleview+Ave+and+Cherry+Hills+Farm+Dr+CO DUPLICATE
+Found 854 out of 1184 intersections, or 72.0%
+Belleview+Ave+and+Steele+St+CO DUPLICATE
+Belleview+Ave+and+Cherry+Hills+Farm+Dr+CO DUPLICATE
+Found 855 out of 1186 intersections, or 72.0%
+Belleview+Ave+and+Steele+St+CO DUPLICATE
+Belleview+Ave+and+Cherry+Hills+Farm+Dr+CO DUPLICATE
+Found 856 out of 1188 intersections, or 72.0%
+Belleview+Ave+and+Steele+St+CO DUPLICATE
+Belleview+Ave+and+Cherry+Hills+Farm+Dr+CO DUPLICATE
+Found 857 out of 1190 intersections, or 72.0%
+Belleview+Ave+and+Steele+St+CO DUPLICATE
+Belleview+Ave+and+Cherry+Hills+Farm+Dr+CO DUPLICATE
+Found 858 out of 1192 intersections, or 72.0%
+Belleview+Ave+and+Steele+St+CO DUPLICATE
+Belleview+Ave+and+Cherry+Hills+Farm+Dr+CO DUPLICATE
+Found 859 out of 1194 intersections, or 72.0%
+Belleview+Ave+and+Steele+St+CO DUPLICATE
+Belleview+Ave+and+Cherry+Hills+Farm+Dr+CO DUPLICATE
+Found 860 out of 1196 intersections, or 72.0%
+Belleview+Ave+and+Cherry+Hills+Farm+Dr+CO DUPLICATE
+Belleview+Ave+and+Steele+St+CO DUPLICATE
+Found 861 out of 1198 intersections, or 72.0%
+Belleview+Ave+and+Cherry+Hills+Farm+Dr+CO DUPLICATE
+Belleview+Ave+and+Steele+St+CO DUPLICATE
+Found 862 out of 1200 intersections, or 72.0%
+Belleview+Ave+and+Cherry+Hills+Farm+Dr+CO DUPLICATE
+Belleview+Ave+and+Steele+St+CO DUPLICATE
+Found 863 out of 1202 intersections, or 72.0%
+Belleview+Ave+and+Cherry+Hills+Farm+Dr+CO DUPLICATE
+Belleview+Ave+and+Steele+St+CO DUPLICATE
+Found 864 out of 1204 intersections, or 72.0%
+Belleview+Ave+and+Cherry+Hills+Farm+Dr+CO DUPLICATE
+Belleview+Ave+and+Steele+St+CO DUPLICATE
+Found 865 out of 1206 intersections, or 72.0%
+Belleview+Ave+and+Cherry+Hills+Farm+Dr+CO DUPLICATE
+Belleview+Ave+and+Steele+St+CO DUPLICATE
+Found 866 out of 1208 intersections, or 72.0%
+Belleview+Ave+and+Cherry+Hills+Farm+Dr+CO DUPLICATE
+Belleview+Ave+and+Steele+St+CO DUPLICATE
+Found 867 out of 1210 intersections, or 72.0%
+Belleview+Ave+and+Cherry+Hills+Farm+Dr+CO DUPLICATE
+Belleview+Ave+and+Steele+St+CO DUPLICATE
+Found 868 out of 1212 intersections, or 72.0%
+Belleview+Ave+and+Cherry+Hills+Farm+Dr+CO DUPLICATE
+Belleview+Ave+and+Steele+St+CO DUPLICATE
+Found 869 out of 1214 intersections, or 72.0%
+Belleview+Ave+and+Dahlia+St+CO DUPLICATE
+Belleview+Ave+and+Birch+St+CO DUPLICATE
+Found 871 out of 1216 intersections, or 72.0%
+Belleview+Ave+and+Dahlia+St+CO DUPLICATE
+Belleview+Ave+and+Birch+St+CO DUPLICATE
+Found 873 out of 1218 intersections, or 72.0%
+Belleview+Ave+and+Dahlia+St+CO DUPLICATE
+Belleview+Ave+and+Birch+St+CO DUPLICATE
+Found 875 out of 1220 intersections, or 72.0%
+Belleview+Ave+and+Dahlia+St+CO DUPLICATE
+Belleview+Ave+and+Birch+St+CO DUPLICATE
+Found 877 out of 1222 intersections, or 72.0%
+Belleview+Ave+and+Dahlia+St+CO DUPLICATE
+Belleview+Ave+and+Birch+St+CO DUPLICATE
+Found 879 out of 1224 intersections, or 72.0%
+Belleview+Ave+and+Dahlia+St+CO DUPLICATE
+Belleview+Ave+and+Birch+St+CO DUPLICATE
+Found 881 out of 1226 intersections, or 72.0%
+Belleview+Ave+and+Cherry+Hills+Farm+Dr+CO DUPLICATE
+Belleview+Ave+and+University+Blvd+CO DUPLICATE
+Found 882 out of 1228 intersections, or 72.0%
+Belleview+Ave+and+Cherry+Hills+Farm+Dr+CO DUPLICATE
+Belleview+Ave+and+University+Blvd+CO DUPLICATE
+Found 883 out of 1230 intersections, or 72.0%
+Belleview+Ave+and+Cherry+Hills+Farm+Dr+CO DUPLICATE
+Belleview+Ave+and+University+Blvd+CO DUPLICATE
+Found 884 out of 1232 intersections, or 72.0%
+Belleview+Ave+and+Cherry+Hills+Farm+Dr+CO DUPLICATE
+Belleview+Ave+and+University+Blvd+CO DUPLICATE
+Found 885 out of 1234 intersections, or 72.0%
+Belleview+Ave+and+Cherry+Hills+Farm+Dr+CO DUPLICATE
+Belleview+Ave+and+University+Blvd+CO DUPLICATE
+Found 886 out of 1236 intersections, or 72.0%
+Belleview+Ave+and+Cherry+Hills+Farm+Dr+CO DUPLICATE
+Belleview+Ave+and+University+Blvd+CO DUPLICATE
+Found 887 out of 1238 intersections, or 72.0%
+Belleview+Ave+and+Cherry+Hills+Farm+Dr+CO DUPLICATE
+Belleview+Ave+and+University+Blvd+CO DUPLICATE
+Found 888 out of 1240 intersections, or 72.0%
+Belleview+Ave+and+Cherry+Hills+Farm+Dr+CO DUPLICATE
+Belleview+Ave+and+University+Blvd+CO DUPLICATE
+Found 889 out of 1242 intersections, or 72.0%
+Belleview+Ave+and+Cherry+Hills+Farm+Dr+CO DUPLICATE
+Belleview+Ave+and+University+Blvd+CO DUPLICATE
+Found 890 out of 1244 intersections, or 72.0%
+Belleview+Ave+and+Cherry+Hills+Farm+Dr+CO DUPLICATE
+Belleview+Ave+and+University+Blvd+CO DUPLICATE
+Found 891 out of 1246 intersections, or 72.0%
+Belleview+Ave+and+Cherry+Hills+Farm+Dr+CO DUPLICATE
+Belleview+Ave+and+University+Blvd+CO DUPLICATE
+Found 892 out of 1248 intersections, or 71.0%
+Belleview+Ave+and+University+Blvd+CO DUPLICATE
+Belleview+Ave+and+Cherry+Hills+Dr+CO Unable to find intersection
+Found 893 out of 1250 intersections, or 71.0%
+Belleview+Ave+and+University+Blvd+CO DUPLICATE
+Belleview+Ave+and+Cherry+Hills+Dr+CO DUPLICATE
+Found 894 out of 1252 intersections, or 71.0%
+Belleview+Ave+and+University+Blvd+CO DUPLICATE
+Belleview+Ave+and+Cherry+Hills+Dr+CO DUPLICATE
+Found 895 out of 1254 intersections, or 71.0%
+Belleview+Ave+and+University+Blvd+CO DUPLICATE
+Belleview+Ave+and+Cherry+Hills+Dr+CO DUPLICATE
+Found 896 out of 1256 intersections, or 71.0%
+Belleview+Ave+and+University+Blvd+CO DUPLICATE
+Belleview+Ave+and+Cherry+Hills+Dr+CO DUPLICATE
+Found 897 out of 1258 intersections, or 71.0%
+Belleview+Ave+and+University+Blvd+CO DUPLICATE
+Belleview+Ave+and+Cherry+Hills+Dr+CO DUPLICATE
+Found 898 out of 1260 intersections, or 71.0%
+Belleview+Ave+and+University+Blvd+CO DUPLICATE
+Belleview+Ave+and+Cherry+Hills+Dr+CO DUPLICATE
+Found 899 out of 1262 intersections, or 71.0%
+Belleview+Ave+and+University+Blvd+CO DUPLICATE
+Belleview+Ave+and+Cherry+Hills+Dr+CO DUPLICATE
+Found 900 out of 1264 intersections, or 71.0%
+Belleview+Ave+and+University+Blvd+CO DUPLICATE
+Belleview+Ave+and+Cherry+Hills+Dr+CO DUPLICATE
+Found 901 out of 1266 intersections, or 71.0%
+Belleview+Ave+and+Perry+Pkwy+CO DUPLICATE
+Belleview+Ave+and+Birch+St+CO DUPLICATE
+Found 902 out of 1268 intersections, or 71.0%
+Belleview+Ave+and+Perry+Pkwy+CO DUPLICATE
+Belleview+Ave+and+Birch+St+CO DUPLICATE
+Found 903 out of 1270 intersections, or 71.0%
+Belleview+Ave+and+Perry+Pkwy+CO DUPLICATE
+Belleview+Ave+and+Birch+St+CO DUPLICATE
+Found 904 out of 1272 intersections, or 71.0%
+Belleview+Ave+and+Perry+Pkwy+CO DUPLICATE
+Belleview+Ave+and+Birch+St+CO DUPLICATE
+Found 905 out of 1274 intersections, or 71.0%
+Belleview+Ave+and+Perry+Pkwy+CO DUPLICATE
+Belleview+Ave+and+Birch+St+CO DUPLICATE
+Found 906 out of 1276 intersections, or 71.0%
+Belleview+Ave+and+Perry+Pkwy+CO DUPLICATE
+Belleview+Ave+and+Birch+St+CO DUPLICATE
+Found 907 out of 1278 intersections, or 71.0%
+Belleview+Ave+and+Perry+Pkwy+CO DUPLICATE
+Belleview+Ave+and+Birch+St+CO DUPLICATE
+Found 908 out of 1280 intersections, or 71.0%
+Belleview+Ave+and+Steele+St+CO DUPLICATE
+Belleview+Ave+and+Cherry+Hills+Farm+Dr+CO DUPLICATE
+Found 909 out of 1282 intersections, or 71.0%
+Belleview+Ave+and+Steele+St+CO DUPLICATE
+Belleview+Ave+and+Cherry+Hills+Farm+Dr+CO DUPLICATE
+Found 910 out of 1284 intersections, or 71.0%
+Belleview+Ave+and+Steele+St+CO DUPLICATE
+Belleview+Ave+and+Cherry+Hills+Farm+Dr+CO DUPLICATE
+Found 911 out of 1286 intersections, or 71.0%
+Belleview+Ave+and+Steele+St+CO DUPLICATE
+Belleview+Ave+and+Cherry+Hills+Farm+Dr+CO DUPLICATE
+Found 912 out of 1288 intersections, or 71.0%
+Belleview+Ave+and+Steele+St+CO DUPLICATE
+Belleview+Ave+and+Cherry+Hills+Farm+Dr+CO DUPLICATE
+Found 913 out of 1290 intersections, or 71.0%
+Belleview+Ave+and+Steele+St+CO DUPLICATE
+Belleview+Ave+and+Cherry+Hills+Farm+Dr+CO DUPLICATE
+Found 914 out of 1292 intersections, or 71.0%
+Belleview+Ave+and+Steele+St+CO DUPLICATE
+Belleview+Ave+and+Cherry+Hills+Farm+Dr+CO DUPLICATE
+Found 915 out of 1294 intersections, or 71.0%
+Belleview+Ave+and+Steele+St+CO DUPLICATE
+Belleview+Ave+and+Cherry+Hills+Farm+Dr+CO DUPLICATE
+Found 916 out of 1296 intersections, or 71.0%
+Belleview+Ave+and+Cherry+Hills+Farm+Dr+CO DUPLICATE
+Belleview+Ave+and+Steele+St+CO DUPLICATE
+Found 917 out of 1298 intersections, or 71.0%
+Belleview+Ave+and+Cherry+Hills+Farm+Dr+CO DUPLICATE
+Belleview+Ave+and+Steele+St+CO DUPLICATE
+Found 918 out of 1300 intersections, or 71.0%
+Belleview+Ave+and+Cherry+Hills+Farm+Dr+CO DUPLICATE
+Belleview+Ave+and+Steele+St+CO DUPLICATE
+Found 919 out of 1302 intersections, or 71.0%
+Belleview+Ave+and+Cherry+Hills+Farm+Dr+CO DUPLICATE
+Belleview+Ave+and+Steele+St+CO DUPLICATE
+Found 920 out of 1304 intersections, or 71.0%
+Belleview+Ave+and+Cherry+Hills+Farm+Dr+CO DUPLICATE
+Belleview+Ave+and+Steele+St+CO DUPLICATE
+Found 921 out of 1306 intersections, or 71.0%
+Belleview+Ave+and+Cherry+Hills+Farm+Dr+CO DUPLICATE
+Belleview+Ave+and+Steele+St+CO DUPLICATE
+Found 922 out of 1308 intersections, or 70.0%
+Belleview+Ave+and+Cherry+Hills+Farm+Dr+CO DUPLICATE
+Belleview+Ave+and+Steele+St+CO DUPLICATE
+Found 923 out of 1310 intersections, or 70.0%
+Belleview+Ave+and+Cherry+Hills+Farm+Dr+CO DUPLICATE
+Belleview+Ave+and+Steele+St+CO DUPLICATE
+Found 924 out of 1312 intersections, or 70.0%
+Belleview+Ave+and+Dahlia+St+CO DUPLICATE
+Belleview+Ave+and+Birch+St+CO DUPLICATE
+Found 926 out of 1314 intersections, or 70.0%
+Belleview+Ave+and+Dahlia+St+CO DUPLICATE
+Belleview+Ave+and+Birch+St+CO DUPLICATE
+Found 928 out of 1316 intersections, or 71.0%
+Belleview+Ave+and+Dahlia+St+CO DUPLICATE
+Belleview+Ave+and+Birch+St+CO DUPLICATE
+Found 930 out of 1318 intersections, or 71.0%
+Belleview+Ave+and+Dahlia+St+CO DUPLICATE
+Belleview+Ave+and+Birch+St+CO DUPLICATE
+Found 932 out of 1320 intersections, or 71.0%
+Belleview+Ave+and+Dahlia+St+CO DUPLICATE
+Belleview+Ave+and+Birch+St+CO DUPLICATE
+Found 934 out of 1322 intersections, or 71.0%
+Belleview+Ave+and+Dahlia+St+CO DUPLICATE
+Belleview+Ave+and+Birch+St+CO DUPLICATE
+Found 936 out of 1324 intersections, or 71.0%
+Belleview+Ave+and+Birch+St+CO DUPLICATE
+Belleview+Ave+and+Dahlia+St+CO DUPLICATE
+Found 938 out of 1326 intersections, or 71.0%
+Belleview+Ave+and+Birch+St+CO DUPLICATE
+Belleview+Ave+and+Dahlia+St+CO DUPLICATE
+Found 940 out of 1328 intersections, or 71.0%
+Belleview+Ave+and+Birch+St+CO DUPLICATE
+Belleview+Ave+and+Dahlia+St+CO DUPLICATE
+Found 942 out of 1330 intersections, or 71.0%
+Belleview+Ave+and+Birch+St+CO DUPLICATE
+Belleview+Ave+and+Dahlia+St+CO DUPLICATE
+Found 944 out of 1332 intersections, or 71.0%
+Belleview+Ave+and+Birch+St+CO DUPLICATE
+Belleview+Ave+and+Dahlia+St+CO DUPLICATE
+Found 946 out of 1334 intersections, or 71.0%
+Belleview+Ave+and+Birch+St+CO DUPLICATE
+Belleview+Ave+and+Dahlia+St+CO DUPLICATE
+Found 948 out of 1336 intersections, or 71.0%
+Belleview+Ave+and+Birch+St+CO DUPLICATE
+Belleview+Ave+and+Dahlia+St+CO DUPLICATE
+Found 950 out of 1338 intersections, or 71.0%
+Belleview+Ave+and+Jackson+St+CO DUPLICATE
+Belleview+Ave+and+Cherry+Hills+Farm+Dr+CO DUPLICATE
+Found 950 out of 1340 intersections, or 71.0%
+Belleview+Ave+and+Jackson+St+CO DUPLICATE
+Belleview+Ave+and+Cherry+Hills+Farm+Dr+CO DUPLICATE
+Found 950 out of 1342 intersections, or 71.0%
+Belleview+Ave+and+Jackson+St+CO DUPLICATE
+Belleview+Ave+and+Cherry+Hills+Farm+Dr+CO DUPLICATE
+Found 950 out of 1344 intersections, or 71.0%
+Belleview+Ave+and+Jackson+St+CO DUPLICATE
+Belleview+Ave+and+Cherry+Hills+Farm+Dr+CO DUPLICATE
+Found 950 out of 1346 intersections, or 71.0%
+Belleview+Ave+and+Jackson+St+CO DUPLICATE
+Belleview+Ave+and+Cherry+Hills+Farm+Dr+CO DUPLICATE
+Found 950 out of 1348 intersections, or 70.0%
+Belleview+Ave+and+Jackson+St+CO DUPLICATE
+Belleview+Ave+and+Cherry+Hills+Farm+Dr+CO DUPLICATE
+Found 950 out of 1350 intersections, or 70.0%
+Belleview+Ave+and+Jackson+St+CO DUPLICATE
+Belleview+Ave+and+Cherry+Hills+Farm+Dr+CO DUPLICATE
+Found 950 out of 1352 intersections, or 70.0%
+Belleview+Ave+and+Jackson+St+CO DUPLICATE
+Belleview+Ave+and+Cherry+Hills+Farm+Dr+CO DUPLICATE
+Found 950 out of 1354 intersections, or 70.0%
+Belleview+Ave+and+Jackson+St+CO DUPLICATE
+Belleview+Ave+and+Cherry+Hills+Farm+Dr+CO DUPLICATE
+Found 950 out of 1356 intersections, or 70.0%
+Belleview+Ave+and+Jackson+St+CO DUPLICATE
+Belleview+Ave+and+Cherry+Hills+Farm+Dr+CO DUPLICATE
+Found 950 out of 1358 intersections, or 70.0%
+Belleview+Ave+and+Cherry+Hills+Farm+Dr+CO DUPLICATE
+Belleview+Ave+and+Jackson+St+CO DUPLICATE
+Found 950 out of 1360 intersections, or 70.0%
+Belleview+Ave+and+Cherry+Hills+Farm+Dr+CO DUPLICATE
+Belleview+Ave+and+Jackson+St+CO DUPLICATE
+Found 950 out of 1362 intersections, or 70.0%
+Belleview+Ave+and+Cherry+Hills+Farm+Dr+CO DUPLICATE
+Belleview+Ave+and+Jackson+St+CO DUPLICATE
+Found 950 out of 1364 intersections, or 70.0%
+Belleview+Ave+and+Cherry+Hills+Farm+Dr+CO DUPLICATE
+Belleview+Ave+and+Jackson+St+CO DUPLICATE
+Found 950 out of 1366 intersections, or 70.0%
+Belleview+Ave+and+Cherry+Hills+Farm+Dr+CO DUPLICATE
+Belleview+Ave+and+Jackson+St+CO DUPLICATE
+Found 950 out of 1368 intersections, or 69.0%
+Belleview+Ave+and+Cherry+Hills+Farm+Dr+CO DUPLICATE
+Belleview+Ave+and+Jackson+St+CO DUPLICATE
+Found 950 out of 1370 intersections, or 69.0%
+Belleview+Ave+and+Cherry+Hills+Farm+Dr+CO DUPLICATE
+Belleview+Ave+and+Jackson+St+CO DUPLICATE
+Found 950 out of 1372 intersections, or 69.0%
+Belleview+Ave+and+Cherry+Hills+Farm+Dr+CO DUPLICATE
+Belleview+Ave+and+Jackson+St+CO DUPLICATE
+Found 950 out of 1374 intersections, or 69.0%
+Belleview+Ave+and+Cherry+Hills+Farm+Dr+CO DUPLICATE
+Belleview+Ave+and+Jackson+St+CO DUPLICATE
+Found 950 out of 1376 intersections, or 69.0%
+Belleview+Ave+and+Cherry+Hills+Farm+Dr+CO DUPLICATE
+Belleview+Ave+and+Jackson+St+CO DUPLICATE
+Found 950 out of 1378 intersections, or 69.0%
+Belleview+Ave+and+Cherry+Hills+Farm+Dr+CO DUPLICATE
+Belleview+Ave+and+Jackson+St+CO DUPLICATE
+Found 950 out of 1380 intersections, or 69.0%
+Belleview+Ave+and+Dahlia+St+CO DUPLICATE
+Belleview+Ave+and+Birch+St+CO DUPLICATE
+Found 952 out of 1382 intersections, or 69.0%
+Belleview+Ave+and+Dahlia+St+CO DUPLICATE
+Belleview+Ave+and+Birch+St+CO DUPLICATE
+Found 954 out of 1384 intersections, or 69.0%
+Belleview+Ave+and+Dahlia+St+CO DUPLICATE
+Belleview+Ave+and+Birch+St+CO DUPLICATE
+Found 956 out of 1386 intersections, or 69.0%
+Belleview+Ave+and+Dahlia+St+CO DUPLICATE
+Belleview+Ave+and+Birch+St+CO DUPLICATE
+Found 958 out of 1388 intersections, or 69.0%
+Belleview+Ave+and+Dahlia+St+CO DUPLICATE
+Belleview+Ave+and+Birch+St+CO DUPLICATE
+Found 960 out of 1390 intersections, or 69.0%
+Belleview+Ave+and+Dahlia+St+CO DUPLICATE
+Belleview+Ave+and+Birch+St+CO DUPLICATE
+Found 962 out of 1392 intersections, or 69.0%
+Belleview+Ave+and+Dahlia+St+CO DUPLICATE
+Belleview+Ave+and+Birch+St+CO DUPLICATE
+Found 964 out of 1394 intersections, or 69.0%
+Belleview+Ave+and+Birch+St+CO DUPLICATE
+Belleview+Ave+and+Dahlia+St+CO DUPLICATE
+Found 966 out of 1396 intersections, or 69.0%
+Belleview+Ave+and+Birch+St+CO DUPLICATE
+Belleview+Ave+and+Dahlia+St+CO DUPLICATE
+Found 968 out of 1398 intersections, or 69.0%
+Belleview+Ave+and+Birch+St+CO DUPLICATE
+Belleview+Ave+and+Dahlia+St+CO DUPLICATE
+Found 970 out of 1400 intersections, or 69.0%
+Belleview+Ave+and+Birch+St+CO DUPLICATE
+Belleview+Ave+and+Dahlia+St+CO DUPLICATE
+Found 972 out of 1402 intersections, or 69.0%
+Belleview+Ave+and+Birch+St+CO DUPLICATE
+Belleview+Ave+and+Dahlia+St+CO DUPLICATE
+Found 974 out of 1404 intersections, or 69.0%
+Belleview+Ave+and+Birch+St+CO DUPLICATE
+Belleview+Ave+and+Dahlia+St+CO DUPLICATE
+Found 976 out of 1406 intersections, or 69.0%
+Belleview+Ave+and+Birch+St+CO DUPLICATE
+Belleview+Ave+and+Dahlia+St+CO DUPLICATE
+Found 978 out of 1408 intersections, or 69.0%
+Belleview+Ave+and+Birch+St+CO DUPLICATE
+Belleview+Ave+and+Dahlia+St+CO DUPLICATE
+Found 980 out of 1410 intersections, or 70.0%
+Belleview+Ave+and+Birch+St+CO DUPLICATE
+Belleview+Ave+and+Dahlia+St+CO DUPLICATE
+Found 982 out of 1412 intersections, or 70.0%
+Belleview+Ave+and+Jackson+St+CO DUPLICATE
+Belleview+Ave+and+Cherry+Hills+Farm+Dr+CO DUPLICATE
+Found 982 out of 1414 intersections, or 69.0%
+Belleview+Ave+and+Jackson+St+CO DUPLICATE
+Belleview+Ave+and+Cherry+Hills+Farm+Dr+CO DUPLICATE
+Found 982 out of 1416 intersections, or 69.0%
+Belleview+Ave+and+Jackson+St+CO DUPLICATE
+Belleview+Ave+and+Cherry+Hills+Farm+Dr+CO DUPLICATE
+Found 982 out of 1418 intersections, or 69.0%
+Belleview+Ave+and+Jackson+St+CO DUPLICATE
+Belleview+Ave+and+Cherry+Hills+Farm+Dr+CO DUPLICATE
+Found 982 out of 1420 intersections, or 69.0%
+Belleview+Ave+and+Jackson+St+CO DUPLICATE
+Belleview+Ave+and+Cherry+Hills+Farm+Dr+CO DUPLICATE
+Found 982 out of 1422 intersections, or 69.0%
+Belleview+Ave+and+Jackson+St+CO DUPLICATE
+Belleview+Ave+and+Cherry+Hills+Farm+Dr+CO DUPLICATE
+Found 982 out of 1424 intersections, or 69.0%
+Belleview+Ave+and+Jackson+St+CO DUPLICATE
+Belleview+Ave+and+Cherry+Hills+Farm+Dr+CO DUPLICATE
+Found 982 out of 1426 intersections, or 69.0%
+Belleview+Ave+and+Jackson+St+CO DUPLICATE
+Belleview+Ave+and+Cherry+Hills+Farm+Dr+CO DUPLICATE
+Found 982 out of 1428 intersections, or 69.0%
+Belleview+Ave+and+Jackson+St+CO DUPLICATE
+Belleview+Ave+and+Cherry+Hills+Farm+Dr+CO DUPLICATE
+Found 982 out of 1430 intersections, or 69.0%
+Belleview+Ave+and+Jackson+St+CO DUPLICATE
+Belleview+Ave+and+Cherry+Hills+Farm+Dr+CO DUPLICATE
+Found 982 out of 1432 intersections, or 69.0%
+Belleview+Ave+and+Dahlia+St+CO DUPLICATE
+Belleview+Ave+and+Birch+St+CO DUPLICATE
+Found 984 out of 1434 intersections, or 69.0%
+Belleview+Ave+and+Dahlia+St+CO DUPLICATE
+Belleview+Ave+and+Birch+St+CO DUPLICATE
+Found 986 out of 1436 intersections, or 69.0%
+Belleview+Ave+and+Dahlia+St+CO DUPLICATE
+Belleview+Ave+and+Birch+St+CO DUPLICATE
+Found 988 out of 1438 intersections, or 69.0%
+Belleview+Ave+and+Dahlia+St+CO DUPLICATE
+Belleview+Ave+and+Birch+St+CO DUPLICATE
+Found 990 out of 1440 intersections, or 69.0%
+Belleview+Ave+and+Dahlia+St+CO DUPLICATE
+Belleview+Ave+and+Birch+St+CO DUPLICATE
+Found 992 out of 1442 intersections, or 69.0%
+Belleview+Ave+and+Dahlia+St+CO DUPLICATE
+Belleview+Ave+and+Birch+St+CO DUPLICATE
+Found 994 out of 1444 intersections, or 69.0%
+Belleview+Ave+and+Dahlia+St+CO DUPLICATE
+Belleview+Ave+and+Birch+St+CO DUPLICATE
+Found 996 out of 1446 intersections, or 69.0%
+Belleview+Ave+and+Birch+St+CO DUPLICATE
+Belleview+Ave+and+Dahlia+St+CO DUPLICATE
+Found 998 out of 1448 intersections, or 69.0%
+Belleview+Ave+and+Birch+St+CO DUPLICATE
+Belleview+Ave+and+Dahlia+St+CO DUPLICATE
+Found 1000 out of 1450 intersections, or 69.0%
+Belleview+Ave+and+Birch+St+CO DUPLICATE
+Belleview+Ave+and+Dahlia+St+CO DUPLICATE
+Found 1002 out of 1452 intersections, or 69.0%
+Belleview+Ave+and+Birch+St+CO DUPLICATE
+Belleview+Ave+and+Dahlia+St+CO DUPLICATE
+Found 1004 out of 1454 intersections, or 69.0%
+Belleview+Ave+and+Birch+St+CO DUPLICATE
+Belleview+Ave+and+Dahlia+St+CO DUPLICATE
+Found 1006 out of 1456 intersections, or 69.0%
+Belleview+Ave+and+Birch+St+CO DUPLICATE
+Belleview+Ave+and+Dahlia+St+CO DUPLICATE
+Found 1008 out of 1458 intersections, or 69.0%
+Belleview+Ave+and+Birch+St+CO DUPLICATE
+Belleview+Ave+and+Dahlia+St+CO DUPLICATE
+Found 1010 out of 1460 intersections, or 69.0%
+Belleview+Ave+and+Birch+St+CO DUPLICATE
+Belleview+Ave+and+Dahlia+St+CO DUPLICATE
+Found 1012 out of 1462 intersections, or 69.0%
+Belleview+Ave+and+Birch+St+CO DUPLICATE
+Belleview+Ave+and+Dahlia+St+CO DUPLICATE
+Found 1014 out of 1464 intersections, or 69.0%
+Belleview+Ave+and+Birch+St+CO DUPLICATE
+Belleview+Ave+and+Dahlia+St+CO DUPLICATE
+Found 1016 out of 1466 intersections, or 69.0%
+Belleview+Ave+and+Birch+St+CO DUPLICATE
+Belleview+Ave+and+Dahlia+St+CO DUPLICATE
+Found 1018 out of 1468 intersections, or 69.0%
+Belleview+Ave+and+Birch+St+CO DUPLICATE
+Belleview+Ave+and+Dahlia+St+CO DUPLICATE
+Found 1020 out of 1470 intersections, or 69.0%
+Belleview+Ave+and+Birch+St+CO DUPLICATE
+Belleview+Ave+and+Dahlia+St+CO DUPLICATE
+Found 1022 out of 1472 intersections, or 69.0%
+Belleview+Ave+and+Birch+St+CO DUPLICATE
+Belleview+Ave+and+Dahlia+St+CO DUPLICATE
+Found 1024 out of 1474 intersections, or 69.0%
+Belleview+Ave+and+Birch+St+CO DUPLICATE
+Belleview+Ave+and+Dahlia+St+CO DUPLICATE
+Found 1026 out of 1476 intersections, or 70.0%
+Belleview+Ave+and+Birch+St+CO DUPLICATE
+Belleview+Ave+and+Dahlia+St+CO DUPLICATE
+Found 1028 out of 1478 intersections, or 70.0%
+Belleview+Ave+and+Steele+St+CO DUPLICATE
+Belleview+Ave+and+Fairfax+Ln+CO DUPLICATE
+Found 1030 out of 1480 intersections, or 70.0%
+Belleview+Ave+and+Steele+St+CO DUPLICATE
+Belleview+Ave+and+Fairfax+Ln+CO DUPLICATE
+Found 1032 out of 1482 intersections, or 70.0%
+Belleview+Ave+and+Steele+St+CO DUPLICATE
+Belleview+Ave+and+Fairfax+Ln+CO DUPLICATE
+Found 1034 out of 1484 intersections, or 70.0%
+Belleview+Ave+and+Steele+St+CO DUPLICATE
+Belleview+Ave+and+Fairfax+Ln+CO DUPLICATE
+Found 1036 out of 1486 intersections, or 70.0%
+Belleview+Ave+and+Steele+St+CO DUPLICATE
+Belleview+Ave+and+Fairfax+Ln+CO DUPLICATE
+Found 1038 out of 1488 intersections, or 70.0%
+Belleview+Ave+and+Steele+St+CO DUPLICATE
+Belleview+Ave+and+Fairfax+Ln+CO DUPLICATE
+Found 1040 out of 1490 intersections, or 70.0%
+Belleview+Ave+and+Steele+St+CO DUPLICATE
+Belleview+Ave+and+Fairfax+Ln+CO DUPLICATE
+Found 1042 out of 1492 intersections, or 70.0%
+Belleview+Ave+and+Steele+St+CO DUPLICATE
+Belleview+Ave+and+Fairfax+Ln+CO DUPLICATE
+Found 1044 out of 1494 intersections, or 70.0%
+Belleview+Ave+and+Steele+St+CO DUPLICATE
+Belleview+Ave+and+Fairfax+Ln+CO DUPLICATE
+Found 1046 out of 1496 intersections, or 70.0%
+Belleview+Ave+and+Steele+St+CO DUPLICATE
+Belleview+Ave+and+Fairfax+Ln+CO DUPLICATE
+Found 1048 out of 1498 intersections, or 70.0%
+Belleview+Ave+and+Steele+St+CO DUPLICATE
+Belleview+Ave+and+Fairfax+Ln+CO DUPLICATE
+Found 1050 out of 1500 intersections, or 70.0%
+Belleview+Ave+and+Steele+St+CO DUPLICATE
+Belleview+Ave+and+Fairfax+Ln+CO DUPLICATE
+Found 1052 out of 1502 intersections, or 70.0%
+Belleview+Ave+and+Steele+St+CO DUPLICATE
+Belleview+Ave+and+Fairfax+Ln+CO DUPLICATE
+Found 1054 out of 1504 intersections, or 70.0%
+Belleview+Ave+and+Steele+St+CO DUPLICATE
+Belleview+Ave+and+Fairfax+Ln+CO DUPLICATE
+Found 1056 out of 1506 intersections, or 70.0%
+Belleview+Ave+and+Steele+St+CO DUPLICATE
+Belleview+Ave+and+Albion+St+CO DUPLICATE
+Found 1058 out of 1508 intersections, or 70.0%
+Belleview+Ave+and+Steele+St+CO DUPLICATE
+Belleview+Ave+and+Albion+St+CO DUPLICATE
+Found 1060 out of 1510 intersections, or 70.0%
+Belleview+Ave+and+Steele+St+CO DUPLICATE
+Belleview+Ave+and+Albion+St+CO DUPLICATE
+Found 1062 out of 1512 intersections, or 70.0%
+Belleview+Ave+and+Steele+St+CO DUPLICATE
+Belleview+Ave+and+Albion+St+CO DUPLICATE
+Found 1064 out of 1514 intersections, or 70.0%
+Belleview+Ave+and+Steele+St+CO DUPLICATE
+Belleview+Ave+and+Albion+St+CO DUPLICATE
+Found 1066 out of 1516 intersections, or 70.0%
+Belleview+Ave+and+Steele+St+CO DUPLICATE
+Belleview+Ave+and+Albion+St+CO DUPLICATE
+Found 1068 out of 1518 intersections, or 70.0%
+Belleview+Ave+and+Steele+St+CO DUPLICATE
+Belleview+Ave+and+Albion+St+CO DUPLICATE
+Found 1070 out of 1520 intersections, or 70.0%
+Belleview+Ave+and+Steele+St+CO DUPLICATE
+Belleview+Ave+and+Albion+St+CO DUPLICATE
+Found 1072 out of 1522 intersections, or 70.0%
+Belleview+Ave+and+Steele+St+CO DUPLICATE
+Belleview+Ave+and+Albion+St+CO DUPLICATE
+Found 1074 out of 1524 intersections, or 70.0%
+Belleview+Ave+and+Jackson+Pl+CO DUPLICATE
+Belleview+Ave+and+Cherry+Hills+Farm+Dr+CO DUPLICATE
+Found 1075 out of 1526 intersections, or 70.0%
+Belleview+Ave+and+Jackson+Pl+CO DUPLICATE
+Belleview+Ave+and+Cherry+Hills+Farm+Dr+CO DUPLICATE
+Found 1076 out of 1528 intersections, or 70.0%
+Belleview+Ave+and+Jackson+Pl+CO DUPLICATE
+Belleview+Ave+and+Cherry+Hills+Farm+Dr+CO DUPLICATE
+Found 1077 out of 1530 intersections, or 70.0%
+Belleview+Ave+and+Jackson+Pl+CO DUPLICATE
+Belleview+Ave+and+Cherry+Hills+Farm+Dr+CO DUPLICATE
+Found 1078 out of 1532 intersections, or 70.0%
+Belleview+Ave+and+Jackson+Pl+CO DUPLICATE
+Belleview+Ave+and+Cherry+Hills+Farm+Dr+CO DUPLICATE
+Found 1079 out of 1534 intersections, or 70.0%
+Belleview+Ave+and+Jackson+Pl+CO DUPLICATE
+Belleview+Ave+and+Cherry+Hills+Farm+Dr+CO DUPLICATE
+Found 1080 out of 1536 intersections, or 70.0%
+Belleview+Ave+and+Jackson+Pl+CO DUPLICATE
+Belleview+Ave+and+Cherry+Hills+Farm+Dr+CO DUPLICATE
+Found 1081 out of 1538 intersections, or 70.0%
+Belleview+Ave+and+Jackson+Pl+CO DUPLICATE
+Belleview+Ave+and+Cherry+Hills+Farm+Dr+CO DUPLICATE
+Found 1082 out of 1540 intersections, or 70.0%
+Belleview+Ave+and+Jackson+Pl+CO DUPLICATE
+Belleview+Ave+and+Cherry+Hills+Farm+Dr+CO DUPLICATE
+Found 1083 out of 1542 intersections, or 70.0%
+Belleview+Ave+and+Birch+St+CO DUPLICATE
+Belleview+Ave+and+Fairfax+St+CO DUPLICATE
+Found 1085 out of 1544 intersections, or 70.0%
+Belleview+Ave+and+Birch+St+CO DUPLICATE
+Belleview+Ave+and+Fairfax+St+CO DUPLICATE
+Found 1087 out of 1546 intersections, or 70.0%
+Belleview+Ave+and+Birch+St+CO DUPLICATE
+Belleview+Ave+and+Fairfax+St+CO DUPLICATE
+Found 1089 out of 1548 intersections, or 70.0%
+Belleview+Ave+and+Birch+St+CO DUPLICATE
+Belleview+Ave+and+Fairfax+St+CO DUPLICATE
+Found 1091 out of 1550 intersections, or 70.0%
+Belleview+Ave+and+Birch+St+CO DUPLICATE
+Belleview+Ave+and+Fairfax+St+CO DUPLICATE
+Found 1093 out of 1552 intersections, or 70.0%
+Belleview+Ave+and+Birch+St+CO DUPLICATE
+Belleview+Ave+and+Fairfax+St+CO DUPLICATE
+Found 1095 out of 1554 intersections, or 70.0%
+Belleview+Ave+and+Birch+St+CO DUPLICATE
+Belleview+Ave+and+Fairfax+St+CO DUPLICATE
+Found 1097 out of 1556 intersections, or 71.0%
+Belleview+Ave+and+Birch+St+CO DUPLICATE
+Belleview+Ave+and+Fairfax+St+CO DUPLICATE
+Found 1099 out of 1558 intersections, or 71.0%
+Found 1099 out of 1558 intersections, or 71.0%
+Belleview+Ave+and+Colorado+Blvd+CO DUPLICATE
+Belleview+Ave+and+Cherry+Hills+Farm+Dr+CO DUPLICATE
+Found 1099 out of 1560 intersections, or 70.0%
+Belleview+Ave+and+Colorado+Blvd+CO DUPLICATE
+Belleview+Ave+and+Cherry+Hills+Farm+Dr+CO DUPLICATE
+Found 1099 out of 1562 intersections, or 70.0%
+Belleview+Ave+and+Colorado+Blvd+CO DUPLICATE
+Belleview+Ave+and+Cherry+Hills+Farm+Dr+CO DUPLICATE
+Found 1099 out of 1564 intersections, or 70.0%
+Belleview+Ave+and+Colorado+Blvd+CO DUPLICATE
+Belleview+Ave+and+Cherry+Hills+Farm+Dr+CO DUPLICATE
+Found 1099 out of 1566 intersections, or 70.0%
+Belleview+Ave+and+Colorado+Blvd+CO DUPLICATE
+Belleview+Ave+and+Cherry+Hills+Farm+Dr+CO DUPLICATE
+Found 1099 out of 1568 intersections, or 70.0%
+Belleview+Ave+and+Colorado+Blvd+CO DUPLICATE
+Belleview+Ave+and+Cherry+Hills+Farm+Dr+CO DUPLICATE
+Found 1099 out of 1570 intersections, or 70.0%
+Found 1099 out of 1570 intersections, or 70.0%
+Found 1099 out of 1570 intersections, or 70.0%
+Found 1099 out of 1570 intersections, or 70.0%
+Belleview+Ave+and+Dahlia+St+CO DUPLICATE
+Belleview+Ave+and+Fairfax+St+CO DUPLICATE
+Found 1101 out of 1572 intersections, or 70.0%
+Belleview+Ave+and+Dahlia+St+CO DUPLICATE
+Belleview+Ave+and+Fairfax+St+CO DUPLICATE
+Found 1103 out of 1574 intersections, or 70.0%
+Belleview+Ave+and+Dahlia+St+CO DUPLICATE
+Belleview+Ave+and+Fairfax+St+CO DUPLICATE
+Found 1105 out of 1576 intersections, or 70.0%
+Belleview+Ave+and+Dahlia+St+CO DUPLICATE
+Belleview+Ave+and+Fairfax+St+CO DUPLICATE
+Found 1107 out of 1578 intersections, or 70.0%
+Belleview+Ave+and+Dahlia+St+CO DUPLICATE
+Belleview+Ave+and+Fairfax+St+CO DUPLICATE
+Found 1109 out of 1580 intersections, or 70.0%
+Belleview+Ave+and+Dahlia+St+CO DUPLICATE
+Belleview+Ave+and+Fairfax+St+CO DUPLICATE
+Found 1111 out of 1582 intersections, or 70.0%
+Found 1111 out of 1582 intersections, or 70.0%
+Found 1111 out of 1582 intersections, or 70.0%
+Belleview+Ave+and+S+Jackson+Pl+CO Found Intersection!! Coords are 39.6242185, -104.9432921
+Belleview+Ave+and+Glenmoor+Dr+CO DUPLICATE
+Found 1113 out of 1584 intersections, or 70.0%
+Belleview+Ave+and+S+Jackson+Pl+CO DUPLICATE
+Belleview+Ave+and+Glenmoor+Dr+CO DUPLICATE
+Found 1115 out of 1586 intersections, or 70.0%
+Belleview+Ave+and+S+Jackson+Pl+CO DUPLICATE
+Belleview+Ave+and+Glenmoor+Dr+CO DUPLICATE
+Found 1117 out of 1588 intersections, or 70.0%
+Belleview+Ave+and+S+Jackson+Pl+CO DUPLICATE
+Belleview+Ave+and+Glenmoor+Dr+CO DUPLICATE
+Found 1119 out of 1590 intersections, or 70.0%
+Belleview+Ave+and+Cherry+Hills+Farm+Dr+CO DUPLICATE
+Belleview+Ave+and+Colorado+Blvd+CO DUPLICATE
+Found 1119 out of 1592 intersections, or 70.0%
+Belleview+Ave+and+Cherry+Hills+Farm+Dr+CO DUPLICATE
+Belleview+Ave+and+Colorado+Blvd+CO DUPLICATE
+Found 1119 out of 1594 intersections, or 70.0%
+Belleview+Ave+and+Cherry+Hills+Farm+Dr+CO DUPLICATE
+Belleview+Ave+and+Colorado+Blvd+CO DUPLICATE
+Found 1119 out of 1596 intersections, or 70.0%
+Belleview+Ave+and+Cherry+Hills+Farm+Dr+CO DUPLICATE
+Belleview+Ave+and+Colorado+Blvd+CO DUPLICATE
+Found 1119 out of 1598 intersections, or 70.0%
+Belleview+Ave+and+Cherry+Hills+Farm+Dr+CO DUPLICATE
+Belleview+Ave+and+Colorado+Blvd+CO DUPLICATE
+Found 1119 out of 1600 intersections, or 70.0%
+Belleview+Ave+and+Cherry+Hills+Farm+Dr+CO DUPLICATE
+Belleview+Ave+and+Colorado+Blvd+CO DUPLICATE
+Found 1119 out of 1602 intersections, or 70.0%
+Belleview+Ave+and+Glenmoor+Dr+CO DUPLICATE
+Belleview+Ave+and+Glenmoor+Dr+CO DUPLICATE
+Found 1121 out of 1604 intersections, or 70.0%
+Belleview+Ave+and+Glenmoor+Dr+CO DUPLICATE
+Belleview+Ave+and+Glenmoor+Dr+CO DUPLICATE
+Found 1123 out of 1606 intersections, or 70.0%
+Belleview+Ave+and+Glenmoor+Dr+CO DUPLICATE
+Belleview+Ave+and+Glenmoor+Dr+CO DUPLICATE
+Found 1125 out of 1608 intersections, or 70.0%
+Belleview+Ave+and+Glenmoor+Dr+CO DUPLICATE
+Belleview+Ave+and+Glenmoor+Dr+CO DUPLICATE
+Found 1127 out of 1610 intersections, or 70.0%
+Belleview+Ave+and+Glenmoor+Dr+CO DUPLICATE
+Belleview+Ave+and+Glenmoor+Dr+CO DUPLICATE
+Found 1129 out of 1612 intersections, or 70.0%
+Belleview+Ave+and+Glenmoor+Dr+CO DUPLICATE
+Belleview+Ave+and+Glenmoor+Dr+CO DUPLICATE
+Found 1131 out of 1614 intersections, or 70.0%
+Belleview+Ave+and+Fairfax+St+CO DUPLICATE
+Belleview+Ave+and+S+Birch+St+CO DUPLICATE
+Found 1133 out of 1616 intersections, or 70.0%
+Belleview+Ave+and+Fairfax+St+CO DUPLICATE
+Belleview+Ave+and+S+Birch+St+CO DUPLICATE
+Found 1135 out of 1618 intersections, or 70.0%
+Belleview+Ave+and+Fairfax+St+CO DUPLICATE
+Belleview+Ave+and+S+Birch+St+CO DUPLICATE
+Found 1137 out of 1620 intersections, or 70.0%
+Belleview+Ave+and+Fairfax+St+CO DUPLICATE
+Belleview+Ave+and+S+Birch+St+CO DUPLICATE
+Found 1139 out of 1622 intersections, or 70.0%
+Belleview+Ave+and+Fairfax+St+CO DUPLICATE
+Belleview+Ave+and+S+Birch+St+CO DUPLICATE
+Found 1141 out of 1624 intersections, or 70.0%
+Belleview+Ave+and+Fairfax+St+CO DUPLICATE
+Belleview+Ave+and+S+Birch+St+CO DUPLICATE
+Found 1143 out of 1626 intersections, or 70.0%
+E+Belleview+Ave+and+S+Fairfax+Ln+CO Found Intersection!! Coords are 39.6241648, -104.9274629
+E+Belleview+Ave+and+S+Birch+St+CO Found Intersection!! Coords are 39.624121, -104.9369317
+Found 1145 out of 1628 intersections, or 70.0%
+E+Belleview+Ave+and+Glenmoor+Dr+CO DUPLICATE
+E+Belleview+Ave+and+Glenmoor+Dr+CO DUPLICATE
+Found 1147 out of 1630 intersections, or 70.0%
++and+Fairfax+St.+CO Unable to find intersection
++and+Birch+St+CO Unable to find intersection
+Found 1147 out of 1632 intersections, or 70.0%
++and+Birch+St.+CO Unable to find intersection
++and+Fairfax+St+CO Unable to find intersection
+Found 1147 out of 1634 intersections, or 70.0%
+Belleview+Ave+and+Birch+St+CO DUPLICATE
+Belleview+Ave+and+Fairfax+St+CO DUPLICATE
+Found 1149 out of 1636 intersections, or 70.0%
+Belleview+Ave+and+Birch+St+CO DUPLICATE
+Belleview+Ave+and+Fairfax+St+CO DUPLICATE
+Found 1151 out of 1638 intersections, or 70.0%
+Belleview+Ave+and+Birch+St+CO DUPLICATE
+Belleview+Ave+and+Fairfax+St+CO DUPLICATE
+Found 1153 out of 1640 intersections, or 70.0%
+Belleview+Ave+and+Birch+St+CO DUPLICATE
+Belleview+Ave+and+Fairfax+St+CO DUPLICATE
+Found 1155 out of 1642 intersections, or 70.0%
+Belleview+Ave+and+Birch+St+CO DUPLICATE
+Belleview+Ave+and+Fairfax+St+CO DUPLICATE
+Found 1157 out of 1644 intersections, or 70.0%
+Belleview+Ave+and+Birch+St+CO DUPLICATE
+Belleview+Ave+and+Fairfax+St+CO DUPLICATE
+Found 1159 out of 1646 intersections, or 70.0%
+Belleview+Ave+and+Steele+St+CO DUPLICATE
+Belleview+Ave+and+University+Blvd+CO DUPLICATE
+Found 1161 out of 1648 intersections, or 70.0%
+Belleview+Ave+and+Steele+St+CO DUPLICATE
+Belleview+Ave+and+University+Blvd+CO DUPLICATE
+Found 1163 out of 1650 intersections, or 70.0%
+Belleview+Ave+and+Steele+St+CO DUPLICATE
+Belleview+Ave+and+University+Blvd+CO DUPLICATE
+Found 1165 out of 1652 intersections, or 71.0%
+Belleview+Ave+and+Steele+St+CO DUPLICATE
+Belleview+Ave+and+University+Blvd+CO DUPLICATE
+Found 1167 out of 1654 intersections, or 71.0%
+Belleview+Ave+and+Steele+St+CO DUPLICATE
+Belleview+Ave+and+University+Blvd+CO DUPLICATE
+Found 1169 out of 1656 intersections, or 71.0%
+Belleview+Ave+and+Steele+St+CO DUPLICATE
+Belleview+Ave+and+University+Blvd+CO DUPLICATE
+Found 1171 out of 1658 intersections, or 71.0%
+Belleview+Ave+and+Steele+St+CO DUPLICATE
+Belleview+Ave+and+University+Blvd+CO DUPLICATE
+Found 1173 out of 1660 intersections, or 71.0%
+Belleview+Ave+and+Steele+St+CO DUPLICATE
+Belleview+Ave+and+University+Blvd+CO DUPLICATE
+Found 1175 out of 1662 intersections, or 71.0%
+Belleview+Ave+and+Steele+St+CO DUPLICATE
+Belleview+Ave+and+University+Blvd+CO DUPLICATE
+Found 1177 out of 1664 intersections, or 71.0%
+Belleview+Ave+and+Steele+St+CO DUPLICATE
+Belleview+Ave+and+University+Blvd+CO DUPLICATE
+Found 1179 out of 1666 intersections, or 71.0%
+Belleview+Ave+and+Steele+St+CO DUPLICATE
+Belleview+Ave+and+University+Blvd+CO DUPLICATE
+Found 1181 out of 1668 intersections, or 71.0%
+Belleview+Ave+and+Steele+St+CO DUPLICATE
+Belleview+Ave+and+University+Blvd+CO DUPLICATE
+Found 1183 out of 1670 intersections, or 71.0%
+Belleview+Ave+and+Steele+St+CO DUPLICATE
+Belleview+Ave+and+University+Blvd+CO DUPLICATE
+Found 1185 out of 1672 intersections, or 71.0%
+Belleview+Ave+and+Steele+St+CO DUPLICATE
+Belleview+Ave+and+University+Blvd+CO DUPLICATE
+Found 1187 out of 1674 intersections, or 71.0%
+Belleview+Ave+and+Steele+St+CO DUPLICATE
+Belleview+Ave+and+University+Blvd+CO DUPLICATE
+Found 1189 out of 1676 intersections, or 71.0%
+Belleview+Ave+and+Steele+St+CO DUPLICATE
+Belleview+Ave+and+University+Blvd+CO DUPLICATE
+Found 1191 out of 1678 intersections, or 71.0%
+Belleview+Ave+and+Steele+St+CO DUPLICATE
+Belleview+Ave+and+University+Blvd+CO DUPLICATE
+Found 1193 out of 1680 intersections, or 71.0%
+Belleview+Ave+and+Steele+St+CO DUPLICATE
+Belleview+Ave+and+University+Blvd+CO DUPLICATE
+Found 1195 out of 1682 intersections, or 71.0%
+Belleview+Ave+and+Steele+St+CO DUPLICATE
+Belleview+Ave+and+University+Blvd+CO DUPLICATE
+Found 1197 out of 1684 intersections, or 71.0%
+Belleview+Ave+and+Steele+St+CO DUPLICATE
+Belleview+Ave+and+University+Blvd+CO DUPLICATE
+Found 1199 out of 1686 intersections, or 71.0%
+Belleview+Ave+and+Niagara+St+CO DUPLICATE
+Belleview+Ave+and+Quebec+St+CO DUPLICATE
+Found 1201 out of 1688 intersections, or 71.0%
+Belleview+Ave+and+Niagara+St+CO DUPLICATE
+Belleview+Ave+and+Quebec+St+CO DUPLICATE
+Found 1203 out of 1690 intersections, or 71.0%
+Belleview+Ave+and+Niagara+St+CO DUPLICATE
+Belleview+Ave+and+Quebec+St+CO DUPLICATE
+Found 1205 out of 1692 intersections, or 71.0%
+Belleview+Ave+and+Niagara+St+CO DUPLICATE
+Belleview+Ave+and+Quebec+St+CO DUPLICATE
+Found 1207 out of 1694 intersections, or 71.0%
+Belleview+Ave+and+Niagara+St+CO DUPLICATE
+Belleview+Ave+and+Quebec+St+CO DUPLICATE
+Found 1209 out of 1696 intersections, or 71.0%
+Belleview+Ave+and+Niagara+St+CO DUPLICATE
+Belleview+Ave+and+Quebec+St+CO DUPLICATE
+Found 1211 out of 1698 intersections, or 71.0%
+Belleview+Ave+and+Niagara+St+CO DUPLICATE
+Belleview+Ave+and+Quebec+St+CO DUPLICATE
+Found 1213 out of 1700 intersections, or 71.0%
+Belleview+Ave+and+Niagara+St+CO DUPLICATE
+Belleview+Ave+and+Quebec+St+CO DUPLICATE
+Found 1215 out of 1702 intersections, or 71.0%
+Belleview+Ave+and+Niagara+St+CO DUPLICATE
+Belleview+Ave+and+Quebec+St+CO DUPLICATE
+Found 1217 out of 1704 intersections, or 71.0%
+Belleview+Ave+and+University+Blvd+CO DUPLICATE
+Belleview+Ave+and+Steele+St+CO DUPLICATE
+Found 1219 out of 1706 intersections, or 71.0%
+Belleview+Ave+and+University+Blvd+CO DUPLICATE
+Belleview+Ave+and+Steele+St+CO DUPLICATE
+Found 1221 out of 1708 intersections, or 71.0%
+Belleview+Ave+and+University+Blvd+CO DUPLICATE
+Belleview+Ave+and+Steele+St+CO DUPLICATE
+Found 1223 out of 1710 intersections, or 72.0%
+Belleview+Ave+and+University+Blvd+CO DUPLICATE
+Belleview+Ave+and+Steele+St+CO DUPLICATE
+Found 1225 out of 1712 intersections, or 72.0%
+Belleview+Ave+and+University+Blvd+CO DUPLICATE
+Belleview+Ave+and+Steele+St+CO DUPLICATE
+Found 1227 out of 1714 intersections, or 72.0%
+Belleview+Ave+and+University+Blvd+CO DUPLICATE
+Belleview+Ave+and+Steele+St+CO DUPLICATE
+Found 1229 out of 1716 intersections, or 72.0%
+Belleview+Ave+and+Fairfax+St+CO DUPLICATE
+Belleview+Ave+and+Birch+St+CO DUPLICATE
+Found 1231 out of 1718 intersections, or 72.0%
+Belleview+Ave+and+Fairfax+St+CO DUPLICATE
+Belleview+Ave+and+Birch+St+CO DUPLICATE
+Found 1233 out of 1720 intersections, or 72.0%
+Belleview+Ave+and+Fairfax+St+CO DUPLICATE
+Belleview+Ave+and+Birch+St+CO DUPLICATE
+Found 1235 out of 1722 intersections, or 72.0%
+Belleview+Ave+and+Fairfax+St+CO DUPLICATE
+Belleview+Ave+and+Birch+St+CO DUPLICATE
+Found 1237 out of 1724 intersections, or 72.0%
+Belleview+Ave+and+Fairfax+St+CO DUPLICATE
+Belleview+Ave+and+Birch+St+CO DUPLICATE
+Found 1239 out of 1726 intersections, or 72.0%
+Belleview+Ave+and+Fairfax+St+CO DUPLICATE
+Belleview+Ave+and+Birch+St+CO DUPLICATE
+Found 1241 out of 1728 intersections, or 72.0%
+Belleview+Ave+and+Birch+St+CO DUPLICATE
+Belleview+Ave+and+Fairfax+St+CO DUPLICATE
+Found 1243 out of 1730 intersections, or 72.0%
+Belleview+Ave+and+Birch+St+CO DUPLICATE
+Belleview+Ave+and+Fairfax+St+CO DUPLICATE
+Found 1245 out of 1732 intersections, or 72.0%
+Belleview+Ave+and+Birch+St+CO DUPLICATE
+Belleview+Ave+and+Fairfax+St+CO DUPLICATE
+Found 1247 out of 1734 intersections, or 72.0%
+Belleview+Ave+and+Birch+St+CO DUPLICATE
+Belleview+Ave+and+Fairfax+St+CO DUPLICATE
+Found 1249 out of 1736 intersections, or 72.0%
+Belleview+Ave+and+Birch+St+CO DUPLICATE
+Belleview+Ave+and+Fairfax+St+CO DUPLICATE
+Found 1251 out of 1738 intersections, or 72.0%
+Belleview+Ave+and+Birch+St+CO DUPLICATE
+Belleview+Ave+and+Fairfax+St+CO DUPLICATE
+Found 1253 out of 1740 intersections, or 72.0%
+Found 1253 out of 1740 intersections, or 72.0%
+Found 1253 out of 1740 intersections, or 72.0%
+E+Belleview+Ave+and+S+Fairfax+St+CO Found Intersection!! Coords are 39.6241648, -104.9274629
+E+Belleview+Ave+and+S+Birch+St+CO DUPLICATE
+Found 1255 out of 1742 intersections, or 72.0%
+E+Belleview+Ave+and+S+Birch+St+CO DUPLICATE
+E+Belleview+Ave+and+S+Fairfax+St+CO DUPLICATE
+Found 1257 out of 1744 intersections, or 72.0%
+Belleview+and+fairfax+st+CO Found Intersection!! Coords are 39.6241648, -104.9274629
+Belleview+and+birch+st+CO Found Intersection!! Coords are 39.624121, -104.9369317
+Found 1259 out of 1746 intersections, or 72.0%
+Belleview+Ave+and+Colorado+Blvd+CO DUPLICATE
+Belleview+Ave+and+University+Blvd+CO DUPLICATE
+Found 1260 out of 1748 intersections, or 72.0%
+Belleview+Ave+and+Colorado+Blvd+CO DUPLICATE
+Belleview+Ave+and+University+Blvd+CO DUPLICATE
+Found 1261 out of 1750 intersections, or 72.0%
+Belleview+Ave+and+Colorado+Blvd+CO DUPLICATE
+Belleview+Ave+and+University+Blvd+CO DUPLICATE
+Found 1262 out of 1752 intersections, or 72.0%
+Belleview+Ave+and+Colorado+Blvd+CO DUPLICATE
+Belleview+Ave+and+University+Blvd+CO DUPLICATE
+Found 1263 out of 1754 intersections, or 72.0%
+Belleview+Ave+and+Colorado+Blvd+CO DUPLICATE
+Belleview+Ave+and+University+Blvd+CO DUPLICATE
+Found 1264 out of 1756 intersections, or 72.0%
+Belleview+Ave+and+Colorado+Blvd+CO DUPLICATE
+Belleview+Ave+and+University+Blvd+CO DUPLICATE
+Found 1265 out of 1758 intersections, or 72.0%
+Belleview+Ave+and+University+Blvd+CO DUPLICATE
+Belleview+Ave+and+Colorado+Blvd+CO DUPLICATE
+Found 1266 out of 1760 intersections, or 72.0%
+Belleview+Ave+and+University+Blvd+CO DUPLICATE
+Belleview+Ave+and+Colorado+Blvd+CO DUPLICATE
+Found 1267 out of 1762 intersections, or 72.0%
+Belleview+Ave+and+University+Blvd+CO DUPLICATE
+Belleview+Ave+and+Colorado+Blvd+CO DUPLICATE
+Found 1268 out of 1764 intersections, or 72.0%
+Belleview+Ave+and+University+Blvd+CO DUPLICATE
+Belleview+Ave+and+Colorado+Blvd+CO DUPLICATE
+Found 1269 out of 1766 intersections, or 72.0%
+Belleview+Ave+and+University+Blvd+CO DUPLICATE
+Belleview+Ave+and+Colorado+Blvd+CO DUPLICATE
+Found 1270 out of 1768 intersections, or 72.0%
+Belleview+Ave+and+University+Blvd+CO DUPLICATE
+Belleview+Ave+and+Colorado+Blvd+CO DUPLICATE
+Found 1271 out of 1770 intersections, or 72.0%
+Belleview+Ave+and+Birch+St+CO DUPLICATE
+Belleview+Ave+and+Colorado+Blvd+CO DUPLICATE
+Found 1272 out of 1772 intersections, or 72.0%
+Belleview+Ave+and+University+Blvd+CO DUPLICATE
+Belleview+Ave+and+Colorado+Blvd+CO DUPLICATE
+Found 1273 out of 1774 intersections, or 72.0%
+Belleview+Ave+and+University+Blvd+CO DUPLICATE
+Belleview+Ave+and+Colorado+Blvd+CO DUPLICATE
+Found 1274 out of 1776 intersections, or 72.0%
+Belleview+Ave+and+University+Blvd+CO DUPLICATE
+Belleview+Ave+and+Colorado+Blvd+CO DUPLICATE
+Found 1275 out of 1778 intersections, or 72.0%
+Belleview+Ave+and+University+Blvd+CO DUPLICATE
+Belleview+Ave+and+Colorado+Blvd+CO DUPLICATE
+Found 1276 out of 1780 intersections, or 72.0%
+Belleview+Ave+and+University+Blvd+CO DUPLICATE
+Belleview+Ave+and+Colorado+Blvd+CO DUPLICATE
+Found 1277 out of 1782 intersections, or 72.0%
+Belleview+Ave+and+University+Blvd+CO DUPLICATE
+Belleview+Ave+and+Colorado+Blvd+CO DUPLICATE
+Found 1278 out of 1784 intersections, or 72.0%
+Belleview+Ave+and+Cherry+Hills+Farm+Dr+CO DUPLICATE
+Belleview+Ave+and+University+Blvd+CO DUPLICATE
+Found 1279 out of 1786 intersections, or 72.0%
+Found 1279 out of 1786 intersections, or 72.0%
+025A+and+Erie+Pkwy+CO Unable to find intersection
+025A+and+SH+7+CO Unable to find intersection
+Found 1279 out of 1788 intersections, or 72.0%
+Found 1279 out of 1788 intersections, or 72.0%
++and+W.+Mississippi+Ave.++CO Unable to find intersection
++and+W.+Kentucky+Ave+CO Unable to find intersection
+Found 1279 out of 1790 intersections, or 71.0%
+Found 1279 out of 1790 intersections, or 71.0%
+Found 1279 out of 1790 intersections, or 71.0%
+Found 1279 out of 1790 intersections, or 71.0%
+Found 1279 out of 1790 intersections, or 71.0%
+Found 1279 out of 1790 intersections, or 71.0%
+Found 1279 out of 1790 intersections, or 71.0%
+US+287+and+44th+St.+CO DUPLICATE
+US+287+and+41+st.+CO DUPLICATE
+Found 1280 out of 1792 intersections, or 71.0%
+US+287+and+41th+St.+CO DUPLICATE
+US+287+and+44+St.+CO DUPLICATE
+Found 1281 out of 1794 intersections, or 71.0%
+US+287+and+44th+St.+CO DUPLICATE
+US+287+and+41+st.+CO DUPLICATE
+Found 1282 out of 1796 intersections, or 71.0%
+US+287+and+44th+St.+CO DUPLICATE
+US+287+and+41+st.+CO DUPLICATE
+Found 1283 out of 1798 intersections, or 71.0%
+US+287+and+41th+St.+CO DUPLICATE
+US+287+and+44+St.+CO DUPLICATE
+Found 1284 out of 1800 intersections, or 71.0%
+US+287+and+41th+St.+CO DUPLICATE
+US+287+and+44+St.+CO DUPLICATE
+Found 1285 out of 1802 intersections, or 71.0%
+US+287+and+41th+St.+CO DUPLICATE
+US+287+and+44+St.+CO DUPLICATE
+Found 1286 out of 1804 intersections, or 71.0%
+US+40+and+Hudson+St.+CO DUPLICATE
+US+40+and+Krameria+St.+CO DUPLICATE
+Found 1288 out of 1806 intersections, or 71.0%
+US+40+and+Krameria+St.+CO DUPLICATE
+US+40+and+Hudson+St.+CO DUPLICATE
+Found 1290 out of 1808 intersections, or 71.0%
+US+88+and+Tennessee+Ave+CO Unable to find intersection
+ERROR: Invalid response for US+88+and+Exposition+CO
+[]
+US+88+and+Exposition+CO Unable to find intersection
+Found 1290 out of 1810 intersections, or 71.0%
+US+40+-+EB+and+Krameria+St.+CO DUPLICATE
+US+40+-+EB+and+Hudson+St.+CO DUPLICATE
+Found 1290 out of 1812 intersections, or 71.0%
+US+40+-+WB+and+Hudson+St.+CO DUPLICATE
+US+40+-+WB+and+Krameria+St.+CO DUPLICATE
+Found 1290 out of 1814 intersections, or 71.0%
+US+40+-+EB+and+Jersey+St.+CO DUPLICATE
+US+40+-+EB+and+Hudson+St.+CO DUPLICATE
+Found 1290 out of 1816 intersections, or 71.0%
+US+40+-+EB+and+Jersey+St.+CO DUPLICATE
+US+40+-+EB+and+Hudson+St.+CO DUPLICATE
+Found 1290 out of 1818 intersections, or 71.0%
+US+40+-+WB+and+Hudson+St.+CO DUPLICATE
+US+40+-+WB+and+Krameria+St.+CO DUPLICATE
+Found 1290 out of 1820 intersections, or 71.0%
+US+40+-+EB+and+Jersey+St.+CO DUPLICATE
+US+40+-+EB+and+Hudson+St.+CO DUPLICATE
+Found 1290 out of 1822 intersections, or 71.0%
+US+40+-+WB+and+Hudson+St.+CO DUPLICATE
+US+40+-+WB+and+Krameria+St.+CO DUPLICATE
+Found 1290 out of 1824 intersections, or 71.0%
+US+40+-+WB+and+Hudson+St.+CO DUPLICATE
+US+40+-+WB+and+Krameria+St.+CO DUPLICATE
+Found 1290 out of 1826 intersections, or 71.0%
+US+40+-+WB+and+Hudson+St.+CO DUPLICATE
+US+40+-+WB+and+Krameria+St.+CO DUPLICATE
+Found 1290 out of 1828 intersections, or 71.0%
+US+40+-+EB+and+Jersey+St.+CO DUPLICATE
+US+40+-+EB+and+Hudson+St.+CO DUPLICATE
+Found 1290 out of 1830 intersections, or 70.0%
+US+40+-+WB+and+Hudson+St.+CO DUPLICATE
+US+40+-+WB+and+Krameria+St.+CO DUPLICATE
+Found 1290 out of 1832 intersections, or 70.0%
+US+40+-+WB+and+Hudson+St.+CO DUPLICATE
+US+40+-+WB+and+Krameria+St.+CO DUPLICATE
+Found 1290 out of 1834 intersections, or 70.0%
+US+40+-+EB+and+Jersey+St.+CO DUPLICATE
+US+40+-+EB+and+Hudson+St.+CO DUPLICATE
+Found 1290 out of 1836 intersections, or 70.0%
+I-76+and+Woodmont+Rd+CO Unable to find intersection
+I-76+and+Front+St+CO Unable to find intersection
+Found 1290 out of 1838 intersections, or 70.0%
+C-470+and+W.Cross+Drive+CO Unable to find intersection
+C-470+and+Belleview+Ave+CO Unable to find intersection
+Found 1290 out of 1840 intersections, or 70.0%
+Found 1290 out of 1840 intersections, or 70.0%
+Found 1290 out of 1840 intersections, or 70.0%
+Found 1290 out of 1840 intersections, or 70.0%
+Found 1290 out of 1840 intersections, or 70.0%
+SH-88+and+W.+Kentucky+Ave+CO DUPLICATE
+SH-88+and+W.+Mississippi+Ave+CO Found Intersection!! Coords are 39.6967484, -105.02501
+Found 1292 out of 1842 intersections, or 70.0%
+SH-88+and+W.+Kentucky+Ave+CO DUPLICATE
+SH-88+and+W.+Mississippi+Ave+CO DUPLICATE
+Found 1294 out of 1844 intersections, or 70.0%
+SH-88+and+W.+Mississippi+Ave+++CO DUPLICATE
+SH-88+and+W.+Kentucky+Ave+CO DUPLICATE
+Found 1296 out of 1846 intersections, or 70.0%
+US+40+-+EB+and+Jersey+St.+CO DUPLICATE
+US+40+-+EB+and+Hudson+St.+CO DUPLICATE
+Found 1296 out of 1848 intersections, or 70.0%
+US+40+-+WB+and+Hudson+St.+CO DUPLICATE
+US+40+-+WB+and+Krameria+St.+CO DUPLICATE
+Found 1296 out of 1850 intersections, or 70.0%
+US+40+-+WB+and+Hudson+St.+CO DUPLICATE
+US+40+-+WB+and+Krameria+St.+CO DUPLICATE
+Found 1296 out of 1852 intersections, or 70.0%
+US+40+-+EB+and+Jersey+St.+CO DUPLICATE
+US+40+-+EB+and+Hudson+St.+CO DUPLICATE
+Found 1296 out of 1854 intersections, or 70.0%
+SH-88+and+W.+Kentucky+Ave+CO DUPLICATE
+SH-88+and+W.+Mississippi+Ave+CO DUPLICATE
+Found 1298 out of 1856 intersections, or 70.0%
+US+287+and+41th+St.+CO DUPLICATE
+US+287+and+44+St.+CO DUPLICATE
+Found 1299 out of 1858 intersections, or 70.0%
+US+287+and+44th+St.+CO DUPLICATE
+US+287+and+41+st.+CO DUPLICATE
+Found 1300 out of 1860 intersections, or 70.0%
+US+287+and+44th+St.+CO DUPLICATE
+US+287+and+41+st.+CO DUPLICATE
+Found 1301 out of 1862 intersections, or 70.0%
+US+287+and+41th+St.+CO DUPLICATE
+US+287+and+44+St.+CO DUPLICATE
+Found 1302 out of 1864 intersections, or 70.0%
+US+287+and+41th+St.+CO DUPLICATE
+US+287+and+44+St.+CO DUPLICATE
+Found 1303 out of 1866 intersections, or 70.0%
+US+287+and+41th+St.+CO DUPLICATE
+US+287+and+44+St.+CO DUPLICATE
+Found 1304 out of 1868 intersections, or 70.0%

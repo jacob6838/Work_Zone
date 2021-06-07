@@ -1,0 +1,98 @@
+{
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "8392",
+                    "short_name": "8392",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Burnley Court",
+                    "short_name": "Burnley Ct",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Northridge",
+                    "short_name": "Northridge",
+                    "types": [
+                        "neighborhood",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Highlands Ranch",
+                    "short_name": "Highlands Ranch",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Douglas County",
+                    "short_name": "Douglas County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Colorado",
+                    "short_name": "CO",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "80126",
+                    "short_name": "80126",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "8392 Burnley Ct, Highlands Ranch, CO 80126, USA",
+            "geometry": {
+                "location": {
+                    "lat": 39.5613017,
+                    "lng": -104.9612423
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 39.5626506802915,
+                        "lng": -104.9598933197085
+                    },
+                    "southwest": {
+                        "lat": 39.55995271970851,
+                        "lng": -104.9625912802915
+                    }
+                }
+            },
+            "place_id": "ChIJ6fRou-qDbIcR2jNFo1yTV5I",
+            "plus_code": {
+                "compound_code": "H26Q+GG Highlands Ranch, CO, USA",
+                "global_code": "85FQH26Q+GG"
+            },
+            "types": [
+                "establishment",
+                "parking",
+                "point_of_interest"
+            ]
+        }
+    ],
+    "status": "OK"
+}

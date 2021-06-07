@@ -1,0 +1,85 @@
+{
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "U.S. 40 & Saint Paul Street",
+                    "short_name": "US-40 & St Paul St",
+                    "types": [
+                        "intersection"
+                    ]
+                },
+                {
+                    "long_name": "Congress Park",
+                    "short_name": "Congress Park",
+                    "types": [
+                        "neighborhood",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Denver",
+                    "short_name": "Denver",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Denver County",
+                    "short_name": "Denver County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Colorado",
+                    "short_name": "CO",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "80206",
+                    "short_name": "80206",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "US-40 & St Paul St, Denver, CO 80206, USA",
+            "geometry": {
+                "location": {
+                    "lat": 39.74017430000001,
+                    "lng": -104.9506773
+                },
+                "location_type": "GEOMETRIC_CENTER",
+                "viewport": {
+                    "northeast": {
+                        "lat": 39.74152328029151,
+                        "lng": -104.9493283197085
+                    },
+                    "southwest": {
+                        "lat": 39.73882531970851,
+                        "lng": -104.9520262802915
+                    }
+                }
+            },
+            "place_id": "EilVUy00MCAmIFN0IFBhdWwgU3QsIERlbnZlciwgQ08gODAyMDYsIFVTQSJmImQKFAoSCaPYN3-yfmyHEc-ZH8OCWkSmEhQKEgmj2Dd_sn5shxHPmR_DglpEphoUChIJBcczYbSNwocR91SS-q8QqdgaFAoSCQHihDZFeWyHEehEghrBYdM-IgoNj96vFxUrzHHB",
+            "types": [
+                "intersection"
+            ]
+        }
+    ],
+    "status": "OK"
+}

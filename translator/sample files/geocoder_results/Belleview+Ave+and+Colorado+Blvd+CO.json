@@ -1,0 +1,64 @@
+{
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "East Belleview Avenue",
+                    "short_name": "E Belleview Ave",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Colorado",
+                    "short_name": "CO",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                }
+            ],
+            "formatted_address": "E Belleview Ave, Colorado, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 39.6335272,
+                        "lng": -104.8512993
+                    },
+                    "southwest": {
+                        "lat": 39.6148544,
+                        "lng": -104.9885388
+                    }
+                },
+                "location": {
+                    "lat": 39.624154,
+                    "lng": -104.9205776
+                },
+                "location_type": "GEOMETRIC_CENTER",
+                "viewport": {
+                    "northeast": {
+                        "lat": 39.6335272,
+                        "lng": -104.8512993
+                    },
+                    "southwest": {
+                        "lat": 39.6148544,
+                        "lng": -104.9885388
+                    }
+                }
+            },
+            "place_id": "ChIJMRhOO9-GbIcRrRemYU46AQI",
+            "types": [
+                "route"
+            ]
+        }
+    ],
+    "status": "OK"
+}

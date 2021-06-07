@@ -1,0 +1,148 @@
+{
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "U.S. 40",
+                    "short_name": "US-40",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                }
+            ],
+            "formatted_address": "US-40, United States",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 40.7565988,
+                        "lng": -74.4525627
+                    },
+                    "southwest": {
+                        "lat": 38.5686601,
+                        "lng": -111.5229817
+                    }
+                },
+                "location": {
+                    "lat": 39.0018994,
+                    "lng": -92.7336228
+                },
+                "location_type": "GEOMETRIC_CENTER",
+                "viewport": {
+                    "northeast": {
+                        "lat": 40.7565988,
+                        "lng": -74.4525627
+                    },
+                    "southwest": {
+                        "lat": 38.5686601,
+                        "lng": -111.5229817
+                    }
+                }
+            },
+            "partial_match": true,
+            "place_id": "ChIJBcczYbSNwocR91SS-q8Qqdg",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "address_components": [
+                {
+                    "long_name": "Jersey Street",
+                    "short_name": "Jersey St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "East",
+                    "short_name": "East",
+                    "types": [
+                        "neighborhood",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Denver",
+                    "short_name": "Denver",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Denver County",
+                    "short_name": "Denver County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Colorado",
+                    "short_name": "CO",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "80220",
+                    "short_name": "80220",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "Jersey St, Denver, CO 80220, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 39.7409039,
+                        "lng": -104.9184443
+                    },
+                    "southwest": {
+                        "lat": 39.7155001,
+                        "lng": -104.9213643
+                    }
+                },
+                "location": {
+                    "lat": 39.7280689,
+                    "lng": -104.9194668
+                },
+                "location_type": "GEOMETRIC_CENTER",
+                "viewport": {
+                    "northeast": {
+                        "lat": 39.7409039,
+                        "lng": -104.9184443
+                    },
+                    "southwest": {
+                        "lat": 39.7155001,
+                        "lng": -104.9213643
+                    }
+                }
+            },
+            "partial_match": true,
+            "place_id": "ChIJAfEClhV8bIcREIuQcZMG_ck",
+            "types": [
+                "route"
+            ]
+        }
+    ],
+    "status": "OK"
+}

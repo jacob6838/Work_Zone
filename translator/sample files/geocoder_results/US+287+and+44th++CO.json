@@ -1,0 +1,85 @@
+{
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "U.S. 287 & West 44th Avenue",
+                    "short_name": "US-287 & W 44th Ave",
+                    "types": [
+                        "intersection"
+                    ]
+                },
+                {
+                    "long_name": "Northwest",
+                    "short_name": "Northwest",
+                    "types": [
+                        "neighborhood",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Denver",
+                    "short_name": "Denver",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Denver County",
+                    "short_name": "Denver County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Colorado",
+                    "short_name": "CO",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "80211",
+                    "short_name": "80211",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "US-287 & W 44th Ave, Denver, CO 80211, USA",
+            "geometry": {
+                "location": {
+                    "lat": 39.77662979999999,
+                    "lng": -105.0252671
+                },
+                "location_type": "GEOMETRIC_CENTER",
+                "viewport": {
+                    "northeast": {
+                        "lat": 39.77797878029149,
+                        "lng": -105.0239181197085
+                    },
+                    "southwest": {
+                        "lat": 39.77528081970849,
+                        "lng": -105.0266160802915
+                    }
+                }
+            },
+            "place_id": "EipVUy0yODcgJiBXIDQ0dGggQXZlLCBEZW52ZXIsIENPIDgwMjExLCBVU0EiZiJkChQKEgnR0Ck4fHhshxG5KCuXBGsqhBIUChIJ0dApOHx4bIcRuSgrlwRrKoQaFAoSCYOlkfLaFA2HEcMBlqsQUncMGhQKEgmzb6CEXYZrhxGI1vS9UGvYMyIKDZputRcVgWpmwQ",
+            "types": [
+                "intersection"
+            ]
+        }
+    ],
+    "status": "OK"
+}

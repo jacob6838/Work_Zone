@@ -1,0 +1,65 @@
+{
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "Colorado 470",
+                    "short_name": "CO-470",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Colorado",
+                    "short_name": "CO",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                }
+            ],
+            "formatted_address": "CO-470, Colorado, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 39.7306466,
+                        "lng": -104.8571368
+                    },
+                    "southwest": {
+                        "lat": 39.54123070000001,
+                        "lng": -105.2194808
+                    }
+                },
+                "location": {
+                    "lat": 39.5678914,
+                    "lng": -105.0452749
+                },
+                "location_type": "GEOMETRIC_CENTER",
+                "viewport": {
+                    "northeast": {
+                        "lat": 39.7306466,
+                        "lng": -104.8571368
+                    },
+                    "southwest": {
+                        "lat": 39.54123070000001,
+                        "lng": -105.2194808
+                    }
+                }
+            },
+            "partial_match": true,
+            "place_id": "ChIJmYarDeR_a4cRuu93DuPurGw",
+            "types": [
+                "route"
+            ]
+        }
+    ],
+    "status": "OK"
+}

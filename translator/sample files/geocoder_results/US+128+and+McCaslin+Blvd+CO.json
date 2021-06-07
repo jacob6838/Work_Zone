@@ -1,0 +1,69 @@
+{
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "Colorado 128 & McCaslin Boulevard",
+                    "short_name": "CO-128 & McCaslin Blvd",
+                    "types": [
+                        "intersection"
+                    ]
+                },
+                {
+                    "long_name": "Jefferson County",
+                    "short_name": "Jefferson County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Colorado",
+                    "short_name": "CO",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "80027",
+                    "short_name": "80027",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "CO-128 & McCaslin Blvd, Colorado 80027, USA",
+            "geometry": {
+                "location": {
+                    "lat": 39.9092018,
+                    "lng": -105.1708109
+                },
+                "location_type": "GEOMETRIC_CENTER",
+                "viewport": {
+                    "northeast": {
+                        "lat": 39.91055078029149,
+                        "lng": -105.1694619197085
+                    },
+                    "southwest": {
+                        "lat": 39.90785281970849,
+                        "lng": -105.1721598802915
+                    }
+                }
+            },
+            "place_id": "EitDTy0xMjggJiBNY0Nhc2xpbiBCbHZkLCBDb2xvcmFkbyA4MDAyNywgVVNBImYiZAoUChIJ_5QdbFOMa4cRi3kCG6s0mwwSFAoSCf-UHWxTjGuHEYt5AhurNJsMGhQKEgmfuhOWnItrhxH0c2KIrBgJuhoUChIJQWu8alSMa4cRKDLex-ZumZAiCg0yqckXFTM1UME",
+            "types": [
+                "intersection"
+            ]
+        }
+    ],
+    "status": "OK"
+}

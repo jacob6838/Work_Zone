@@ -1,0 +1,57 @@
+{
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "Interstate 76",
+                    "short_name": "I-76",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                }
+            ],
+            "formatted_address": "I-76, United States",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 41.03823269999999,
+                        "lng": -102.1404037
+                    },
+                    "southwest": {
+                        "lat": 39.7663516,
+                        "lng": -105.0805842
+                    }
+                },
+                "location": {
+                    "lat": 40.3112549,
+                    "lng": -103.510918
+                },
+                "location_type": "GEOMETRIC_CENTER",
+                "viewport": {
+                    "northeast": {
+                        "lat": 41.03823269999999,
+                        "lng": -102.1404037
+                    },
+                    "southwest": {
+                        "lat": 39.7663516,
+                        "lng": -105.0805842
+                    }
+                }
+            },
+            "partial_match": true,
+            "place_id": "ChIJAVBSTL_-bYcRhOZ4AXUsHB0",
+            "types": [
+                "route"
+            ]
+        }
+    ],
+    "status": "OK"
+}

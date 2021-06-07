@@ -1,0 +1,148 @@
+{
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "Interstate 25",
+                    "short_name": "I-25",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                }
+            ],
+            "formatted_address": "I-25, United States",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 44.37022349999999,
+                        "lng": -104.3791912
+                    },
+                    "southwest": {
+                        "lat": 32.2086936,
+                        "lng": -107.3375791
+                    }
+                },
+                "location": {
+                    "lat": 37.935871,
+                    "lng": -104.8172248
+                },
+                "location_type": "GEOMETRIC_CENTER",
+                "viewport": {
+                    "northeast": {
+                        "lat": 44.37022349999999,
+                        "lng": -104.3791912
+                    },
+                    "southwest": {
+                        "lat": 32.2086936,
+                        "lng": -107.3375791
+                    }
+                }
+            },
+            "partial_match": true,
+            "place_id": "ChIJNUYdNlIBFYcRtGLWx4YX_4E",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "address_components": [
+                {
+                    "long_name": "West City Center Drive",
+                    "short_name": "W City Center Dr",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Downtown",
+                    "short_name": "Downtown",
+                    "types": [
+                        "neighborhood",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Pueblo",
+                    "short_name": "Pueblo",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Pueblo County",
+                    "short_name": "Pueblo County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Colorado",
+                    "short_name": "CO",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "81003",
+                    "short_name": "81003",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "W City Center Dr, Pueblo, CO 81003, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 38.2685099,
+                        "lng": -104.6070022
+                    },
+                    "southwest": {
+                        "lat": 38.2674028,
+                        "lng": -104.6132404
+                    }
+                },
+                "location": {
+                    "lat": 38.2678637,
+                    "lng": -104.60999
+                },
+                "location_type": "GEOMETRIC_CENTER",
+                "viewport": {
+                    "northeast": {
+                        "lat": 38.2693053302915,
+                        "lng": -104.6070022
+                    },
+                    "southwest": {
+                        "lat": 38.2666073697085,
+                        "lng": -104.6132404
+                    }
+                }
+            },
+            "partial_match": true,
+            "place_id": "ChIJUbcdEv2iE4cRtqvE4E9Fd3M",
+            "types": [
+                "route"
+            ]
+        }
+    ],
+    "status": "OK"
+}

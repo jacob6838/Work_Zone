@@ -1,0 +1,88 @@
+{
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "Fairfax Street",
+                    "short_name": "Fairfax St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "East",
+                    "short_name": "East",
+                    "types": [
+                        "neighborhood",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Denver",
+                    "short_name": "Denver",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Denver County",
+                    "short_name": "Denver County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Colorado",
+                    "short_name": "CO",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                }
+            ],
+            "formatted_address": "Fairfax St, Denver, CO, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 39.7692718,
+                        "lng": -104.9272044
+                    },
+                    "southwest": {
+                        "lat": 39.715422,
+                        "lng": -104.9330448
+                    }
+                },
+                "location": {
+                    "lat": 39.7430407,
+                    "lng": -104.9286857
+                },
+                "location_type": "GEOMETRIC_CENTER",
+                "viewport": {
+                    "northeast": {
+                        "lat": 39.7692718,
+                        "lng": -104.9272044
+                    },
+                    "southwest": {
+                        "lat": 39.715422,
+                        "lng": -104.9330448
+                    }
+                }
+            },
+            "place_id": "ChIJi5fgOQZ8bIcRlDHqezGxsjk",
+            "types": [
+                "route"
+            ]
+        }
+    ],
+    "status": "OK"
+}

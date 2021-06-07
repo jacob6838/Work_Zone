@@ -1,0 +1,140 @@
+{
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "U.S. 6",
+                    "short_name": "US-6",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                }
+            ],
+            "formatted_address": "US-6, United States",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.1163287,
+                        "lng": -69.9550338
+                    },
+                    "southwest": {
+                        "lat": 37.3533331,
+                        "lng": -118.4863963
+                    }
+                },
+                "location": {
+                    "lat": 41.3175381,
+                    "lng": -95.0761636
+                },
+                "location_type": "GEOMETRIC_CENTER",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.1163287,
+                        "lng": -69.9550338
+                    },
+                    "southwest": {
+                        "lat": 37.3533331,
+                        "lng": -118.4863963
+                    }
+                }
+            },
+            "partial_match": true,
+            "place_id": "ChIJLUD8U13FwYcR_U5wWM1cyOw",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "address_components": [
+                {
+                    "long_name": "Edwards Access Road",
+                    "short_name": "Edwards Access Rd",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Edwards",
+                    "short_name": "Edwards",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Eagle County",
+                    "short_name": "Eagle County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Colorado",
+                    "short_name": "CO",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "81632",
+                    "short_name": "81632",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "Edwards Access Rd, Edwards, CO 81632, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 39.6499517,
+                        "lng": -106.5871356
+                    },
+                    "southwest": {
+                        "lat": 39.6438286,
+                        "lng": -106.59395
+                    }
+                },
+                "location": {
+                    "lat": 39.647365,
+                    "lng": -106.5908707
+                },
+                "location_type": "GEOMETRIC_CENTER",
+                "viewport": {
+                    "northeast": {
+                        "lat": 39.6499517,
+                        "lng": -106.5871356
+                    },
+                    "southwest": {
+                        "lat": 39.6438286,
+                        "lng": -106.59395
+                    }
+                }
+            },
+            "partial_match": true,
+            "place_id": "ChIJkyEJKBvZQYcRTF5kdXB5eBw",
+            "types": [
+                "route"
+            ]
+        }
+    ],
+    "status": "OK"
+}

@@ -1,0 +1,77 @@
+{
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "East Belleview Avenue & South Birch Street",
+                    "short_name": "E Belleview Ave & S Birch St",
+                    "types": [
+                        "intersection"
+                    ]
+                },
+                {
+                    "long_name": "Cherry Hills Village",
+                    "short_name": "Cherry Hills Village",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Arapahoe County",
+                    "short_name": "Arapahoe County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Colorado",
+                    "short_name": "CO",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "80121",
+                    "short_name": "80121",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "E Belleview Ave & S Birch St, Cherry Hills Village, CO 80121, USA",
+            "geometry": {
+                "location": {
+                    "lat": 39.624121,
+                    "lng": -104.9369317
+                },
+                "location_type": "GEOMETRIC_CENTER",
+                "viewport": {
+                    "northeast": {
+                        "lat": 39.62546998029149,
+                        "lng": -104.9355827197085
+                    },
+                    "southwest": {
+                        "lat": 39.62277201970849,
+                        "lng": -104.9382806802915
+                    }
+                }
+            },
+            "place_id": "EkFFIEJlbGxldmlldyBBdmUgJiBTIEJpcmNoIFN0LCBDaGVycnkgSGlsbHMgVmlsbGFnZSwgQ08gODAxMjEsIFVTQSJmImQKFAoSCVO7l5sqh2yHEb75Ul42MsvYEhQKEglTu5ebKodshxG--VJeNjLL2BoUChIJMRhOO9-GbIcRrRemYU46AQIaFAoSCQGK8c79fWyHEY_MPS7ofO8VIgoNOimeFxUb5XPB",
+            "types": [
+                "intersection"
+            ]
+        }
+    ],
+    "status": "OK"
+}

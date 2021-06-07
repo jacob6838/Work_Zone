@@ -1,0 +1,82 @@
+{
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "Interstate 70",
+                    "short_name": "I-70",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Edwards",
+                    "short_name": "Edwards",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Eagle County",
+                    "short_name": "Eagle County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Colorado",
+                    "short_name": "CO",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "81632",
+                    "short_name": "81632",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "Milepost 160, I-70, Edwards, CO 81632, USA",
+            "geometry": {
+                "location": {
+                    "lat": 39.658521,
+                    "lng": -106.6324599
+                },
+                "location_type": "GEOMETRIC_CENTER",
+                "viewport": {
+                    "northeast": {
+                        "lat": 39.6598699802915,
+                        "lng": -106.6311109197085
+                    },
+                    "southwest": {
+                        "lat": 39.6571720197085,
+                        "lng": -106.6338088802915
+                    }
+                }
+            },
+            "place_id": "ChIJN9D5G-PbQYcRddBhzk-tuvU",
+            "plus_code": {
+                "compound_code": "M959+C2 Edwards, CO, USA",
+                "global_code": "85FMM959+C2"
+            },
+            "types": [
+                "establishment",
+                "point_of_interest"
+            ]
+        }
+    ],
+    "status": "OK"
+}

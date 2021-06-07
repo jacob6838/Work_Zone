@@ -1,0 +1,117 @@
+{
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "U.S. 40",
+                    "short_name": "US-40",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                }
+            ],
+            "formatted_address": "US-40, United States",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 40.7565988,
+                        "lng": -74.4525627
+                    },
+                    "southwest": {
+                        "lat": 38.5686601,
+                        "lng": -111.5229817
+                    }
+                },
+                "location": {
+                    "lat": 39.0018994,
+                    "lng": -92.7336228
+                },
+                "location_type": "GEOMETRIC_CENTER",
+                "viewport": {
+                    "northeast": {
+                        "lat": 40.7565988,
+                        "lng": -74.4525627
+                    },
+                    "southwest": {
+                        "lat": 38.5686601,
+                        "lng": -111.5229817
+                    }
+                }
+            },
+            "partial_match": true,
+            "place_id": "ChIJBcczYbSNwocR91SS-q8Qqdg",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "address_components": [
+                {
+                    "long_name": "Krameria Street",
+                    "short_name": "Krameria St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Colorado",
+                    "short_name": "CO",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                }
+            ],
+            "formatted_address": "Krameria St, Colorado, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 39.84849579999999,
+                        "lng": -104.9126044
+                    },
+                    "southwest": {
+                        "lat": 39.71656979999999,
+                        "lng": -104.9272044
+                    }
+                },
+                "location": {
+                    "lat": 39.7855002,
+                    "lng": -104.9167971
+                },
+                "location_type": "GEOMETRIC_CENTER",
+                "viewport": {
+                    "northeast": {
+                        "lat": 39.84849579999999,
+                        "lng": -104.9126044
+                    },
+                    "southwest": {
+                        "lat": 39.71656979999999,
+                        "lng": -104.9272044
+                    }
+                }
+            },
+            "partial_match": true,
+            "place_id": "ChIJs_Nj-LV7bIcR1deK7Nrl4bs",
+            "types": [
+                "route"
+            ]
+        }
+    ],
+    "status": "OK"
+}

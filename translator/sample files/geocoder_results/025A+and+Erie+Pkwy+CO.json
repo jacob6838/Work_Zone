@@ -1,0 +1,98 @@
+{
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "Medical Center",
+                    "short_name": "Medical Center",
+                    "types": [
+                        "establishment",
+                        "point_of_interest"
+                    ]
+                },
+                {
+                    "long_name": "101",
+                    "short_name": "101",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Erie Parkway",
+                    "short_name": "Erie Pkwy",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Erie",
+                    "short_name": "Erie",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Weld County",
+                    "short_name": "Weld County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Colorado",
+                    "short_name": "CO",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "80516",
+                    "short_name": "80516",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "Medical Center, 101 Erie Pkwy, Erie, CO 80516, USA",
+            "geometry": {
+                "location": {
+                    "lat": 40.0407447,
+                    "lng": -105.0478057
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 40.04209368029149,
+                        "lng": -105.0464567197085
+                    },
+                    "southwest": {
+                        "lat": 40.0393957197085,
+                        "lng": -105.0491546802915
+                    }
+                }
+            },
+            "place_id": "ChIJyXbE06T1a4cRItlqxpHR7SE",
+            "plus_code": {
+                "compound_code": "2XR2+7V Erie, CO, USA",
+                "global_code": "85GP2XR2+7V"
+            },
+            "types": [
+                "establishment",
+                "health",
+                "point_of_interest"
+            ]
+        }
+    ],
+    "status": "OK"
+}

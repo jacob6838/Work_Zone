@@ -1,0 +1,56 @@
+{
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "U.S. 6",
+                    "short_name": "US-6",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                }
+            ],
+            "formatted_address": "US-6, United States",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 42.1163287,
+                        "lng": -69.9550338
+                    },
+                    "southwest": {
+                        "lat": 37.3533331,
+                        "lng": -118.4863963
+                    }
+                },
+                "location": {
+                    "lat": 41.3175381,
+                    "lng": -95.0761636
+                },
+                "location_type": "GEOMETRIC_CENTER",
+                "viewport": {
+                    "northeast": {
+                        "lat": 42.1163287,
+                        "lng": -69.9550338
+                    },
+                    "southwest": {
+                        "lat": 37.3533331,
+                        "lng": -118.4863963
+                    }
+                }
+            },
+            "place_id": "ChIJLUD8U13FwYcR_U5wWM1cyOw",
+            "types": [
+                "route"
+            ]
+        }
+    ],
+    "status": "OK"
+}

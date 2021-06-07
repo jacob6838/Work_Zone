@@ -1,0 +1,77 @@
+{
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "East Belleview Avenue & South Steele Street",
+                    "short_name": "E Belleview Ave & S Steele St",
+                    "types": [
+                        "intersection"
+                    ]
+                },
+                {
+                    "long_name": "Greenwood Village",
+                    "short_name": "Greenwood Village",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Arapahoe County",
+                    "short_name": "Arapahoe County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Colorado",
+                    "short_name": "CO",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "80121",
+                    "short_name": "80121",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "E Belleview Ave & S Steele St, Greenwood Village, CO 80121, USA",
+            "geometry": {
+                "location": {
+                    "lat": 39.6241924,
+                    "lng": -104.9504054
+                },
+                "location_type": "GEOMETRIC_CENTER",
+                "viewport": {
+                    "northeast": {
+                        "lat": 39.6255413802915,
+                        "lng": -104.9490564197085
+                    },
+                    "southwest": {
+                        "lat": 39.6228434197085,
+                        "lng": -104.9517543802915
+                    }
+                }
+            },
+            "place_id": "Ej9FIEJlbGxldmlldyBBdmUgJiBTIFN0ZWVsZSBTdCwgR3JlZW53b29kIFZpbGxhZ2UsIENPIDgwMTIxLCBVU0EiZiJkChQKEgnpl_yA14BshxHH3PtFtp2LShIUChIJ6Zf8gNeAbIcRx9z7Rbadi0oaFAoSCTEYTjvfhmyHEa0XpmFOOgECGhQKEglPW7XvRYFshxEMlPxqS-U6OiIKDQQsnhcVytZxwQ",
+            "types": [
+                "intersection"
+            ]
+        }
+    ],
+    "status": "OK"
+}

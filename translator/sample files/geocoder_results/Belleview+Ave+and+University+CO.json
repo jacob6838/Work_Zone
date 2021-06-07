@@ -1,0 +1,81 @@
+{
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "S University Blvd & Belleview Ave",
+                    "short_name": "S University Blvd & Belleview Ave",
+                    "types": [
+                        "establishment",
+                        "point_of_interest",
+                        "transit_station"
+                    ]
+                },
+                {
+                    "long_name": "Greenwood Village",
+                    "short_name": "Greenwood Village",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Arapahoe County",
+                    "short_name": "Arapahoe County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Colorado",
+                    "short_name": "CO",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "80121",
+                    "short_name": "80121",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "S University Blvd & Belleview Ave, Greenwood Village, CO 80121, USA",
+            "geometry": {
+                "location": {
+                    "lat": 39.623507,
+                    "lng": -104.959995
+                },
+                "location_type": "GEOMETRIC_CENTER",
+                "viewport": {
+                    "northeast": {
+                        "lat": 39.62485598029149,
+                        "lng": -104.9586460197085
+                    },
+                    "southwest": {
+                        "lat": 39.6221580197085,
+                        "lng": -104.9613439802915
+                    }
+                }
+            },
+            "place_id": "ChIJJ2T2Ud6AbIcRLz1Yj6QAVi8",
+            "types": [
+                "establishment",
+                "point_of_interest",
+                "transit_station"
+            ]
+        }
+    ],
+    "status": "OK"
+}

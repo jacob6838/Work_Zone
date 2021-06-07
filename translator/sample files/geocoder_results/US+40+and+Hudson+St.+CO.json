@@ -1,0 +1,85 @@
+{
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "U.S. 40 & Hudson Street",
+                    "short_name": "US-40 & Hudson St",
+                    "types": [
+                        "intersection"
+                    ]
+                },
+                {
+                    "long_name": "Northeast",
+                    "short_name": "Northeast",
+                    "types": [
+                        "neighborhood",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Denver",
+                    "short_name": "Denver",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Denver County",
+                    "short_name": "Denver County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Colorado",
+                    "short_name": "CO",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "80220",
+                    "short_name": "80220",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "US-40 & Hudson St, Denver, CO 80220, USA",
+            "geometry": {
+                "location": {
+                    "lat": 39.7402034,
+                    "lng": -104.923447
+                },
+                "location_type": "GEOMETRIC_CENTER",
+                "viewport": {
+                    "northeast": {
+                        "lat": 39.7415523802915,
+                        "lng": -104.9220980197085
+                    },
+                    "southwest": {
+                        "lat": 39.7388544197085,
+                        "lng": -104.9247959802915
+                    }
+                }
+            },
+            "place_id": "EihVUy00MCAmIEh1ZHNvbiBTdCwgRGVudmVyLCBDTyA4MDIyMCwgVVNBImYiZAoUChIJpeBD6A58bIcR99gBApgFn6YSFAoSCaXgQ-gOfGyHEffYAQKYBZ-mGhQKEgkFxzNhtI3ChxH3VJL6rxCp2BoUChIJGXOrBQl8bIcR6ki_6foXe1UiCg2y368XFdrzdcE",
+            "types": [
+                "intersection"
+            ]
+        }
+    ],
+    "status": "OK"
+}

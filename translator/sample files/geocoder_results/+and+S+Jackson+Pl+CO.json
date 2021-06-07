@@ -1,0 +1,64 @@
+{
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "South Jackson Street",
+                    "short_name": "S Jackson St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Colorado",
+                    "short_name": "CO",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                }
+            ],
+            "formatted_address": "S Jackson St, Colorado, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 39.7164121,
+                        "lng": -104.9388853
+                    },
+                    "southwest": {
+                        "lat": 39.6481008,
+                        "lng": -104.9447261
+                    }
+                },
+                "location": {
+                    "lat": 39.6827835,
+                    "lng": -104.9430142
+                },
+                "location_type": "GEOMETRIC_CENTER",
+                "viewport": {
+                    "northeast": {
+                        "lat": 39.7164121,
+                        "lng": -104.9388853
+                    },
+                    "southwest": {
+                        "lat": 39.6481008,
+                        "lng": -104.9447261
+                    }
+                }
+            },
+            "place_id": "ChIJs5IzRwt-bIcRQh2z9E2OIB8",
+            "types": [
+                "route"
+            ]
+        }
+    ],
+    "status": "OK"
+}

@@ -1,0 +1,84 @@
+{
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "225",
+                    "short_name": "225",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Interstate 70",
+                    "short_name": "I-70",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Gypsum",
+                    "short_name": "Gypsum",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Eagle County",
+                    "short_name": "Eagle County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Colorado",
+                    "short_name": "CO",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "81637",
+                    "short_name": "81637",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "225 I-70, Gypsum, CO 81637, USA",
+            "geometry": {
+                "location": {
+                    "lat": 39.6258937,
+                    "lng": -107.1058559
+                },
+                "location_type": "RANGE_INTERPOLATED",
+                "viewport": {
+                    "northeast": {
+                        "lat": 39.6272426802915,
+                        "lng": -107.1045069197085
+                    },
+                    "southwest": {
+                        "lat": 39.6245447197085,
+                        "lng": -107.1072048802915
+                    }
+                }
+            },
+            "place_id": "Eh8yMjUgSS03MCwgR3lwc3VtLCBDTyA4MTYzNywgVVNBIhsSGQoUChIJxbXw6jOjQYcRF5Qk2g8mDnQQ4QE",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "status": "OK"
+}

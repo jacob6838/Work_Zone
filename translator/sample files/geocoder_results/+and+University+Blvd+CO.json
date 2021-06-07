@@ -1,0 +1,64 @@
+{
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "South University Boulevard",
+                    "short_name": "S University Blvd",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Colorado",
+                    "short_name": "CO",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                }
+            ],
+            "formatted_address": "S University Blvd, Colorado, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 39.7228267,
+                        "lng": -104.9096846
+                    },
+                    "southwest": {
+                        "lat": 39.5324464,
+                        "lng": -104.9622498
+                    }
+                },
+                "location": {
+                    "lat": 39.6291999,
+                    "lng": -104.9596293
+                },
+                "location_type": "GEOMETRIC_CENTER",
+                "viewport": {
+                    "northeast": {
+                        "lat": 39.7228267,
+                        "lng": -104.9096846
+                    },
+                    "southwest": {
+                        "lat": 39.5324464,
+                        "lng": -104.9622498
+                    }
+                }
+            },
+            "place_id": "ChIJjQsJoyyHbIcReUvbrOdwF1U",
+            "types": [
+                "route"
+            ]
+        }
+    ],
+    "status": "OK"
+}

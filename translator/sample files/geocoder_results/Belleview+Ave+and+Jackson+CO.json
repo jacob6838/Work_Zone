@@ -1,0 +1,186 @@
+{
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "Belleview Avenue",
+                    "short_name": "Belleview Ave",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Kansas City",
+                    "short_name": "KCMO",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Kaw Township",
+                    "short_name": "Kaw Township",
+                    "types": [
+                        "administrative_area_level_3",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Jackson County",
+                    "short_name": "Jackson County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Missouri",
+                    "short_name": "MO",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                }
+            ],
+            "formatted_address": "Belleview Ave, Kansas City, MO, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 39.0509964,
+                        "lng": -94.5972709
+                    },
+                    "southwest": {
+                        "lat": 39.0378936,
+                        "lng": -94.5998517
+                    }
+                },
+                "location": {
+                    "lat": 39.044135,
+                    "lng": -94.5984326
+                },
+                "location_type": "GEOMETRIC_CENTER",
+                "viewport": {
+                    "northeast": {
+                        "lat": 39.0509964,
+                        "lng": -94.59721231970849
+                    },
+                    "southwest": {
+                        "lat": 39.0378936,
+                        "lng": -94.5999102802915
+                    }
+                }
+            },
+            "place_id": "ChIJewnlH8rvwIcRGwFRp5mz3Kc",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "address_components": [
+                {
+                    "long_name": "Belleview Avenue",
+                    "short_name": "Belleview Ave",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Downtown Kansas City",
+                    "short_name": "Downtown Kansas City",
+                    "types": [
+                        "neighborhood",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Kansas City",
+                    "short_name": "KCMO",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Kaw Township",
+                    "short_name": "Kaw Township",
+                    "types": [
+                        "administrative_area_level_3",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Jackson County",
+                    "short_name": "Jackson County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Missouri",
+                    "short_name": "MO",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "64108",
+                    "short_name": "64108",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "Belleview Ave, Kansas City, MO 64108, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 39.0965817,
+                        "lng": -94.5934
+                    },
+                    "southwest": {
+                        "lat": 39.071793,
+                        "lng": -94.5985613
+                    }
+                },
+                "location": {
+                    "lat": 39.0842874,
+                    "lng": -94.5961652
+                },
+                "location_type": "GEOMETRIC_CENTER",
+                "viewport": {
+                    "northeast": {
+                        "lat": 39.0965817,
+                        "lng": -94.5934
+                    },
+                    "southwest": {
+                        "lat": 39.071793,
+                        "lng": -94.5985613
+                    }
+                }
+            },
+            "place_id": "ChIJs0WO2knwwIcRJFC3y-K37lU",
+            "types": [
+                "route"
+            ]
+        }
+    ],
+    "status": "OK"
+}

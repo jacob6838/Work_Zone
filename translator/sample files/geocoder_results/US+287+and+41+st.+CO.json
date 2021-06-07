@@ -1,0 +1,57 @@
+{
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "Highway 287",
+                    "short_name": "US-287",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                }
+            ],
+            "formatted_address": "US-287, United States",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 47.8308283,
+                        "lng": -93.9266502
+                    },
+                    "southwest": {
+                        "lat": 29.89210319999999,
+                        "lng": -112.4705712
+                    }
+                },
+                "location": {
+                    "lat": 38.8778026,
+                    "lng": -103.1311617
+                },
+                "location_type": "GEOMETRIC_CENTER",
+                "viewport": {
+                    "northeast": {
+                        "lat": 47.8308283,
+                        "lng": -93.9266502
+                    },
+                    "southwest": {
+                        "lat": 29.89210319999999,
+                        "lng": -112.4705712
+                    }
+                }
+            },
+            "partial_match": true,
+            "place_id": "ChIJg6WR8toUDYcRwwGWqxBSdww",
+            "types": [
+                "route"
+            ]
+        }
+    ],
+    "status": "OK"
+}

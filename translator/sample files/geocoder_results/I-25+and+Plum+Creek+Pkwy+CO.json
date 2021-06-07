@@ -1,0 +1,90 @@
+{
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "1100",
+                    "short_name": "1100",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Plum Creek Parkway",
+                    "short_name": "Plum Creek Pkwy",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Castle Rock",
+                    "short_name": "Castle Rock",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Douglas County",
+                    "short_name": "Douglas County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Colorado",
+                    "short_name": "CO",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "80104",
+                    "short_name": "80104",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "1100 Plum Creek Pkwy, Castle Rock, CO 80104, USA",
+            "geometry": {
+                "location": {
+                    "lat": 39.3588108,
+                    "lng": -104.8515272
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 39.3601597802915,
+                        "lng": -104.8501782197085
+                    },
+                    "southwest": {
+                        "lat": 39.3574618197085,
+                        "lng": -104.8528761802915
+                    }
+                }
+            },
+            "place_id": "ChIJPam_fnqkbIcRZm-85onqgRs",
+            "plus_code": {
+                "compound_code": "945X+G9 Castle Rock, CO, USA",
+                "global_code": "85FQ945X+G9"
+            },
+            "types": [
+                "establishment",
+                "point_of_interest",
+                "real_estate_agency"
+            ]
+        }
+    ],
+    "status": "OK"
+}

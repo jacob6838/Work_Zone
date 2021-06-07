@@ -1,0 +1,85 @@
+{
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "Colorado 88 & West Kentucky Avenue",
+                    "short_name": "CO-88 & W Kentucky Ave",
+                    "types": [
+                        "intersection"
+                    ]
+                },
+                {
+                    "long_name": "West",
+                    "short_name": "West",
+                    "types": [
+                        "neighborhood",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Denver",
+                    "short_name": "Denver",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Denver County",
+                    "short_name": "Denver County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Colorado",
+                    "short_name": "CO",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "80219",
+                    "short_name": "80219",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "CO-88 & W Kentucky Ave, Denver, CO 80219, USA",
+            "geometry": {
+                "location": {
+                    "lat": 39.7004151,
+                    "lng": -105.0250247
+                },
+                "location_type": "GEOMETRIC_CENTER",
+                "viewport": {
+                    "northeast": {
+                        "lat": 39.7017640802915,
+                        "lng": -105.0236757197085
+                    },
+                    "southwest": {
+                        "lat": 39.6990661197085,
+                        "lng": -105.0263736802915
+                    }
+                }
+            },
+            "place_id": "Ei1DTy04OCAmIFcgS2VudHVja3kgQXZlLCBEZW52ZXIsIENPIDgwMjE5LCBVU0EiZiJkChQKEgn5ilV1e39shxH8jtHz9dZXfRIUChIJ-YpVdXt_bIcR_I7R8_XWV30aFAoSCSE4wSJgh2yHEU8qlfuKprizGhQKEgmnz2Cn74BrhxECFEbGMrWyjCIKDXfNqRcV-XNmwQ",
+            "types": [
+                "intersection"
+            ]
+        }
+    ],
+    "status": "OK"
+}

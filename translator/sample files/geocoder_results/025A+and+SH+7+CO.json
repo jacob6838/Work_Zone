@@ -1,0 +1,65 @@
+{
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "Colorado 7",
+                    "short_name": "CO-7",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Colorado",
+                    "short_name": "CO",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                }
+            ],
+            "formatted_address": "CO-7, Colorado, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 40.3906737,
+                        "lng": -104.7287607
+                    },
+                    "southwest": {
+                        "lat": 39.9458306,
+                        "lng": -105.5474373
+                    }
+                },
+                "location": {
+                    "lat": 40.1988475,
+                    "lng": -105.2492646
+                },
+                "location_type": "GEOMETRIC_CENTER",
+                "viewport": {
+                    "northeast": {
+                        "lat": 40.3906737,
+                        "lng": -104.7287607
+                    },
+                    "southwest": {
+                        "lat": 39.9458306,
+                        "lng": -105.5474373
+                    }
+                }
+            },
+            "partial_match": true,
+            "place_id": "ChIJUxCMCen7a4cR37fgDpHC1t0",
+            "types": [
+                "route"
+            ]
+        }
+    ],
+    "status": "OK"
+}

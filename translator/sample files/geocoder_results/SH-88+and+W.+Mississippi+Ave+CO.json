@@ -1,0 +1,85 @@
+{
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "Colorado 88 & West Mississippi Avenue",
+                    "short_name": "CO-88 & W Mississippi Ave",
+                    "types": [
+                        "intersection"
+                    ]
+                },
+                {
+                    "long_name": "Mar Lee",
+                    "short_name": "Mar Lee",
+                    "types": [
+                        "neighborhood",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Denver",
+                    "short_name": "Denver",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Denver County",
+                    "short_name": "Denver County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Colorado",
+                    "short_name": "CO",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "80219",
+                    "short_name": "80219",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "CO-88 & W Mississippi Ave, Denver, CO 80219, USA",
+            "geometry": {
+                "location": {
+                    "lat": 39.6967484,
+                    "lng": -105.02501
+                },
+                "location_type": "GEOMETRIC_CENTER",
+                "viewport": {
+                    "northeast": {
+                        "lat": 39.6980973802915,
+                        "lng": -105.0236610197085
+                    },
+                    "southwest": {
+                        "lat": 39.6953994197085,
+                        "lng": -105.0263589802915
+                    }
+                }
+            },
+            "place_id": "EjBDTy04OCAmIFcgTWlzc2lzc2lwcGkgQXZlLCBEZW52ZXIsIENPIDgwMjE5LCBVU0EiZiJkChQKEgmXuJVqeX9shxE5LGW7hUzxXBIUChIJl7iVanl_bIcROSxlu4VM8VwaFAoSCSE4wSJgh2yHEU8qlfuKprizGhQKEglbRy0m8IBrhxHelFNaoAyttyIKDTw-qRcVjHRmwQ",
+            "types": [
+                "intersection"
+            ]
+        }
+    ],
+    "status": "OK"
+}

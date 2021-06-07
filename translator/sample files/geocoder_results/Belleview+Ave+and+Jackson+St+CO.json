@@ -1,0 +1,97 @@
+{
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "4400",
+                    "short_name": "4400",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "South Monaco Street",
+                    "short_name": "S Monaco St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Southeast",
+                    "short_name": "Southeast",
+                    "types": [
+                        "neighborhood",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Denver",
+                    "short_name": "Denver",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Denver County",
+                    "short_name": "Denver County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Colorado",
+                    "short_name": "CO",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "80237",
+                    "short_name": "80237",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "4400 S Monaco St, Denver, CO 80237, USA",
+            "geometry": {
+                "location": {
+                    "lat": 39.6335176,
+                    "lng": -104.9097302
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 39.63486658029149,
+                        "lng": -104.9083812197085
+                    },
+                    "southwest": {
+                        "lat": 39.6321686197085,
+                        "lng": -104.9110791802915
+                    }
+                }
+            },
+            "place_id": "ChIJ2wMebRmHbIcRxBZfVHq-XL0",
+            "plus_code": {
+                "compound_code": "J3MR+C4 Denver, CO, USA",
+                "global_code": "85FQJ3MR+C4"
+            },
+            "types": [
+                "establishment",
+                "point_of_interest"
+            ]
+        }
+    ],
+    "status": "OK"
+}

@@ -1,0 +1,133 @@
+{
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "Interstate 70",
+                    "short_name": "I-70",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                }
+            ],
+            "formatted_address": "I-70, United States",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 40.2597846,
+                        "lng": -76.6874701
+                    },
+                    "southwest": {
+                        "lat": 38.5027188,
+                        "lng": -112.6198649
+                    }
+                },
+                "location": {
+                    "lat": 39.1140115,
+                    "lng": -94.6164282
+                },
+                "location_type": "GEOMETRIC_CENTER",
+                "viewport": {
+                    "northeast": {
+                        "lat": 40.2597846,
+                        "lng": -76.6874701
+                    },
+                    "southwest": {
+                        "lat": 38.5027188,
+                        "lng": -112.6198649
+                    }
+                }
+            },
+            "partial_match": true,
+            "place_id": "ChIJPZMBta9cwIcRapDEB9MDLIk",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "address_components": [
+                {
+                    "long_name": "Steele Street",
+                    "short_name": "Steele St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Denver",
+                    "short_name": "Denver",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Denver County",
+                    "short_name": "Denver County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Colorado",
+                    "short_name": "CO",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                }
+            ],
+            "formatted_address": "Steele St, Denver, CO, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 39.7948318,
+                        "lng": -104.9447261
+                    },
+                    "southwest": {
+                        "lat": 39.71526250000001,
+                        "lng": -104.9534877
+                    }
+                },
+                "location": {
+                    "lat": 39.7553638,
+                    "lng": -104.9499194
+                },
+                "location_type": "GEOMETRIC_CENTER",
+                "viewport": {
+                    "northeast": {
+                        "lat": 39.7948318,
+                        "lng": -104.9447261
+                    },
+                    "southwest": {
+                        "lat": 39.71526250000001,
+                        "lng": -104.9534877
+                    }
+                }
+            },
+            "partial_match": true,
+            "place_id": "ChIJRSUVL0V5bIcRjpGdh3aM_Fg",
+            "types": [
+                "route"
+            ]
+        }
+    ],
+    "status": "OK"
+}

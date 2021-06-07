@@ -1,0 +1,98 @@
+{
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "12750",
+                    "short_name": "12750",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "West Alameda Parkway",
+                    "short_name": "W Alameda Pkwy",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Foothills",
+                    "short_name": "Foothills",
+                    "types": [
+                        "neighborhood",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Lakewood",
+                    "short_name": "Lakewood",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Jefferson County",
+                    "short_name": "Jefferson County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Colorado",
+                    "short_name": "CO",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "80228",
+                    "short_name": "80228",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "12750 W Alameda Pkwy, Lakewood, CO 80228, USA",
+            "geometry": {
+                "location": {
+                    "lat": 39.7015738,
+                    "lng": -105.13887
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 39.7029227802915,
+                        "lng": -105.1375210197085
+                    },
+                    "southwest": {
+                        "lat": 39.7002248197085,
+                        "lng": -105.1402189802915
+                    }
+                }
+            },
+            "place_id": "ChIJSZdjxuiDa4cRR0YwA_XkIh8",
+            "plus_code": {
+                "compound_code": "PV26+JF Lakewood, CO, USA",
+                "global_code": "85FPPV26+JF"
+            },
+            "types": [
+                "establishment",
+                "point_of_interest",
+                "storage"
+            ]
+        }
+    ],
+    "status": "OK"
+}

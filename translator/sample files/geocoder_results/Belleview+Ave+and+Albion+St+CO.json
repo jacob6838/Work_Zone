@@ -1,0 +1,77 @@
+{
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "South Albion Street & East Belleview Avenue",
+                    "short_name": "S Albion St & E Belleview Ave",
+                    "types": [
+                        "intersection"
+                    ]
+                },
+                {
+                    "long_name": "Greenwood Village",
+                    "short_name": "Greenwood Village",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Arapahoe County",
+                    "short_name": "Arapahoe County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Colorado",
+                    "short_name": "CO",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "80121",
+                    "short_name": "80121",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "S Albion St & E Belleview Ave, Greenwood Village, CO 80121, USA",
+            "geometry": {
+                "location": {
+                    "lat": 39.6240094,
+                    "lng": -104.939683
+                },
+                "location_type": "GEOMETRIC_CENTER",
+                "viewport": {
+                    "northeast": {
+                        "lat": 39.6253583802915,
+                        "lng": -104.9383340197085
+                    },
+                    "southwest": {
+                        "lat": 39.6226604197085,
+                        "lng": -104.9410319802915
+                    }
+                }
+            },
+            "place_id": "Ej9TIEFsYmlvbiBTdCAmIEUgQmVsbGV2aWV3IEF2ZSwgR3JlZW53b29kIFZpbGxhZ2UsIENPIDgwMTIxLCBVU0EiZiJkChQKEgmfiG5F1YBshxHwntcgqod8FxIUChIJn4huRdWAbIcR8J7XIKqHfBcaFAoSCTNDddGsgGyHEfByIfTAZi_8GhQKEgkxGE4734ZshxGtF6ZhTjoBAiIKDd4knhcVonlzwQ",
+            "types": [
+                "intersection"
+            ]
+        }
+    ],
+    "status": "OK"
+}

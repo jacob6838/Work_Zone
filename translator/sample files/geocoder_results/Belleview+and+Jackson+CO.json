@@ -1,0 +1,87 @@
+{
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "2767",
+                    "short_name": "2767",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "West Belleview Avenue",
+                    "short_name": "W Belleview Ave",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Littleton",
+                    "short_name": "Littleton",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Arapahoe County",
+                    "short_name": "Arapahoe County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Colorado",
+                    "short_name": "CO",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "80123",
+                    "short_name": "80123",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "2767 W Belleview Ave, Littleton, CO 80123, USA",
+            "geometry": {
+                "location": {
+                    "lat": 39.6251249,
+                    "lng": -105.0215559
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 39.6264738802915,
+                        "lng": -105.0202069197085
+                    },
+                    "southwest": {
+                        "lat": 39.6237759197085,
+                        "lng": -105.0229048802915
+                    }
+                }
+            },
+            "place_id": "ChIJx1VcRQOBbIcRgz_51xjMB9k",
+            "types": [
+                "accounting",
+                "establishment",
+                "finance",
+                "point_of_interest"
+            ]
+        }
+    ],
+    "status": "OK"
+}

@@ -1,0 +1,64 @@
+{
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "West Kentucky Avenue",
+                    "short_name": "W Kentucky Ave",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Colorado",
+                    "short_name": "CO",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                }
+            ],
+            "formatted_address": "W Kentucky Ave, Colorado, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 39.7105168,
+                        "lng": -105.0002242
+                    },
+                    "southwest": {
+                        "lat": 39.6934304,
+                        "lng": -105.1317431
+                    }
+                },
+                "location": {
+                    "lat": 39.7001126,
+                    "lng": -105.0681328
+                },
+                "location_type": "GEOMETRIC_CENTER",
+                "viewport": {
+                    "northeast": {
+                        "lat": 39.7105168,
+                        "lng": -105.0002242
+                    },
+                    "southwest": {
+                        "lat": 39.6934304,
+                        "lng": -105.1317431
+                    }
+                }
+            },
+            "place_id": "ChIJp89gp--Aa4cRAhRGxjK1sow",
+            "types": [
+                "route"
+            ]
+        }
+    ],
+    "status": "OK"
+}

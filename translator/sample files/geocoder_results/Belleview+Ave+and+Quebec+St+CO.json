@@ -1,0 +1,85 @@
+{
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "South Quebec Street & East Belleview Avenue",
+                    "short_name": "S Quebec St & E Belleview Ave",
+                    "types": [
+                        "intersection"
+                    ]
+                },
+                {
+                    "long_name": "Southeast",
+                    "short_name": "Southeast",
+                    "types": [
+                        "neighborhood",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Denver",
+                    "short_name": "Denver",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Denver County",
+                    "short_name": "Denver County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Colorado",
+                    "short_name": "CO",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "80237",
+                    "short_name": "80237",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "S Quebec St & E Belleview Ave, Denver, CO 80237, USA",
+            "geometry": {
+                "location": {
+                    "lat": 39.6240115,
+                    "lng": -104.9041141
+                },
+                "location_type": "GEOMETRIC_CENTER",
+                "viewport": {
+                    "northeast": {
+                        "lat": 39.6253604802915,
+                        "lng": -104.9027651197085
+                    },
+                    "southwest": {
+                        "lat": 39.6226625197085,
+                        "lng": -104.9054630802915
+                    }
+                }
+            },
+            "place_id": "EjRTIFF1ZWJlYyBTdCAmIEUgQmVsbGV2aWV3IEF2ZSwgRGVudmVyLCBDTyA4MDIzNywgVVNBImYiZAoUChIJXRuDS-OGbIcR893D0s5j0AgSFAoSCV0bg0vjhmyHEfPdw9LOY9AIGhQKEgmJ7dDe5YZshxFnjyO7wSxEXBoUChIJMRhOO9-GbIcRrRemYU46AQIiCg3zJJ4XFQvneME",
+            "types": [
+                "intersection"
+            ]
+        }
+    ],
+    "status": "OK"
+}

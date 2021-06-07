@@ -1,0 +1,56 @@
+{
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "U.S. 34",
+                    "short_name": "US-34",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                }
+            ],
+            "formatted_address": "US-34, United States",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 41.89968289999999,
+                        "lng": -87.77633329999999
+                    },
+                    "southwest": {
+                        "lat": 39.9312011,
+                        "lng": -105.9699878
+                    }
+                },
+                "location": {
+                    "lat": 40.40697790000001,
+                    "lng": -104.9945149
+                },
+                "location_type": "GEOMETRIC_CENTER",
+                "viewport": {
+                    "northeast": {
+                        "lat": 41.2082506,
+                        "lng": -104.1932422
+                    },
+                    "southwest": {
+                        "lat": 39.6057052,
+                        "lng": -105.7957876
+                    }
+                }
+            },
+            "place_id": "ChIJrwDkn4HPlocRnMnI3Y2Rtd8",
+            "types": [
+                "route"
+            ]
+        }
+    ],
+    "status": "OK"
+}

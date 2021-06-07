@@ -1,0 +1,78 @@
+{
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "East Belleview Avenue & Glenmoor Drive",
+                    "short_name": "E Belleview Ave & Glenmoor Dr",
+                    "types": [
+                        "intersection"
+                    ]
+                },
+                {
+                    "long_name": "Cherry Hills Village",
+                    "short_name": "Cherry Hills Village",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Arapahoe County",
+                    "short_name": "Arapahoe County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Colorado",
+                    "short_name": "CO",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "80113",
+                    "short_name": "80113",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "E Belleview Ave & Glenmoor Dr, Cherry Hills Village, CO 80113, USA",
+            "geometry": {
+                "location": {
+                    "lat": 39.6241243,
+                    "lng": -104.9411282
+                },
+                "location_type": "GEOMETRIC_CENTER",
+                "viewport": {
+                    "northeast": {
+                        "lat": 39.6254732802915,
+                        "lng": -104.9397792197085
+                    },
+                    "southwest": {
+                        "lat": 39.6227753197085,
+                        "lng": -104.9424771802915
+                    }
+                }
+            },
+            "partial_match": true,
+            "place_id": "EkJFIEJlbGxldmlldyBBdmUgJiBHbGVubW9vciBEciwgQ2hlcnJ5IEhpbGxzIFZpbGxhZ2UsIENPIDgwMTEzLCBVU0EiZiJkChQKEgk_3w5y1YBshxGdC_2H9bwWSRIUChIJP98OctWAbIcRnQv9h_W8FkkaFAoSCTEYTjvfhmyHEa0XpmFOOgECGhQKEgndQnOz1oBshxHiFa7Sg-p7ICIKDVspnhcVLkFzwQ",
+            "types": [
+                "intersection"
+            ]
+        }
+    ],
+    "status": "OK"
+}

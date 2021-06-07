@@ -1,0 +1,57 @@
+{
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "U.S. 40",
+                    "short_name": "US-40",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                }
+            ],
+            "formatted_address": "US-40, United States",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 40.7565988,
+                        "lng": -74.4525627
+                    },
+                    "southwest": {
+                        "lat": 38.5686601,
+                        "lng": -111.5229817
+                    }
+                },
+                "location": {
+                    "lat": 39.0018994,
+                    "lng": -92.7336228
+                },
+                "location_type": "GEOMETRIC_CENTER",
+                "viewport": {
+                    "northeast": {
+                        "lat": 40.7565988,
+                        "lng": -74.4525627
+                    },
+                    "southwest": {
+                        "lat": 38.5686601,
+                        "lng": -111.5229817
+                    }
+                }
+            },
+            "partial_match": true,
+            "place_id": "ChIJBcczYbSNwocR91SS-q8Qqdg",
+            "types": [
+                "route"
+            ]
+        }
+    ],
+    "status": "OK"
+}
